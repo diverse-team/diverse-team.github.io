@@ -1,6 +1,6 @@
 = SM@RT web site
 :icons: font
-:hugo: https://github.com/smart-researchteam/smart-researchteam.github.io.git[Hugo]
+:hugo: https://github.com/diverse-team/diverse-team.github.io.git[Hugo]
 
 ifdef::env-github[]
 :tip-caption: :bulb:
