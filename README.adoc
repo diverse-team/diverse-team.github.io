@@ -1,4 +1,4 @@
-= SM@RT web site
+= DiverSE Team web site
 :icons: font
 :hugo: https://github.com/diverse-team/diverse-team.github.io.git[Hugo]
 
