@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Yanone Kaffeesatz"
+
+# Optional Google font URL
+google_fonts = "Yanone+Kaffeesatz:400,700|Fauna+One"
+
+# Font families
+heading_font = "Yanone Kaffeesatz"
+body_font = "Yanone Kaffeesatz"
+nav_font = "Yanone Kaffeesatz"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"

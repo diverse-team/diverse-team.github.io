@@ -1,0 +1,37 @@
+= SM@RT web site
+:icons: font
+:hugo: https://github.com/smart-researchteam/smart-researchteam.github.io.git[Hugo]
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+This branch hosts the team web pages
+
+WARNING: Work in progress!!
+
+Based on {hugo}.
+
+== To add content
+
+Students::
+
+- Go to the `content/students` folder and add a `.md+` file for each of your students.
+- Add also a `[[team.students]]` item in the `content/team.md` file
+
+NOTE: This is temporary, DRY principle should be applied everywhere soon ;-)
+
+Pictures::
+
+- upload your picture in the `static/img/team/` folder (default pix is `portrait.jpg`)
+
+Other content (project, publication, talk)::
+
+- Go to the `content/xxx` folder (e.g., `content/talk`)
+- Follow the existing naming rule (if any) to create a new entry file (e.g., `20180119-CERFACS.md`),
+by copying an existing one to get the attributes to fill
+

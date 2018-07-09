@@ -1,0 +1,79 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Students widget -->
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-xs-12 col-md-8">
+    {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+    {{ $filter_default := default (int $page.Params.filter_default) 0 }}
+    {{ with $page.Params.filter }}
+    <span class="hidden default-project-filter">{{ (index $page.Params.filter ($filter_default)).tag }}</span>
+    {{ end }}
+
+    {{ if gt (len $page.Params.filter) 1 }}
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group">
+            {{ range $idx, $item := $page.Params.filter }}
+              <a href="#" data-filter="{{ .tag }}" class="btn btn-primary btn-large{{ if eq $idx $filter_default }} active{{ end }}">{{ .name }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+
+    {{ if eq $page.Params.view 0 }}
+
+    <div class="row isotope projects-container">
+        {{ range where $.Data.Pages "Type" "student" }}
+        <div class="col-md-12 project-item isotope-item {{ delimit .Params.tags " " }}" itemscope itemtype="http://schema.org/CreativeWork">
+          <i class="fa fa-graduation-cap pub-icon" aria-hidden="true"></i>
+          <span class="project-title">
+              {{ with .Params.external_link }}<a href="{{ . }}" target="_blank">{{ end }}
+            {{ .Params.name }}
+            {{ with .Params.external_link }}</a>{{ end }}
+            {{ with .Params.title }} "{{ . | markdownify}}" {{ end }}
+            {{ if .Params.soutenance }}
+              , {{ dateFormat "Jan 2, 2006" .Params.soutenance | markdownify }}.
+            {{ else }}
+              , since {{ dateFormat "Jan, 2006" .Params.from | markdownify }}.
+            {{ end }}
+            {{ with .Params.note }} {{ . | markdownify}}. {{ end }}
+            {{ with .Params.now }} Current position: {{ . | markdownify}}. {{ end }}
+          </span>
+        </div>
+        {{ end }}
+    </div>
+
+    {{ else }}
+
+    <div class="row isotope projects-container">
+
+      {{ range $student := where $.Data.Pages "Type" "student" }}
+      {{ $.Scratch.Set "student_url" $student.Permalink }}
+      {{ $.Scratch.Set "target" "" }}
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item {{ delimit .Params.tags " " }}">
+        <div class="card">
+          <div class="card-text">
+            <h4><a href="{{ $.Scratch.Get "student_url" }}" {{ $.Scratch.Get "target" | safeHTMLAttr }}>{{ .Name }}</a></h4>
+            <div class="card-desription">
+              {{ with $student.Params.title }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+
+    </div>
+
+    {{ end }}
+
+  </div>
+</div>
