@@ -1,3 +1,8 @@
+# Build all branches, *including* gh-pages:
+branches:
+  only:
+  - gh-pages-edit
+
 # Install the apt prerequisites
 addons:
   apt:
