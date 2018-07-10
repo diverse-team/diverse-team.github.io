@@ -167,7 +167,7 @@ weight = 10
     worksAt = "UT2J, Toulouse"
 
   [[team.students]]
-    img = "portrait.jpg"
+    img = "manu.JPG"
     name = "Manuel Leduc"
     position = "Pôle d'Excellence Cyber Grant"
     worksAt = "U. of Rennes"
