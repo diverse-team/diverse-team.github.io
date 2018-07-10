@@ -2,13 +2,13 @@
 addons:
   apt:
     packages:
-      - hugo
+      - python-pygments
 # Clean and don't fail
 install:
   - rm -rf public || exit 0
 # Build the website
 script:
-  - binaries/hugo --theme=fresh
+  - tooling/hugo
   - echo 'www.diverse-team.fr' > public/CNAME
 
 # Deploy to GitHub pages
