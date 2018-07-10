@@ -184,4 +184,13 @@ weight = 10
     position = "Ph.D. [CIFRE](http://okwind.fr) OKWind"
     worksAt = "U. of Rennes"
 
+  [[team.students]]
+    img = "mouline.jpg"
+    name = "Ludovic Mouline"
+    position = "Ph.D."
+    worksAt = "U. of Luxembourg / U. of Rennes"
+    social = [
+      ["fa-home", "https://wwwen.uni.lu/snt/people/ludovic_mouline"],
+    ]
+
 +++
