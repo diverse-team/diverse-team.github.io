@@ -11,6 +11,6 @@ list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/jmb-avatar.png"
+image = ""
 caption = ""
 +++

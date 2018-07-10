@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+
+{{ $page := . }}
+
+<div class="universal-wrapper">
+
+<!-- Projects widget -->
+<div class="row">
+   <div class="col-xs-12 col-md-12">
+  
+    <div class="row isotope projects-container">
+        {{ range where $.Data.Pages "Type" "project" }}
+        <div class="col-md-12 project-item isotope-item {{ delimit .Params.tags " " }}" itemscope itemtype="http://schema.org/CreativeWork">
+          <i class="fa fa-files-o pub-icon" aria-hidden="true"></i>
+
+          <span class="project-title">
+          {{ if .Content }}
+          <a href="{{ .Permalink }}">
+          {{ else }}
+            {{ with .Params.external_link }}<a href="{{ . }}" target="_blank">{{ end }}
+          {{ end }}
+          {{ .Title }}
+          {{ if .Content }}</a>{{ else }}{{ with .Params.external_link }}</a>{{ end }}{{ end }}
+          </span>
+          {{ with .Params.summary }}<p class="project-summary">{{ . | markdownify }}</p>{{ end }}
+        </div>
+        {{ end }}
+    </div>
+
+    
+  </div>
+</div>
+
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

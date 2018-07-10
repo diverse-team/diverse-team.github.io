@@ -3,7 +3,7 @@
 date = "2017-10-19"
 
 # Project title.
-title = "Faber Novel PhD grants"
+title = "Faber Novel PhD grant"
 
 # Project summary to display on homepage.
 summary = "In this project (2018-2021) with the FaberNovel company (ex ZenGularity) we investigate the abstraction to facilitate the developmennt of hypermedia API"
