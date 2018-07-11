@@ -184,8 +184,11 @@ weight = 10
   [[team.students]]
     img = "rio.jpeg"
     name = "Alexandre Rio"
-    position = "Ph.D. [CIFRE](http://okwind.fr) OKWind"
+    position = "Ph.D. CIFRE [OKWind](http://okwind.fr)"
     worksAt = "U. of Rennes"
+    social = [
+      ["fa-home", "https://alexrio.fr/"],
+    ]
 
   [[team.students]]
     img = "mouline.jpg"
