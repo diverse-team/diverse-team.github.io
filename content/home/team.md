@@ -73,6 +73,18 @@ weight = 10
     ]
 
   [[team.members]]
+    img = "arnaud.jpg"
+    name = "Arnaud Blouin"
+    position = "Associate Professor"
+    # For bio markdown and even multiline strings are available.
+    worksAt = "INSA Rennes"
+    social = [
+      ["fa-home", "http://people.irisa.fr/Arnaud.Blouin/"],
+      ["fa-twitter", "https://twitter.com/arnoblouin"],
+      ["fa-linkedin", "https://www.linkedin.com/in/arnaud-blouin-9666a8a/"]
+    ]
+
+  [[team.members]]
     img = "johann.jpg"
     name = "Johann Bourcier"
     position = "Associate Professor"
@@ -93,19 +105,6 @@ weight = 10
       ["fa-home", "http://combemale.fr/"],
       ["fa-twitter", "https://twitter.com/bcombemale"],
       ["fa-linkedin", "https://www.linkedin.com/in/combemale"]
-    ]
-
-
-  [[team.members]]
-    img = "arnaud.jpg"
-    name = "Arnaud Blouin"
-    position = "Associate Professor"
-    # For bio markdown and even multiline strings are available.
-    worksAt = "INSA Rennes"
-    social = [
-      ["fa-home", "http://people.irisa.fr/Arnaud.Blouin/"],
-      ["fa-twitter", "https://twitter.com/arnoblouin"],
-      ["fa-linkedin", "https://www.linkedin.com/in/arnaud-blouin-9666a8a/"]
     ]
 
       [[team.members]]
