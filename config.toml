@@ -1,5 +1,5 @@
 baseurl = "https://diverse-team.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "IRISA/INRIA DiverSE Team"
+title = "IRISA/Inria DiverSE Team"
 copyright = "&copy; 2018. Last update: 2018/02/06"
 theme = "academic"
 enableEmoji = true
@@ -36,16 +36,15 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "DiverSE Team"  # Theme 7
-   role = "IRISA Lab"                # Lab
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ 
-        { name = "CNRS", url = "http://www.cnrs.fr/" },
         { name = "Inria", url = "http://www.inria.fr" },
-        { name = "INSA Rennes", url = "https://www.insa-rennes.fr/" },
-        {name = "IRISA Laboratory", url = "https://www.irisa.fr" },
-        { name = "University of Rennes 1", url = "http://www.univ-rennes1.fr/" }
+        {name = "IRISA Lab", url = "https://www.irisa.fr" },
+        { name = "CNRS", url = "http://www.cnrs.fr/" },
+        { name = "University of Rennes 1", url = "http://www.univ-rennes1.fr/" },
+        { name = "INSA Rennes", url = "https://www.insa-rennes.fr/" }
 ]
 
   gravatar = false   # Get your avatar from Gravatar.com? (true/false)
