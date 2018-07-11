@@ -14,6 +14,11 @@ var blogs = [{
     author: "Olivier Barais",
     url : "http://olivier.barais.fr/feed.xml",
     prot : http
+  },
+  {
+    author: "Arnaud Blouin",
+    url : "https://torgen-engineering.blogspot.com/feeds/posts/default",
+    prot : https
   }
 ]
 
