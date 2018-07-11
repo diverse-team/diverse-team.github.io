@@ -171,6 +171,9 @@ weight = 10
     name = "Manuel Leduc"
     position = "Pôle d'Excellence Cyber Grant"
     worksAt = "U. of Rennes"
+    social = [
+      ["fa-home", "https://mleduc.xyz/blog/"],
+    ]
 
   [[team.students]]
     img = "portrait.jpg"
