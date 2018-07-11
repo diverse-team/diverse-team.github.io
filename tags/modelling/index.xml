@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelling on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/tags/modelling/</link>
+    <description>Recent content in Modelling on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keolis PhD grant</title>
+      <link>https://diverse-team.github.io/project/keolis/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/keolis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OKWind PhD grant</title>
+      <link>https://diverse-team.github.io/project/okwindcifre/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/okwindcifre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

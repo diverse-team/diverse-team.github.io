@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workbench on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/tags/workbench/</link>
+    <description>Recent content in Workbench on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/tags/workbench/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Faber Novel PhD grant</title>
+      <link>https://diverse-team.github.io/project/fabernovel/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/fabernovel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEMOC Initiative</title>
+      <link>https://diverse-team.github.io/project/gemoc/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/gemoc/</guid>
+      <description>The GEMOC initiative is an open and international initiative launched in 2013 that coordinate research partners worldwide to develop breakthrough software language engineering (SLE) approaches that support global software engineering through the use of multiple domain-specific languages. GEMOC members aim to provide effective SLE solutions to problems associated with the design and implementation of collaborative, interoperable and composable modeling languages. The GEMOC initiative aims to provide a framework that facilitates collaborative work on the challenges of using of multiple domain-specific languages in software development projects.</description>
+    </item>
+    
+    <item>
+      <title>GLOSE INRIA/SAFRAN Labs 2017-2021</title>
+      <link>https://diverse-team.github.io/project/glose/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/glose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICT COST Action MPM4CPS (IC1404) 2014-2018</title>
+      <link>https://diverse-team.github.io/project/mpm4cps/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/mpm4cps/</guid>
+      <description> Chair of the Action: Prof Hans Vangheluwe (BE) Dates: 2014-2018  </description>
+    </item>
+    
+    <item>
+      <title>Inria Associate Teams **ALE**: Agile Language Engineering (2017-2020)</title>
+      <link>https://diverse-team.github.io/project/ale/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/ale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

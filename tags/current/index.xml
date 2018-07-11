@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/tags/current/</link>
+    <description>Recent content in Current on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD Candidate</title>
+      <link>https://diverse-team.github.io/student/mouline/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/student/mouline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://diverse-team.github.io/student/coulon/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/student/coulon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://diverse-team.github.io/student/leduc/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/student/leduc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://diverse-team.github.io/student/leroy/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/student/leroy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

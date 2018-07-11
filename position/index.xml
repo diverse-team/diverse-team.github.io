@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Positions on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/position/</link>
+    <description>Recent content in Positions on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/position/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Internships</title>
+      <link>https://diverse-team.github.io/position/2018-m2/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/position/2018-m2/</guid>
+      <description>Internship postions are always opened. Please contact us diverse-job@inria.fr</description>
+    </item>
+    
+    <item>
+      <title>[PhD position]: DevOps et amplification de tests à partir de traces d&#39;exécutions côté serveur</title>
+      <link>https://diverse-team.github.io/position/phdfabernovel/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/position/phdfabernovel/</guid>
+      <description>Thèse CIFRE avec l’entreprise Fabernovel (développement Web, DevOps). Contacter diverse-job@inria.fr pour plus d’information sur le sujet. Rennes et Paris</description>
+    </item>
+    
+    <item>
+      <title>[PhD position]: Domain-Specific Debugging Application to High Performance Computing</title>
+      <link>https://diverse-team.github.io/position/phdcea/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/position/phdcea/</guid>
+      <description>co-advised with CEA/DAM, Rennes or Paris</description>
+    </item>
+    
+    <item>
+      <title>[PhD position]: Techniques de test front-end en DevOps</title>
+      <link>https://diverse-team.github.io/position/phdkereval/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/position/phdkereval/</guid>
+      <description>Thèse CIFRE avec l’entreprise Kereval, Rennes (test Logiciel, interface utilisateur, IA, DevOps).</description>
+    </item>
+    
+    <item>
+      <title>[Research Engineer]: Machine Learning and Software Variability</title>
+      <link>https://diverse-team.github.io/position/varyvary/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/position/varyvary/</guid>
+      <description>co-advised with CEA/DAM, Rennes or Paris</description>
+    </item>
+    
+  </channel>
+</rss>

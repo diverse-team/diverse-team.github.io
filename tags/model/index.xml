@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/tags/model/</link>
+    <description>Recent content in Model on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/tags/model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manuel Leduc published a new Blog Post on FeatureIDE Programmatically: Getting Started</title>
+      <link>https://diverse-team.github.io/post/20171128-manuel-leduc/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/post/20171128-manuel-leduc/</guid>
+      <description>Manuel Leduc published a new blog on FeatureIDE Programmatically: Getting Started</description>
+    </item>
+    
+  </channel>
+</rss>

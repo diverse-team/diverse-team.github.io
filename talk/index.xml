@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DiverSE Coffee: Marcel Heinz</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-marcel-heinz/</link>
+      <pubDate>Fri, 06 Jul 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-marcel-heinz/</guid>
+      <description>We are happy to receive Marcel Heinz as a guest speaker for our next DiverSE Coffee.
+Marcel is a research assistant in the software languages team at the University of Koblenz-Landau. He is working towards a Ph.D. His general interests are in Software Language Engineering, Modeling and Ontologies. His research focus is on assisting at the comprehension of software technologies.
+Enters Marcel: Wikipedia is a rich source for classifying entities in many domains.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee [Guillaume Becan]: The transfer of innovation, opportunities and challenges</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-guillaume-becan-the-transfer-of-innovation-opportunities-and-challenges/</link>
+      <pubDate>Thu, 05 Jul 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-guillaume-becan-the-transfer-of-innovation-opportunities-and-challenges/</guid>
+      <description>For our next DiverSE Coffee, and perhaps the last for this season, we&amp;rsquo;re glad to welcome back to the playing field, Guillaume Becan, a team veteran.
+Guillaume was doing his Ph.D. under the supervision of Benoit Baudry and Mathieu Acher. He was working in reverse engineering of variability models with a focus on product comparison matrices that abound on the web (e.g. in Wikipedia).
+Enters Guillaume:&amp;rdquo; After my Ph.D. at the DiverSE team, I joined the startup Mediego which was created in 2015 by Anne-Marie Kermarrec (senior researcher at Inria - Rennes).</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Interns&#39; Talkathon</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-interns-talkathon/</link>
+      <pubDate>Thu, 28 Jun 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-interns-talkathon/</guid>
+      <description>Be ready this Thursday for a one-hour talkathon given by DiverSE interns.  On the agenda :  Topic #1: Speakers: Enzo Menegaldo, 4th-year INSA Rennes, Comp. Sc. Dept., Arnaud Gohier, M1 CCN ISTIC Supervisor: Johann Bourcier &amp; Didier Vojtisek Title: Development of an Android application toward a personal data collection aware user   Topic #2: Speaker: DIDOT Gwendal, Master 1 in Computer Science Security, System, and Network. Supervisor: Arnaud Blouin.</description>
+    </item>
+    
+    <item>
+      <title>Mutation Testing for Java</title>
+      <link>https://diverse-team.github.io/talk/20180621-breizjug/</link>
+      <pubDate>Thu, 21 Jun 2018 18:30:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180621-breizjug/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee [Hugo Martin]: When configurable systems meet Machine learning</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-hugo-martin-when-configurable-systems-meet-machine-learning/</link>
+      <pubDate>Thu, 21 Jun 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-hugo-martin-when-configurable-systems-meet-machine-learning/</guid>
+      <description>Modern configurable systems are designed in a powerful and flexible way in order to meet the needs of more and more users at the expense of their clarity and user-friendliness. With huge configuration space, it is impossible to fully explore strong interactions between parameters that even experts struggle to find a configuration matching their needs. In order to help users to quickly find a configuration corresponding to their expectations, we propose an automated specialization process based on machine learning.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee: Zero Gachis</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-zero-gachis/</link>
+      <pubDate>Thu, 14 Jun 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-zero-gachis/</guid>
+      <description>It is my pleasure to introduce you this superb start-up named Zéro-Gâchis. They are established in Nantes and help supermarkets and hypermarkets to manage products that are about to expire in order to reduce waste.
+Zéro-Gâchis is also turned towards customers by proposing discounts on those products at the right moment helping them to save money. As a result, Zéro-Gâchis also promotes an healthy diets.
+Zéro-Gâchis has been created in 2011 and they quickly expanded from Nantes and surroundings to France.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee [Oscar]:  On the relevance of pseudo tested methods</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-oscar-on-the-relevance-of-pseudo-tested-methods/</link>
+      <pubDate>Thu, 26 Apr 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-oscar-on-the-relevance-of-pseudo-tested-methods/</guid>
+      <description>For our next diverSE coffee, we&#39;re happy to have, once again, Oscar Luis Vera Pérez among us. He will be presenting his latest results on investigating the relevance of pseudo tested methods on real open-source projects.  Enters Oscar: &#34;Pseudo-tested methods are those whose code can be removed and the test suite is not able to detect the transformation. In this presentation, we introduce an extension of the concept and explore the presence of such methods in real open source projects.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee [Manuel Leduc]: Writing fast interpreters on the JVM</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-manuel-leduc-writing-fast-interpreters-on-the-jvm/</link>
+      <pubDate>Thu, 19 Apr 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-manuel-leduc-writing-fast-interpreters-on-the-jvm/</guid>
+      <description>Hi all,
+Manuel Leduc has kindly accepted our invitation for participation in the DiverSE Coffee. He will be sharing his experience on building interpreters on top of the latest JVM.
+Enters Manuel: &amp;ldquo;Developing interpreters is a cornerstone of Domain-Specific Languages (DSLs) development. Sadly, performances are often an issue when executing large DSL&amp;rsquo;s programs.
+The latest virtual machine research done at Oracle labs and implemented in the latest versions of the JVM yield incredible performances boost on interpreted languages implemented on top of the JVM using a mix of Just-In-Time (JIT) compiler, speculative optimization, partial evaluation and AST annotations.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee [Alejandro Gomez]: Hiding in the Crowd: an Analysis of the Effectiveness of Browser Fingerprinting at Large Scale</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-alejandro-gomez-hiding-in-the-crowd-an-analysis-of-the-effectiveness-of-browser-fingerprinting-at-large-scale/</link>
+      <pubDate>Tue, 03 Apr 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-alejandro-gomez-hiding-in-the-crowd-an-analysis-of-the-effectiveness-of-browser-fingerprinting-at-large-scale/</guid>
+      <description>We are pleased to have Alejandro Gomez as a speaker for our next DiverSE Coffee, entitled &#34;Hiding in the Crowd: an Analysis of the Effectiveness of Browser Fingerprinting at Large Scale&#34;.  In his latest work, also the topic of his presentation, Alejandro uncovers some insights about the effectiveness of browser fingerprinting and the fragileness of non-unique fingerprints. He also warns about the evolution trend of current web technologies and its impact on browser fingerprinting.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee [Ludovic Mouline] : Enabling Temporal-Aware Contexts for Adaptative Distributed Systems</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-ludovic-mouline-enabling-temporal-aware-contexts-for-adaptative-distributed-systems/</link>
+      <pubDate>Wed, 28 Mar 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-ludovic-mouline-enabling-temporal-aware-contexts-for-adaptative-distributed-systems/</guid>
+      <description>We are happy to have Ludovic Mouline as a guest speaker for our next DiverSE Coffee. He will be presenting his latest accepted paper on &amp;ldquo;Enabling Temporal-Aware Contexts for Adaptative Distributed Systems&amp;rdquo;. This work will be presented at ACM SAC track on Software Architecture: Theory, Technology, and Applications.
+Enters Ludovic: &amp;ldquo;Distributed adaptive systems are composed of federated entities offering remote inspection and reconfiguration abilities. This is often realized using a MAPE-K loop, which constantly evaluates the parameters of the system and the environment, and derives corrective actions, if necessary.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Jean-Marc Jézéquel</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-jean-marc-jezequel/</link>
+      <pubDate>Thu, 15 Mar 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-jean-marc-jezequel/</guid>
+      <description>This week, an uncommon speaker will take the floor to talk about : On Turning Domain Knowledge into Tools  performed by Jean-Marc Jézéquel, the current head of our lab. A most certainly very interesting talk on multiple aspects: for the scientific content first but also the opportunity to follow a talk from a man of experience.  Abstract: One of the biggest challenges of the digital age is to turn human knowledge, know-how and procedures into software.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee:Pit internals, how to add new mutation operators, with Oscar Vera Perez</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffeepit-internals-how-to-add-new-mutation-operators-with-oscar-vera-perez/</link>
+      <pubDate>Thu, 08 Feb 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffeepit-internals-how-to-add-new-mutation-operators-with-oscar-vera-perez/</guid>
+      <description>To answer the many questions that have been raised during the previous DiverSE Coffee about PITest internals, we decided to follow-up with a dedicated session. Many thanks to Oscar for accepting to clarify these points.
+Enters Oscar: &amp;ldquo;PITest is a state-of-the-art mutation testing tool for Java projects. It provides off-the-shelf functionalities. It also offers mechanisms to add new features through a plugin system. There are two main approaches to add new mutation operators.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: PitMP, a tool to run PIT test on multi-module maven projects</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-pitmp-a-tool-to-run-pit-test-on-multi-module-maven-projects/</link>
+      <pubDate>Thu, 01 Feb 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-pitmp-a-tool-to-run-pit-test-on-multi-module-maven-projects/</guid>
+      <description>We are happy to have Caroline Landry as a guest speaker for our next DiverSE Coffee. She will be presenting PitMP, a tool to run PIT test on multi-module maven projects.  Enters Caroline: &#34;  PIT is a state of the art mutation testing system, providing gold standard test coverage for Java and the JVM. But PIT works on each module independently, and for projects in which tests use classes of others modules, only a subset of used classes are mutated by PIT.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Nguepi Armando</title>
+      <link>https://diverse-team.github.io/talk/20180710-2232/</link>
+      <pubDate>Thu, 07 Dec 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-2232/</guid>
+      <description>The story &amp;ldquo;Testing Configurable Software&amp;rdquo; continues with a presentation staring Nguepi Armando.
+Armando is pursuing his Master&amp;rsquo;s degree in Software Engineering at the University of Namur in Belgium. He is spending his last semester interning in the DiverSE team, under the supervision of Mathieu Archer, for the period of October 1st until January 31st. The topic of his internship orbits around testing configurable software.
+Enters Armando: &amp;ldquo;How to test configurable software?</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Eduardo Silva</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-eduardo-silva/</link>
+      <pubDate>Thu, 30 Nov 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-eduardo-silva/</guid>
+      <description>We are happy to receive Eduardo Silva as a guest speaker for our next DiverSE Coffee.  Eduardo is a Ph.D. student at the Federal University of Rio Grande do Norte, with a co-guardianship period in &#34;Université de Bretagne Sud&#34;, IUT de Vannes. He holds a bachelor degree in Computer Science from the Federal University of Rio Grande do Norte (2012) and a Masters in Systems and Computation from the Federal University of Rio Grande do Norte (2015).</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Nicolas Harrand</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-nicolas-harrand-2/</link>
+      <pubDate>Thu, 23 Nov 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-nicolas-harrand-2/</guid>
+      <description>Hi all,
+For our next DiverSE coffee, we are pleased to have Nicolas Harrand as a speaker. He will be presenting his latest research work on continuous diversification by promoting diversification as a first class property in DevOps. This work has been submitted to New Ideas and Emerging Results (NIER) co-located with ICSE.
+Enters Nicolas: &amp;ldquo;DevOps supports the integration and evolution of ultra-large software systems several times per minute. This pace of software construction relies on toolchains that include state of the art software engineering principles: modular architecture, formal interfaces, explicit dependency models and automation.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: François Fouquet</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-francois-fouquet/</link>
+      <pubDate>Thu, 16 Nov 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-francois-fouquet/</guid>
+      <description>We are pleased to have François Fouquet, a Triskell-veteran, as a speaker for our next DiverSE Coffee.  The research interests of François orbits around designing and applying novel software engineering methods to build distributed and large-scale machine learning powered smart systems. Since he defended his thesis entitled &#34;Model@Runtime for continuous development of heterogeneous distributed adaptive systems&#34;, he has been focusing on the construction of time-aware systems, leveraging innovative solutions to represent temporal data using physics quantum theory to better distributed massive models.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Paul Temple</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-paul-temple-2/</link>
+      <pubDate>Thu, 26 Oct 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-paul-temple-2/</guid>
+      <description>Machine learning (ML) is being employed in a wide range of application domains; where designing ad-hoc algorithms with good performance is difficult or infeasible.
+In this week&amp;rsquo;s Coffee, Paul Temple will report on his experience about applying ML to SPLs in order to successfully predict the performances of never-before-seen configurations and discover constraints in Variability Models.
+Enters Paul:
+&amp;ldquo;Machine Learning is now ubiquitous. It is being adopted in Software Product Lines to successfully predict the performances of never-before-seen configurations and discover constraints in Variability Models.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee Dorian LeRoy</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-dorian-leroy/</link>
+      <pubDate>Thu, 19 Oct 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-dorian-leroy/</guid>
+      <description>For this week&amp;rsquo;s presentation, we&amp;rsquo;re happy to have Dorian Leroy presenting the current state of his work on the generalization of model testing for DSLs.
+Enters Dorian:
+&amp;ldquo;Model-Driven Engineering (MDE) is a development paradigm that aims at coping with the complexity of systems by separating concerns through the use of models. A core characteristic of MDE is the use of model transformations to analyze, create or modify models. Given their prominent role in MDE, it is crucial to provide proper means for testing the correctness of model transformations.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Gwendal Le Moulec</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-gwendal-le-moulec/</link>
+      <pubDate>Thu, 12 Oct 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-gwendal-le-moulec/</guid>
+      <description>Hi all,
+Almost everything about our next DiverSE coffee is VR, except for our speaker, Gwendal Le Moulec, who&amp;rsquo;s 100% real.
+Gwendal will be presenting his latest accepted paper entitled AGENT: Automatic Generation of ExperimeNtal proTocol runtime. In his approach, Gwendal proposes the use of DSLs to automate the generation of VR experiments. The paper is accepted for publication in the VRST conference, one of the top-level conferences in VR.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Manuel Leduc</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-manuel-leduc/</link>
+      <pubDate>Thu, 14 Sep 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-manuel-leduc/</guid>
+      <description>Hi all,  Our DiverSE coffee continues this week with a talk from Manuel Leduc.  In his latest work, Manuel gave an up-to-date feel, a new lease of life, to the visitor design pattern.  Meet the RE(visited)VISITOR, a new language implementation pattern that enables independent extensibility of the syntax and semantics of metamodel-based xDSMLs.  To learn more about it, join our coffee this Thursday in room Minquiers at 1 p.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee, Amine BENELALLAM</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-amine-benelallam/</link>
+      <pubDate>Thu, 07 Sep 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-amine-benelallam/</guid>
+      <description>Welcome back everyone,  For the new academic year, we&#39;re kicking off our long-standing tradition, DiverSE Coffee, with the talk of Amine Benelallam about &#34;Raising temporal awareness in data-driven app. dev. with MDE&#34;. This work will be presented at MODELS 2017, Foundation track, new frontiers.  Abstract: &#34; The conviction that big data analytics is a key for the success of modern businesses is growing deeper, and the mobilisation of companies into adopting it becomes increasingly important.</description>
+    </item>
+    
+    <item>
+      <title>PhD defense: Mohamed BOUSSAA</title>
+      <link>https://diverse-team.github.io/talk/20180710-phd-defense-mohamed-boussaa/</link>
+      <pubDate>Wed, 06 Sep 2017 14:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-phd-defense-mohamed-boussaa/</guid>
+      <description>It is our pleasure to invite you to the Ph.D. defense of Mohamed BOUSSAA entitled: &amp;ldquo;Automatic non-functional testing and tuning of configurable generators&amp;rdquo;
+The presentation is held at Petri Room (IRISA), in front of the following Jury Members:
+Hélène WAESELYNCK - Directrice de recherche, LAAS-CNRS Toulouse / Reviewer Philippe MERLE - Chargé de recherche, INRIA Lille /Reviewer Erven ROHOU - Directeur de recherche, INRIA Rennes / Examiner Franck FLEUREY - Directeur de recherche, SINTEF Oslo / Examiner Jean-Marie MOTTU - Maître de conférences, Université de Nantes / Examiner Gerson SUNYÉ - Maître de conférences, Université de Nantes / Examiner Benoit BAUDRY -Directeur de recherche, INRIA Rennes / Supervisor Olivier BARAIS - Professeur, Université de Rennes 1 / Co-supervisor</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Kevin Corre</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-kevin-corre-3/</link>
+      <pubDate>Thu, 13 Jul 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-kevin-corre-3/</guid>
+      <description>Our fearless speaker, Kevin Corre, is closing the DiverSE Coffee for this academic year with an interesting talk on Why Users Cannot Choose their Identity Providers (IdPs)on the Web, and what can we do about it.   To answer this question, Kevin conducted three investigations. The first one is a field survey on the scope usage of OAuth 2 and OpenID Connect by websites. This survey is intended to investigate if the scopes requested by websites allow for user-defined IdPs.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Pierre Laperdrix</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-pierre-laperdrix-2/</link>
+      <pubDate>Thu, 29 Jun 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-pierre-laperdrix-2/</guid>
+      <description>Our speaker for this week&amp;rsquo;s coffee, Pierre Laperdrix, will be presenting his latest work on browser fingerprinting: &amp;ldquo;FPRandom: Randomizing core browser objects to break advanced device fingerprinting techniques&amp;rdquo;
+His work aims at mitigating the risk of browser fingerprinting by introducing randomness in the computation of selected browser functions, and thus, breaking the stability of a fingerprint over time.
+Kudos to Pierre!
+Enters Pierre:
+&amp;ldquo;The rich programming interfaces (APIs) provided by web browsers can be diverted to collect a browser fingerprint.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Nicolas Harrand</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-nicolas-harrand/</link>
+      <pubDate>Thu, 15 Jun 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-nicolas-harrand/</guid>
+      <description>In this week&amp;rsquo;s talk, Nicolas Harrand is defying common sense software engineering.
+Armed with his strong belief in diversification, he explores source code transformations and their relations with test suites to show how NOT FRAGILE software is.
+Enters Nicolas:
+&amp;ldquo;There is a common assumption that software is fragile and that a single change will often break it. On the contrary, we believe that software is plastic, meaning that it can take multiple transformations (even changing its semantic) and still fulfill its original purpose.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Cédric Thomas (OW2)</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-cedric-thomas-ow2/</link>
+      <pubDate>Thu, 08 Jun 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-cedric-thomas-ow2/</guid>
+      <description>Are you eager to know about the key processes behind the success of open source software? Do you want to make successful and mature projects out of your code repositories?
+If so, we cordially invite you to join our next DiverSE Coffee, featured by Cédric Thomas. During his talk, Cédric will genuinely reveal the answers to these questions, and more, while handing over &amp;ldquo;The six key processes for open source software&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Jean Emile Dartois</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-jean-emile-dartois/</link>
+      <pubDate>Thu, 01 Jun 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-jean-emile-dartois/</guid>
+      <description>After his interesting talk about bitcoins, this week, Jean-Emile Dartois (JED) will be presenting his latest work on &amp;ldquo;Investigating Machine Learning Algorithms for Modeling I/O Interference on SSDs for Container-based Virtualization&amp;rdquo;.
+Enters JED: &amp;ldquo;One of the most important cloud providers’ challenges is to reduce the number (thus the cost) of used hardware resources by maximizing their utilization. This is done through smartly sharing processor, memory, network, and storage, while fully satisfying SLOs negotiated with customers.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Antoine Cheron</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-antoine-cheron/</link>
+      <pubDate>Thu, 18 May 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-antoine-cheron/</guid>
+      <description>In our DiverSE Coffee this week, Antoine Cheron will present his work on a cloud-based framework for eased design, optimization, and simulation of complex computational-science models.
+Enters Antoine:&amp;ldquo;We are working with a team at OSUR that is studying the behavior of water propagation into the soil to predict inundations in France for the next 40 years.
+&amp;ldquo;We are working with a team at OSUR that is studying the behavior of water propagation into the soil to predict inundations in France for the next 40 years.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Oscar Luis Vera Pérez</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-oscar-luis-vera-perez/</link>
+      <pubDate>Thu, 11 May 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-oscar-luis-vera-perez/</guid>
+      <description>Hi all,
+For our next DiverSE coffee, we&amp;rsquo;re having a technical presentation about mining Github repositories, by Oscar Luis Vera Pérez. He&amp;rsquo;ll be showing us how to explore projects of interest in Github and extract valuable knowledge and insights. The presentation concludes with pointers to where documentation and libraries for all major programming languages can be found.
+The presentation is very likely held in Markov room (G105) at 1 p.m. Come over to see for yourself!</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Philippe Coval</title>
+      <link>https://diverse-team.github.io/talk/20180710-2169/</link>
+      <pubDate>Thu, 04 May 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-2169/</guid>
+      <description>We are pleased to have Philippe Coval as speaker in the DiverSE-Coffee.  Philippe has been involved with the Tizen project since 2012. He now works for the Samsung Open Source Group where he actively supports community contributions by helping others who have interests in free software and open hardware. In particular, he is actively involved in the Tizen and IoTivity communities.   In his talk, Philippe will present the work being carried out in the OCF/IoTivity project.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Kevin Corre</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-kevin-corre-2/</link>
+      <pubDate>Thu, 27 Apr 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-kevin-corre-2/</guid>
+      <description>For our next DiverSE coffee, please welcome Kevin Corre, our Carambar riddles passionate! Kevin is carrying out a joint PhD program at DiverSE &amp;amp; Orange Labs. His topics of interest include Identity Management in the Web context.
+Enters Kevin: &amp;ldquo;I will present the recent progress on my thesis work (including two articles this year!) and the work to come. I will recall the basis of WebRTC, and in particular WebRTC security architecture.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Arnaud Blouin</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-arnaud-blouin-2/</link>
+      <pubDate>Thu, 20 Apr 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-arnaud-blouin-2/</guid>
+      <description>After his talk, some time ago, about UI code analysis for design smells detection, we are happy to announce the return of Arnaud Blouin to report on his latest advances in this topic. Particularly, Arnaud will introduce one particular UI design smell he has found in previous work: the Blob Listener. Later, he will explain how to automatically refactor Blob Listener instances, then elaborate on the difficulties faced while using statistical tests during the analyses of the results.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee: Gerson Sunyé</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-gerson-sunye/</link>
+      <pubDate>Thu, 13 Apr 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-gerson-sunye/</guid>
+      <description>As part of our long-standing tradition, the DiverSE Coffee, we are happy to have Gerson Sunyé introduce the NeoEMF tool. He&amp;rsquo;ll take us on a journey through the ancient history of NeoEMF in order to share the experiences, the success stories, and lessons learned.
+&amp;nbsp;
+Bio: Gerson Sunyé is an assistant professor at the University of Nantes, where he teaches different topics related to Software Engineering. Since 2015, he leads the AtlanMod research team, which is part of the LS2N research Laboratory.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Jean-Emile</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-jean-emile/</link>
+      <pubDate>Thu, 06 Apr 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-jean-emile/</guid>
+      <description>Do you think that the blockchain can uberise Uber ?
+Jean-Emile will talk about the blockchain this week. Blockchain is a shared, immutable ledger for recording the history of transactions. It fosters a new generation of transactional applications that establish trust, accountability and transparency with or without third-parties. The blockchain features can provide many opportunities in many areas (finance, logistic, energy, insurance, etc&amp;hellip;.) This technology is relying on several paradigms: cryptographic algorithms, a distributed register, a consensus mechanism, automatic code execution (optional).</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Tewfik Ziadi</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-tewfik-ziadi/</link>
+      <pubDate>Mon, 03 Apr 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-tewfik-ziadi/</guid>
+      <description>Tewfik Ziadi is visiting DiverSE for a few days.
+This is the opportunity for the team to learn more about Software Product Lines ! Abstract   Software Product Lines (SPLs) represent one of the most exciting paradigm shift in software development in the two last decades. However, adopting an SPL approach and designing SPL variability is still a major challenge and represents a risk for a company. First, compared to single-system development, SPL variability management implies a methodology that highly impacts the life cycle of the products as well as the processes and roles inside the company.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Gerson</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-gerson/</link>
+      <pubDate>Thu, 30 Mar 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-gerson/</guid>
+      <description>It has been a long time since Gerson did not speak in front of the team.
+This week he will make a presentation on Model Consistency for Distributed Collaborative Modeling.
+The talk will be held in room Les Minquiers at 1:00pm</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Ludovic Mouline</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-ludovic-mouline/</link>
+      <pubDate>Tue, 28 Mar 2017 10:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-ludovic-mouline/</guid>
+      <description>Ludovic will rehearse his presentation for a paper we got accepted and that he will present in a few weeks.
+Title : Weaving Rules into Models@run.time for Embedded Smart Systems
+Abstract : Smart systems are characterised by their ability to analyse measured data in live and to react to changes according to expert rules. Therefore, such systems exploit appropriate data models together with actions, triggered by domain-related conditions. The challenge at hand is that smart systems usually need to process thousands of updates to detect which rules need to be triggered, often even on restricted hardware like a Raspberry Pi.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Oscar Luis</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-oscar-luis/</link>
+      <pubDate>Thu, 23 Mar 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-oscar-luis/</guid>
+      <description>This week again, one of our PhD student will perform his first DiverSE coffee.
+Oscar Luis will talk about Descartes (a PIT extension for extreme mutation)
+Abstract :  Mutation testing aims to verify the ability of a test suite to find possible bugs in the program under test. Traditional mutation approaches do not scale well in larger project. A recent paper proposes an alternative way of mutation that could overcome this issue.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Ludovic &amp; Alejandro</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-ludovic-alejandro/</link>
+      <pubDate>Thu, 16 Mar 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-ludovic-alejandro/</guid>
+      <description>This week, again, we will have 2 presentations.  First Ludovic will quickly introduce himself. He will stay with us for one month and is located in office F225.  Then, Alejandro will perform his first presentation as a PhD student with us.  His presentation is entitled : Collaborative, distributed mitigation against browser fingerprinting   The presentation is about analysis performed in amiunique.org and one of the top 15 French Websites, and the proposal of a new algorithm for fingerprint clustering.</description>
+    </item>
+    
+    <item>
+      <title>Tanja Mayerhofer&#39;s presentation</title>
+      <link>https://diverse-team.github.io/talk/20180710-tanja-mayerhofers-presentation/</link>
+      <pubDate>Tue, 14 Mar 2017 10:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-tanja-mayerhofers-presentation/</guid>
+      <description>Tanja Mayerhofer (https://www.big.tuwien.ac.at/people/tmayerhofer) is visiting DiverSE
+for two months.
+She will introduce herself, her working group as well as some research topics of interest during this presentation.
+The talk will be held in room Lipari at 10:00am</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Manuel &amp; Antoine</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-manuel-antoine/</link>
+      <pubDate>Thu, 09 Mar 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-manuel-antoine/</guid>
+      <description>this week : 2 presentations in 1 session !  Antoine will introduce himself to the team ! :) He is a ESIR student and will perform an internship with DiverSE.  After that, Manuel will perform a presentation about his PhD topic. His talk is called EMF Object Algebras: A new way to tackle the expression problem in the modeling world.  Talks will be held in room Les Minquiers at 1:00pm </description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Quentin</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-quentin-3/</link>
+      <pubDate>Thu, 02 Mar 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-quentin-3/</guid>
+      <description>This week, Quentin will present his work on solver techniques on arrays and finite domains.
+Title : Efficient and Complete FD-Solving for Extended Array Constraints
+Abstract : Array constraints are essential for handling data structures in automated reasoning and software verification. Unfortunately, the use of a typical finite domains (FD) solver based on local consistency-based filtering has strong limitations when constraints on indexes are combined with constraints on array elements and size.</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Software Engineering for Sustainability</title>
+      <link>https://diverse-team.github.io/talk/20180710-workshop-on-software-engineering-for-sustainability/</link>
+      <pubDate>Wed, 01 Mar 2017 09:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-workshop-on-software-engineering-for-sustainability/</guid>
+      <description>Our team organizes a workshop on « Software Engineering for Sustainability » together with Lancaster University.
+The workshop will last for 2 days.
+It will take place in rooms Petri and Turing.
+Here is the program of the second day : Mar. 1:  09:00 - 12:00:  Session #1: Crash course and code camp on Eclipse Modeling(Didier Vojtisek, Inria)  Introduction to EMF (domain model), Xtext (textual editor), Sirius (graphical editor) and the GEMOC Studio (compilation, model execution/debugging and coordination)   Session #2: TBC   12:00 - 14:00: lunch at IRISA  14:00 - 16:00: Discussions (modelling framework to explicit software values, modeling for sustainability) 16:00: end of the workshop</description>
+    </item>
+    
+    <item>
+      <title>Workshop Software Engineering for Sustainability</title>
+      <link>https://diverse-team.github.io/talk/20180710-workshop-software-engineering-for-sustainability/</link>
+      <pubDate>Tue, 28 Feb 2017 09:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-workshop-software-engineering-for-sustainability/</guid>
+      <description>Our team organizes a workshop on « Software Engineering for Sustainability » together with Lancaster University.
+The workshop will last for 2 days.
+It will take place in rooms Petri and Turing.
+Here is the program of the first day :
+Feb. 28:  09:00 - 09:30: Welcome coffee 09:30 - 10:30: TBA(from Lancaster)  10:30 - 11:00: coffee break 11:00 - 12:00: Weighting observations and models to assess the uncertain fate of nitrates in the environment(Jean-Raynald de Dreuzy, Géosciences Rennes, OSUR)  Increasing quantities of fertilizers delivered to soils have deeply modified the cycle of some elements like nitrogen.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Quentin</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-quentin-2/</link>
+      <pubDate>Mon, 27 Feb 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-quentin-2/</guid>
+      <description>This week, Quentin will present his work to the team before attending a project meeting.
+Tittle and summary TBA
+The talk will take place in room Petri at 1:00pm</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Andreas Wortmann</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-andreas-wortmann/</link>
+      <pubDate>Thu, 16 Feb 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-andreas-wortmann/</guid>
+      <description>This week, Andreas Wortmann from RWTH Aachen University (Germany), will introduce himself to the team.
+He will stay with us for a few month.
+He will also talk about his previous works, what he plan to do during his stay in France and also a bit about future ideas.
+In particular, he will ask the audience for advices about some ideas he would like to develop.
+The meeting will be held in room Les Minquiers at 1:00 pm</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Paul</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-paul/</link>
+      <pubDate>Thu, 09 Feb 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-paul/</guid>
+      <description>This week, Paul will do the presentation.
+It will be the opportunity for him to introduce new members of the team to his PhD topic
+but also to present preliminary results about the execution of different Computer Vision programs over different videos.
+During the talk, he will present also some challenges that can occur while considering such kind of test activites.
+The presentation will be held in room Les Minquiers at 1:00pm</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Olivier</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-olivier/</link>
+      <pubDate>Thu, 02 Feb 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-olivier/</guid>
+      <description>This week, Olivier will present two technologies making Java more dynamic. One is more about runtime code generation while the other is focuseded on pre-compile code generation for the JVM.
+Spoon Vs ByteBuddy: a biaised comparison
+Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application and without the help of a compiler. Other than the code generation utilities that ship with the Java Class Library, Byte Buddy allows the creation of arbitrary classes and is not limited to implementing interfaces for the creation of runtime proxies.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Gwendal</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-gwendal/</link>
+      <pubDate>Thu, 26 Jan 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-gwendal/</guid>
+      <description>This week, Gwendal will present on going work about generationg et maintenance of tutorials about DSLs
+The idea is that for a DSL to be used, it needs to be documented. In particular, they can benefit from documentation by example (i.e., tutorials). But producing such documentation is time consuming.
+This presentation aims at retrieving feedbacks over the approach.
+The talk will be held in room Les Minquiers at 1:00pm</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Amine</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-amine/</link>
+      <pubDate>Thu, 19 Jan 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-amine/</guid>
+      <description>Amine, one of the new people arriving in the team,
+will present the work he did during his PhD and also will introduce the idea and the work
+he intends to perform in the team.
+&amp;nbsp;
+The meeting will be held in room Petri</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Axel &amp; Alexandre &#43; Amine &#43; Oscar</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-axel-alexandre-amine-oscar/</link>
+      <pubDate>Thu, 12 Jan 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-axel-alexandre-amine-oscar/</guid>
+      <description>This week, three presentation will be performed :
+ first Oscar and Amine who have just arrived in the team will introduce themselves; after that Axel &amp;amp; Alexandre will talk about the job they have done during their internship in the team.  Oscar and Amine will tell us about they did before, what they will do in the team, who they will work with and a little about themselves (their hobbies, etc.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Kévin &amp; Olivier</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-kevin-olivier/</link>
+      <pubDate>Thu, 05 Jan 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-kevin-olivier/</guid>
+      <description>With the new year starts again our weekly (or so) DiverSE coffee !  This week, Kevin and Olivier offers a brainstorming session on ideas they have.  Kevin and Olivier will discuss and challenge some ideas for diversity applied to security. They will present some intuitions they have on diversity applications but also the limitations of these ideas.  The meeting will be held in one of the following room : Markov at 1:00 pm &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>PhD defense : David Fernando Méndez Acuna</title>
+      <link>https://diverse-team.github.io/talk/20180710-phd-defense-david-fernendo-mendez-acuna/</link>
+      <pubDate>Fri, 16 Dec 2016 14:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-phd-defense-david-fernendo-mendez-acuna/</guid>
+      <description>David is defending his PhD entitled : Leveraging Software Product Lines Engineering in the Construction of Domain Specific Languages
+&amp;nbsp;
+Abstract :
+The use of domain-specific languages (DSLs) has become a successful technique in the development of complex systems because it furnishes abstraction, separation of concerns and much more.
+Nowadays, we can find a large variety of DSLs providing support in various domains. However, the construction of these languages is an expensive task (requires important amount of time and efforts in the definition of formal specifications and tooling to meet requirements).</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Johann &amp; Caroline</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-johann-caroline/</link>
+      <pubDate>Thu, 15 Dec 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-johann-caroline/</guid>
+      <description>This week, Johann Bourcier and Pierre Duros will present cool and funny stuffs about drones. The talk will be divided in two parts :  - first Pierre will present what he did during his internship with us last summer with drones fleet and computer vision (very nice ;D) - then Johann will talk about some cool/funny/crazy stuff we can or will be able to do soon with drones and that the world (mostly the USA) is thinking about  also we will meet Caroline Landry, our new engineer.</description>
+    </item>
+    
+    <item>
+      <title>PhD defense : Francisco Javier Acosta Padilla</title>
+      <link>https://diverse-team.github.io/talk/20180710-phd-defense-francisco-javier-acosta-padilla/</link>
+      <pubDate>Mon, 12 Dec 2016 14:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-phd-defense-francisco-javier-acosta-padilla/</guid>
+      <description>Francisco is defending his PhD entitled : Self-adaptation for Internet of Things applications
+Abstract :
+The Internet of Things (IoT) is getting more and more present in our daily life. As these systems become more pervasive, the need of managing this complex infrastructure comes with several challenges. Plenty of small interconnected devices are now providing more than a service in several aspects of our everyday life, which need to be adapted to new contexts without the interruption of such services.</description>
+    </item>
+    
+    <item>
+      <title>PhD Defense : Thomas Degueule</title>
+      <link>https://diverse-team.github.io/talk/20180710-phd-defense-thomas-degueule/</link>
+      <pubDate>Mon, 12 Dec 2016 09:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-phd-defense-thomas-degueule/</guid>
+      <description>Thomas is defending his PhD entitled : Composition and Interoperability for External Domain-Specific Language Engineering
+Abstract :
+Development and evolution of Domain-Specific Languages (DSLs) is becoming recurrent in the development of complex software-intensive systems. However, despite many advances in Software Language Engineering (SLE), DSLs and their tooling still suffer from substantial development costs which hamper their successful adoption in the industry.
+We identify two main challenges to be addressed. First, the proliferation of independently developed and constantly evolving DSLs raises the problem of interoperability between similar languages and environments.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Kevin Corre</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-kevin-corre/</link>
+      <pubDate>Thu, 08 Dec 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-kevin-corre/</guid>
+      <description>This week Kevin will present the results of a study he has conducted a while ago in the team.
+The goal of the study was to understand the type of relations between websites and identity providers, mainly through the types of information requested by websites during OAuth2 authorization process.
+He will present the results and what was the process to analyze those.
+The meeting will be held in room Les Minquiers at 1:00pm</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Alexandre Rio</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-johann-bourcier-pierre-duros/</link>
+      <pubDate>Thu, 24 Nov 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-johann-bourcier-pierre-duros/</guid>
+      <description>After the success of his talk during the team seminar;
+the seminar asked for more, and so Alexandre will present further in details this week what he plans to do during his PhD.
+We will learn a lot about green energy. The talk will be held in room Lipari at 1:00pm</description>
+    </item>
+    
+    <item>
+      <title>DiverSE fall Seminar 2016</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-fall-seminar-2016/</link>
+      <pubDate>Thu, 17 Nov 2016 09:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-fall-seminar-2016/</guid>
+      <description>This year, the fall seminar will take place at Manoir du Plessis in Le Rheu.
+The schedule of the day will ba as follows :  9:15 to 9:45 : Benoit B&amp;rsquo;s introduction 9:45 to 11:00 : fresh new PhD student introduction (who they are ; what have they been studying and where ; what is their PhD topic ?) ; People to talk : Alexandre Rio, Manuel Leduc, Erwann Picart, Alejandro Boix, Nicolas Harrand, Youssou Ndiaye, Jean-Emile Dartois 11:00 to 11:30 : coffee break !</description>
+    </item>
+    
+    <item>
+      <title>CNRS medal award ceremony</title>
+      <link>https://diverse-team.github.io/talk/20180710-cnrs-medal-award-ceremony/</link>
+      <pubDate>Thu, 10 Nov 2016 09:15:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-cnrs-medal-award-ceremony/</guid>
+      <description>On Thursday, Jean-Marc JEZEQUEL will receive his medal from the CNRS as an award for the quality and impact of his work (http://www.cnrs.fr/fr/recherche/prix/medaillesargent.htm).
+The ceremony will begin at 9:00 am with three talks, beginning with :
+Prof. Pierre-Etienne Moreau(https://sites.google.com/a/depinfonancy.net/pem/),
+Prof Carlo Ghezzi (http://home.deib.polimi.it/ghezzi/) and
+Prof. Bernhard RUMPE (http://www.se-rwth.de/~rumpe/)
+before the actual ceremony (at 11:30 am)
+&amp;nbsp;
+http://www.irisa.fr/fr/actus/medaille-dargent-2016-decernee-jm-jezequel-cnrs
+https://intranet.irisa.fr/fr/actus/cnrs-medaille-dargent-2016
+The lecture hall (on the right when getting to the reception desk) will be THE place to be.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Arnaud</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-arnaud/</link>
+      <pubDate>Thu, 03 Nov 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-arnaud/</guid>
+      <description>This week Arnaud will present Valeria’s work published at EICS’16 called : Automatic Detection of GUI Design Smells: The Case of Blob Listener In this work, they focus on GUI controllers and the detection of a new type of design smell, called Blob Listener.
+Results showed that 21 % of the analyzed GUI controllers are Blob listeners.
+The talk will be held in room Les MInquiers</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Arnaud Blouin</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-arnaud-blouin/</link>
+      <pubDate>Thu, 20 Oct 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-arnaud-blouin/</guid>
+      <description>This week Arnaud will present Valeria&amp;rsquo;s work published at EICS&amp;rsquo;16 called : Automatic Detection of GUI Design Smells: The Case of Blob Listener In this work, they focus on GUI controllers and the detection of a new type of design smell, called Blob Listener.
+Results showed that 21 % of the analyzed GUI controllers are Blob listeners.
+The talk will be held in room Aurigny (Building D; orange level)
+REPLACED BY GWENDAL LE MOULEC</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : members</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-members/</link>
+      <pubDate>Thu, 13 Oct 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-members/</guid>
+      <description>After the week at MODELS&amp;rsquo;16; all researchers of our team went to Paris to present the team to a panel of reviewers/experts/researchers to assess the qualities of the team and also assess works that DiverSE has produced.
+During this coffee, they will rerun the same presentation (with some modifications) as they performed in front of the panel.
+What you do not want to miss are the perspectives of work of the team for the next few years to come.</description>
+    </item>
+    
+    <item>
+      <title>MODELS conference</title>
+      <link>https://diverse-team.github.io/talk/20180710-models-conference/</link>
+      <pubDate>Sun, 02 Oct 2016 08:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-models-conference/</guid>
+      <description>This year, the MODELS conference (MODELS 2016) is organized by the DiverSE research group.
+It will be held at Saint-Malo, at the Palais du Grand Large.
+Link to website : http://models2016.irisa.fr/
+Link to the complete program : http://program.models2016.irisa.fr/</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Alexandre and Axel</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-alexandre-and-axel/</link>
+      <pubDate>Thu, 29 Sep 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-alexandre-and-axel/</guid>
+      <description>This week, our two new Belgian friends : Alexandre and Axel will present themselves to the team.
+They will tell us about their home country, what they did before arriving in our team and what they will be doing in here for the next 4 months.
+The coffee will be held in room Les Minquiers at 1:00 pm.</description>
+    </item>
+    
+    <item>
+      <title>SymexTRON: Symbolic Execution of High-Level Transformations (Ahmad Salim Al-Sibahi)</title>
+      <link>https://diverse-team.github.io/talk/20180710-symextron-symbolic-execution-of-high-level-transformations-ahmad-salim-al-sibahi/</link>
+      <pubDate>Fri, 16 Sep 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-symextron-symbolic-execution-of-high-level-transformations-ahmad-salim-al-sibahi/</guid>
+      <description>Room Lipari</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Paul TEMPLE</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-paul-temple/</link>
+      <pubDate>Thu, 15 Sep 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-paul-temple/</guid>
+      <description>This week, Paul will present the work which have been conducted during the summer
+and that have led to an ICSE submission.
+This presentation will be somehow &amp;ldquo;traditionnal&amp;rdquo; :  presentation of the context of the study what have been studied results conclusion  The talk will be held in room Les Minquiers at 1:00 pm</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Benoit Baudry</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-benoit-baudry/</link>
+      <pubDate>Thu, 08 Sep 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-benoit-baudry/</guid>
+      <description>This Thursday, Benoit Baudry will talk about the STAMP project,
+a european project that DiverSE and in particular Benoit will coordinate.
+This project has been accepted for the 2016 call in the &amp;ldquo;software technologies&amp;rdquo; category of the Horizon 2020 ICT program.
+Stay tuned to hear more about it.
+The presentation will be hold in room Les Minquiers</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Pierre</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-pierre/</link>
+      <pubDate>Thu, 01 Sep 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-pierre/</guid>
+      <description>For this coffee, Pierre will present the spin-off to AmIUnique and the opportunity he had to work with Tor during Google Summer of Code 2016.
+For this coffee, I&amp;rsquo;ll present the Google Summer of Code (GSoC) program along with my own experience this summer with the Tor organization. I&amp;rsquo;ll talk about Fingerprint Central and explain why it is a worthy successor to AmIUnique. For those who want to know more, you can visit the beta here https://fpcentral.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Marcelino</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-laureline/</link>
+      <pubDate>Thu, 25 Aug 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-laureline/</guid>
+      <description>DiverSE coffee for the year 2016-2017 will start this week. On Thursday, Marcelino will present the work he got accepted to ASE. It is a rehearsal presentation of ASE conference.  The talk is about the way to perform Microbenchmarking. Microbenchmarking is a way to execute a short snippet of code such that performance measures can be retrieved and monitored. It is specially useful while trying to optimize some usual function and to compare different implementation of the same functionality.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Mohamed</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-mohamed/</link>
+      <pubDate>Tue, 12 Jul 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-mohamed/</guid>
+      <description>This week is our last coffee for the year 2015-2016 and it will be hold by Mohamed. He will perform a rehearsal presentation of NOTICE: A Framework for Non-functional Testing of Compilers regarding his accepted paper at QRS 2016 (International Conference on Software Quality, Reliability and Security) Here is the abstract :
+Generally, compiler users apply different optimizationsto generate efficient code with respect to non-functional properties such as energy consumption, execution time, etc.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Quentin</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-quentin/</link>
+      <pubDate>Thu, 07 Jul 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-quentin/</guid>
+      <description>This week, Quentin will present his work on SMT solvers :
+Because constraint programming offers efficient approaches to tackle problems involving complex data types (e.g. floating point numbers or bitvectors), a considerable amount of attention has been devoted to the use of constraint solvers in the context of software verification. One major shortcoming, however, is the lack of efficient constraint-based decision procedures for the theory of arrays, as it is necessary to reason about a variety of data structures (e.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-2/</link>
+      <pubDate>Thu, 30 Jun 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-2/</guid>
+      <description>This week we will have two presentations :
+First, Kévin will talk about OAuth2 and internet browser interactions. He will firstly present the OAuth protocol and then ask the team a little help to conduct a user study. We will need to install an extension allowing to collect some information (no privacy leakage). Some carambar will be given to participants. Another presentation is likely to present in details what is intended by conducting such kind of experiment as well as gathering results (likely after summer breaks).</description>
+    </item>
+    
+    <item>
+      <title>Bruno&#39;s presentation</title>
+      <link>https://diverse-team.github.io/talk/20180710-brunos-presentation/</link>
+      <pubDate>Tue, 28 Jun 2016 13:30:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-brunos-presentation/</guid>
+      <description>Bruno, our world chess game analyst will present the work he has done during his internship in the team. The talk will be performed in room Sardaigne (blue level F building) Analysis of Chess Games with Chess Engines  Now that chess engines are stronger than chess players, multiple studies have been made in order to evaluate chess players&amp;rsquo; game with chess engines. This assessment could be more accurate than the currently based victory/defeat ranking.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Marcelino</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-marcelino/</link>
+      <pubDate>Thu, 23 Jun 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-marcelino/</guid>
+      <description>For this week&amp;rsquo;s coffee we will have Fred Durst explaining the latest advances in a novel compiler optimization called &amp;ldquo;Approximated Unrolling&amp;rdquo; that he have been working along with Marcelino. Fred made his Ph.D. back in the 90 in Nu Metal, an evolution of the Bare Metal. As you may know, beside being a famous researcher in computer science, Fred&amp;rsquo;s plays in a rock band called Limp Bizkit as a hobby. He have composed a song inspired in the &amp;ldquo;Approximated Unrolling&amp;rdquo; optimization that he have called &amp;ldquo;Keep Unrolling Babe!</description>
+    </item>
+    
+    <item>
+      <title>Stéphane Ducasse&#39;s visit</title>
+      <link>https://diverse-team.github.io/talk/20180710-stephane-ducasses-visit/</link>
+      <pubDate>Tue, 21 Jun 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-stephane-ducasses-visit/</guid>
+      <description>Stéphane Ducasse (INRIA senior scientist in Lille) will visit us on Tuesday and will give a talk from 1pm to 2pm, in salle Guernesey (ISTIC)  Below is an abstract and Stéphane’s bio :  Abstract : Languages&#39; conception &amp; Software Evolution at RMoD (http://rmod.inria.fr) This presentation will try to overview research activities in the RMOD team. Our research activities is defined by 2 axes : - the conception of reflexive languages with the idea that a language should be updated along its lifecycle and that a system that will eventually stop should not exist.</description>
+    </item>
+    
+    <item>
+      <title>test event</title>
+      <link>https://diverse-team.github.io/talk/20180710-test-event/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-test-event/</guid>
+      <description>[object Object]</description>
+    </item>
+    
+    <item>
+      <title>Diverse Summer Seminar</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-summer-seminar/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-summer-seminar/</guid>
+      <description>Here is the schedule of our Diverse Seminar 2016 which will hold place at Sable d&amp;rsquo;Or Les Pins, near the Cap Fréhel (Côtes d&amp;rsquo;Armor, Brittany)
+Schedule Day 1: - Introduction by Benoit Baudry - Invited Keynote - lunch - Demonstrations of recent results in the DiverSE team (HEADS, Diversify and GEMOC)  Day 2: - Talks by the 1st year PhD students - Brainstorming (session 1) - lunch - Brainstorming (session 2+3)   More details to come</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : interns</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-interns/</link>
+      <pubDate>Thu, 09 Jun 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-interns/</guid>
+      <description>This week, we will meet our new interns ! They are 5 ! They are sparkling ! They are beautifuuuuuuuuuuul ! Marvin, Vikas, Rémi, Clémentine and Akram will present themselves (where they come from, what are they interested in, who they are working with and on what topic, for how long, and much more !)  Meet them in the Turing room </description>
+    </item>
+    
+    <item>
+      <title>Diverse Coffee : “Automated Software Transplantation” Speaker : Earl Barr</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee/</link>
+      <pubDate>Thu, 02 Jun 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee/</guid>
+      <description>Earl Barr, professor at University College London (http://earlbarr.com/) gives a talk on Thursday the 2nd of June
+Bio of the speaker Earl Barr is a senior lecturer at the University College London. He received his Ph.D. at UC Davis in 2009. Earl&amp;rsquo;s research interests include testing and analysis, empirical software engineering, and computer security. His recent work focuses on numerical software, time-travel debugging, the application of natural language processing techniques to software, and program equivalence.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Olivier Barais</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-olivier-barais/</link>
+      <pubDate>Thu, 26 May 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-olivier-barais/</guid>
+      <description>Olivier&amp;rsquo;s talk, this week, will be about diversity in the devices displaying videos and thus the necessity to have a proper workflow in order to transcode videos and stream videos at large scale.
+Abstract  : The increasing popularity of videos over Internet, combined with the wide heterogeneity of various kinds of end users&amp;rsquo; devices, imposes strong requirements on the underlying infrastructure and computing resources to meet the users expectations. In particular, designing an adequate transcoding workflow in the cloud to stream videos at large scale is: (i) costly, and (ii) complex.</description>
+    </item>
+    
+    <item>
+      <title>Diverse Coffee : Paul Temple</title>
+      <link>https://diverse-team.github.io/talk/20180710-1690/</link>
+      <pubDate>Thu, 19 May 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-1690/</guid>
+      <description>This week, Paul will present the method he submitted to the SPLC conference which uses Machine Learning to Infer Constraints for Product Lines.
+Abstract :
+Variability intensive systems may include several thousand features allowing for an enormous number of possible configurations, including wrong ones (e.g. the derived product does not compile). For years, engineers have been using constraints to a priori restrict the space of possible configurations, i.e. to exclude configurations that would violate these constraints.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE coffee : Pierre Laperdrix</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-pierre-laperdrix/</link>
+      <pubDate>Thu, 12 May 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-pierre-laperdrix/</guid>
+      <description>Pierre will talk this week about his findings on browser fingerprints thanks to more than 150,000 fingerprints he collected through AmIUnique.org. His study will be presented at the S&amp;amp;P&amp;rsquo;16 conference in San Jose (California, USA).
+Abstract :
+Worldwide, the number of people and the time spent browsing the web keeps increasing. Accordingly, the technologies to enrich the user experience are evolving at an amazing pace. Many of these evolutions provide for a more interactive web (e.</description>
+    </item>
+    
+    <item>
+      <title>Distributed Coffee</title>
+      <link>https://diverse-team.github.io/talk/20180710-distributed-coffee/</link>
+      <pubDate>Thu, 21 Apr 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-distributed-coffee/</guid>
+      <description>A talk on the use of Hadoop and Mahout.</description>
+    </item>
+    
+    <item>
+      <title>The fingerprinting and the web.</title>
+      <link>https://diverse-team.github.io/talk/20180710-the-fingerprinting-and-the-web/</link>
+      <pubDate>Thu, 21 Apr 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-the-fingerprinting-and-the-web/</guid>
+      <description>Our colleague Pierre Lapedrix, the Sherlock of our team, will present his latest discoveries about fingerprinting. Actually, He managed to get a publication about this subject and will be rehearsing for the upcoming event at &amp;ldquo;S&amp;amp;P&amp;rsquo;16&amp;rdquo; (aka &amp;ldquo;37th IEEE Symposium on Security and Privacy&amp;rdquo;) where he got his paper accepted.
+According to our colleague: &amp;ldquo;The talk is about what we found when we analyzed the data from AmIUnique. Do not expect any Paul Temple references or you will be disappointed!</description>
+    </item>
+    
+    <item>
+      <title>Diverse coffee - The language master</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-the-language-master/</link>
+      <pubDate>Thu, 07 Apr 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-the-language-master/</guid>
+      <description>The adoption of language-oriented software development relies on the availability of the DSLs needed to express all the aspects of a system under construction. This implies the development of many DSLs which is a challenging task due to the specialized knowledge and skills it requires. To improve cost-benefit when using DSLs, the research community in software languages engineering has proposed mechanisms to increase reuse during the construction of DSLs. The idea is to leverage previous engineering efforts and minimize implementation from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Diverse-coffee.  Andreas Wortmann visiting speaker</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-andreas-wortmann-visiting-speaker/</link>
+      <pubDate>Thu, 31 Mar 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-andreas-wortmann-visiting-speaker/</guid>
+      <description>Efficient software engineering of complex systems requires abstraction, domain expertise, reuse, and separation of concerns. Model-driven engineering aims to reduce the conceptual gap between domain challenges and software engineering solutions and enables to reuse abstract models with multiple target platforms. Architecture description languages facilitate a separation of concerns between system integration concerns and domain concerns encapsulated into components. Integrating DSLs into components and transforming integrated models into programming language artifacts requires expertise in software language engineering and code generator development.</description>
+    </item>
+    
+    <item>
+      <title>Diverse Coffee - Test suite engineering</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-test-suite-engineering/</link>
+      <pubDate>Thu, 24 Mar 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-test-suite-engineering/</guid>
+      <description>Let&amp;rsquo;s give a warm welcome to Benoit Baudry. His name might sound familiar because of the work he has done in software engineering and more concretely in testing.
+He will present the most recent advances about the automatic analysis, transformation and exploitation of test suites. It relies on the observation that software developers manually implement large and strong test suites that can be automatically executed. In this context, a test suite itself is a program.</description>
+    </item>
+    
+    <item>
+      <title>Diverse coffee - New members</title>
+      <link>https://diverse-team.github.io/talk/20180710-diverse-coffee-new-members/</link>
+      <pubDate>Thu, 25 Feb 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-diverse-coffee-new-members/</guid>
+      <description>This week we will break the rules and offer coffee to our internships. We will know their background and what they are doing within our wonderful team.
+We look forward seeing you all there!.
+Regards!</description>
+    </item>
+    
+    <item>
+      <title>Diverse coffee - Kwaku</title>
+      <link>https://diverse-team.github.io/talk/20180710-1608/</link>
+      <pubDate>Thu, 18 Feb 2016 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-1608/</guid>
+      <description>Dear colleagues,
+this Thursday we will enjoy the presentation of our colleague Kwaku. Please find the abstract below.
+Genetic Improvement(GI) is the application of evolutionary and search-based optimisation methods to the improvement of existing software. Online Genetic Improvement(OGI) concerns the embedding of the Genetic Improvement process inside the software system being improved. The target systems can therefore be improved online without requiring the system to be taken offline. Kwaku will present a tool framework called ECSELR that enables OGI in software systems on the JVM.</description>
+    </item>
+    
+    <item>
+      <title>Coffee with Pierre Laperdrix</title>
+      <link>https://diverse-team.github.io/talk/20180710-coffee-with-pierre-laperdrix/</link>
+      <pubDate>Thu, 17 Dec 2015 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-coffee-with-pierre-laperdrix/</guid>
+      <description>Dear colleagues,
+you are all invited this Thursday to a coffee for the sake of science. This week we will keep on helping our youngest students. Please, bring your laptops and prepare to blink while having a coffee.
+&amp;nbsp;
+Regards</description>
+    </item>
+    
+    <item>
+      <title>H.D.R viva - Benoit Combemale</title>
+      <link>https://diverse-team.github.io/talk/20180710-h-d-r-viva-benoit-combemale/</link>
+      <pubDate>Fri, 04 Dec 2015 09:30:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-h-d-r-viva-benoit-combemale/</guid>
+      <description>Habilitation defense by Benoit Combemale: “Towards Language-Oriented Modeling“ Software engineering faces new challenges with the advent of modern software-intensive systems such as complex critical embedded systems, cyber-physical systems and Internet of things. Application domains range from robotics, transportation systems, defense to home automation, smart cities, and energy management, among others. Software is more and more pervasive, integrated into large and distributed systems, and dynamically adaptable in response to a complex and open environment.</description>
+    </item>
+    
+    <item>
+      <title>H.D.R Seminar - Benoit Combemale</title>
+      <link>https://diverse-team.github.io/talk/20180710-h-d-r-seminar-benoit-combemale/</link>
+      <pubDate>Thu, 03 Dec 2015 14:25:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-h-d-r-seminar-benoit-combemale/</guid>
+      <description>A journey from requirements to development AND to runtime management 14:25-14:30: Welcome and introduction 14:30-15:15: “Dealing with Uncertainty in Self-Adaptive Systems” (Prof. Betty H.C. Cheng, Michigan State University, US) 15:15-15:45: “An attempt to software adaptation classification, illustration with State Chart XML” (Prof. Franck Barbier, University of Pau, FR) 15:45-16:15: coffee break 16:15-17:00: “Capturing and Analyzing Legal Requirements” (Prof. Lionel Briand, University of Luxembourg, LU) 17:00-17:45: “Domain-Specific Development Tools” (Prof. Oscar Nierstrasz, University of Bern, CH) 17:45-18:15: “Delaying Decision Making with Concern-Oriented Reuse “ (Prof.</description>
+    </item>
+    
+    <item>
+      <title>Fall seminar</title>
+      <link>https://diverse-team.github.io/talk/20180710-fall-seminar/</link>
+      <pubDate>Tue, 24 Nov 2015 08:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-fall-seminar/</guid>
+      <description>09.45 - 10.00: intro 10.00 - 11.00: presentations new team members Quentin, Tifenn, Paul, Laureline, Gwendal 11.00 - 12.15: The watcher project at BCOM (A. Cabot) 12.15 - 14.00: lunch 14.00 - 14.30: what’s the deal with projects? 14.30 - 15.00: presentations of two topics for brainstorm (open source vehicle, green IT) 15.00 - 16.30: brainstorm 16.30 - 17.00: 2-min restitution</description>
+    </item>
+    
+    <item>
+      <title>Valeria&#39;s Thesis Seminar</title>
+      <link>https://diverse-team.github.io/talk/20180710-valerias-thesis-seminar/</link>
+      <pubDate>Thu, 19 Nov 2015 15:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-valerias-thesis-seminar/</guid>
+      <description>Howdy guys,
+next week, our traditional coffee if going to be a bit special. Our colleague and friend Valeria is doing her viva. To celebrate this event, the Diverse Team will host a seminar in which we will meet Valeria&amp;rsquo;s tribunal.
+Please find the plan for the seminar. PhD Defense 10:30-12:30 — Valéria Lelli’s PhD defense. “Testing and maintenance of graphical user interfaces“. Room Métivier
+Committee  Lydie du Bousquet, Professeur d’informatique, Université Joseph Fourier, Rapportrice Philippe Palanque, Professeur d’informatique, Université Toulouse III, Rapporteur François-Xavier Dormoy, Senior Product Marketing Manager, Esterel Technologies, Toulouse, Examinateur Pascale Sébillot, Professeur, Universités IRISA/INSA de Rennes, Examinatrice, Présidente du jury Benoit Baudry, Chargé de recherche, INRIA Rennes – Bretagne Atlantique, Directeur de thèse Arnaud Blouin, Maître de Conférences, INSA Rennes, Encadrant de thèse  Seminar</description>
+    </item>
+    
+    <item>
+      <title>Sana the brave</title>
+      <link>https://diverse-team.github.io/talk/20180710-sana-the-brave/</link>
+      <pubDate>Thu, 05 Nov 2015 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-sana-the-brave/</guid>
+      <description>Howdy guys, there is one brave lady that actually faced the risk and decided to do a coffee this Thursday. Please welcome Sana and thank her for the coffee you&amp;rsquo;re gonna drink.  You&amp;rsquo;re commanded to follow her orders when mining matrices ;)  Best regards!</description>
+    </item>
+    
+    <item>
+      <title>Towards a Ph.D by Quentin Plazar</title>
+      <link>https://diverse-team.github.io/talk/20180710-towards-a-ph-d-by-quentin-plazar/</link>
+      <pubDate>Thu, 29 Oct 2015 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-towards-a-ph-d-by-quentin-plazar/</guid>
+      <description>Another ingenious guy pursuing a Ph.D. will try to succeed in the diverse team. Let&amp;rsquo;s meet the newest and most fresh Ph.d student Quentin Plazar</description>
+    </item>
+    
+    <item>
+      <title>22-10-2015 - Diverse Coffee</title>
+      <link>https://diverse-team.github.io/talk/20180710-22-10-2015-coffee/</link>
+      <pubDate>Thu, 22 Oct 2015 13:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-22-10-2015-coffee/</guid>
+      <description>Let&amp;rsquo;s help Thomas with his slides for SLE this Thursday at 13.00 as usual.
+&amp;ldquo;Domain-Specific Languages (DSLs) are now developed for a wide variety of domains to address specific concerns in the development of complex systems. When engineering new DSLs, it is likely that previous efforts spent on the development of other languages could be leveraged, especially when their domains overlap. However, legacy DSLs may not fit exactly the end user requirements and thus require further extension, restriction, or specialization.</description>
+    </item>
+    
+    <item>
+      <title>DiverSE Coffee [Hugo Martin]</title>
+      <link>https://diverse-team.github.io/talk/20180710-object-object/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/talk/20180710-object-object/</guid>
+      <description>In order to meet the needs of highly configurable systems, modern, are powerful and flexible to meet the needs of more and more users systems have lost their clarity and user-friendliness. With huge configuration space impossible to fully explore and strong interactions between parameters, even experts struggle to find a configuration matching their needs. In order to help users to quickly find a configuration corresponding to their expectations, we propose an automated specialization process based on machine learning.</description>
+    </item>
+    
+  </channel>
+</rss>

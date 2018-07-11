@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/tags/devops/</link>
+    <description>Recent content in Devops on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chaos Engineering for IoT and Network Services. PhD shared between Inria and Bell Labs</title>
+      <link>https://diverse-team.github.io/project/nokia/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/nokia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faber Novel PhD grant</title>
+      <link>https://diverse-team.github.io/project/fabernovel/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/fabernovel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inria Associate Teams **ALE**: Agile Language Engineering (2017-2020)</title>
+      <link>https://diverse-team.github.io/project/ale/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/ale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Shot Software (OSS) 2017-2019</title>
+      <link>https://diverse-team.github.io/project/oss/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/oss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROFILE (Cominlabs) 2016-2019</title>
+      <link>https://diverse-team.github.io/project/profile/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/profile/</guid>
+      <description>Coordinator: Université de Rennes 1
+Partners: Inria, Université de Rennes 2
+Dates: 2016-2019</description>
+    </item>
+    
+    <item>
+      <title>Stamp EU Project</title>
+      <link>https://diverse-team.github.io/project/stamp/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/stamp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/teaching/</link>
+    <description>Recent content in Teachings on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mobile Application Modeling</title>
+      <link>https://diverse-team.github.io/teaching/mobilemodeling/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/teaching/mobilemodeling/</guid>
+      <description>In this course, I am teaching specifics of Mobile Applications in terms of modeling activities.
+This course is taugh since 2015.</description>
+    </item>
+    
+    <item>
+      <title>Modern Applications Production</title>
+      <link>https://diverse-team.github.io/teaching/innopolis/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/teaching/innopolis/</guid>
+      <description>In this course, I am teaching modern tools to produce professional applications (git, build, tests, CI, project management, &amp;hellip;) in the context of the application of the Scrum agile method.
+This course is taught since 2017.</description>
+    </item>
+    
+  </channel>
+</rss>

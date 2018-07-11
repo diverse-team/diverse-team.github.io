@@ -1,0 +1,2149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/publication/</link>
+    <description>Recent content in Publications on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test them all, is it worth it? Assessing configuration sampling on the JHipster Web development stack</title>
+      <link>https://diverse-team.github.io/publication/hal-01829928/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01829928/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace Comprehension Operators for Executable DSLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01803031/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01803031/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and Analysis of Behavioral T-patterns in Debugging Activities</title>
+      <link>https://diverse-team.github.io/publication/hal-01763369/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01763369/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FP-STALKER: Tracking Browser Fingerprint Evolutions</title>
+      <link>https://diverse-team.github.io/publication/hal-01652021/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01652021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimorphic Testing</title>
+      <link>https://diverse-team.github.io/publication/hal-01730163/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01730163/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Estimating and Predicting User Perception on Software Product Variants</title>
+      <link>https://diverse-team.github.io/publication/hal-01720519/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01720519/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Interface Design Smell: Automatic Detection and Refactoring of Blob Listeners</title>
+      <link>https://diverse-team.github.io/publication/hal-01499106/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01499106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Temporal-Aware Contexts for Adaptative Distributed Systems Temporal Context Representation System updates</title>
+      <link>https://diverse-team.github.io/publication/hal-01723451/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01723451/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiding in the Crowd: an Analysis of the Effectiveness of Browser Fingerprinting at Large Scale</title>
+      <link>https://diverse-team.github.io/publication/hal-01718234/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01718234/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VaryLaTeX: Learning Paper Variants That Meet Constraints</title>
+      <link>https://diverse-team.github.io/publication/hal-01659161/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01659161/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concern-Oriented Language Development (COLD): Fostering Reuse in Language Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01803008/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01803008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Variability in the Video Domain: Language and Experience Report</title>
+      <link>https://diverse-team.github.io/publication/hal-01688247/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01688247/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Production of End User Documentation for DSLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01549042/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01549042/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on the 1 st International Workshop on Debugging in Model-Driven Engineering (MDEbug&#39;17)</title>
+      <link>https://diverse-team.github.io/publication/hal-01665572/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01665572/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGENT: Automatic Generation of Experimental Protocol Runtime</title>
+      <link>https://diverse-team.github.io/publication/hal-01613873/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01613873/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-Contextual Variability Models</title>
+      <link>https://diverse-team.github.io/publication/hal-01659137/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01659137/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omniscient Debugging for Executable DSLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01662336/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01662336/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Emerging Field of Test Amplification: A Survey</title>
+      <link>https://diverse-team.github.io/publication/hal-01634288/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01634288/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Browser Fingerprinting : Exploring Device Diversity to Augment Authentification and Build Client-Side Countermeasures</title>
+      <link>https://diverse-team.github.io/publication/tel-01729126/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01729126/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic non-functional testing and tuning of configurable generators</title>
+      <link>https://diverse-team.github.io/publication/tel-01598821/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01598821/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create and Play your Pac-Man Game with the GEMOC Studio (Tool Demonstration)</title>
+      <link>https://diverse-team.github.io/publication/hal-01651801/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01651801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling business motivation and underlying processes for RAMI 4.0-aligned cyber-physical production systems</title>
+      <link>https://diverse-team.github.io/publication/hal-01795144/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01795144/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raising Time Awareness in Model-Driven Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01580554/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01580554/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Visitors for Modular Extension of Executable DSMLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01568169/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01568169/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient and Complete FD-Solving for Extended Array Constraints *</title>
+      <link>https://diverse-team.github.io/publication/hal-01545557/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01545557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPRandom: Randomizing core browser objects to break advanced device fingerprinting techniques</title>
+      <link>https://diverse-team.github.io/publication/hal-01527580/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01527580/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fingerprinting mobile devices: A short analysis</title>
+      <link>https://diverse-team.github.io/publication/hal-01611101/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01611101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modélisation et Évaluation de la Sécurité des IHM</title>
+      <link>https://diverse-team.github.io/publication/hal-01611324/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01611324/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced and efficient execution trace management for executable domain-specific modeling languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01614377/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01614377/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering Language Product Lines from Existing DSL Variants</title>
+      <link>https://diverse-team.github.io/publication/hal-01524632/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01524632/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Software Product Lines: A Snapshot of Current Practices and Challenges</title>
+      <link>https://diverse-team.github.io/publication/hal-01522779/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01522779/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Mapping Study on Modeling for Industry 4.0</title>
+      <link>https://diverse-team.github.io/publication/hal-01514421/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01514421/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Engineering with the GEMOC Studio</title>
+      <link>https://diverse-team.github.io/publication/hal-01609576/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01609576/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Industry 4.0: Gap Analysis between Current Automotive MES and Industry Standards Using Model-Based Requirement Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01795171/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01795171/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weaving Rules into Models@run.time for Embedded Smart Systems</title>
+      <link>https://diverse-team.github.io/publication/hal-01609796/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01609796/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comment maîtriser la complexité des logiciels ?</title>
+      <link>https://diverse-team.github.io/publication/hal-01503821/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01503821/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Performance Specialization of Configurable Systems</title>
+      <link>https://diverse-team.github.io/publication/hal-01467299/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01467299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Language Interfaces</title>
+      <link>https://diverse-team.github.io/publication/hal-01424909/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01424909/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yo Variability! JHipster: A Playground for Web-Apps Analyses</title>
+      <link>https://diverse-team.github.io/publication/hal-01468084/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01468084/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A WebRTC Extension to Allow Identity Negotiation at Runtime</title>
+      <link>https://diverse-team.github.io/publication/hal-01611057/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01611057/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Extraction of Product Comparison Matrices From Informal Product Descriptions</title>
+      <link>https://diverse-team.github.io/publication/hal-01427218/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01427218/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correctness Attraction: A Study of Stability of Software Behavior Under Runtime Perturbation</title>
+      <link>https://diverse-team.github.io/publication/hal-01378523/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01378523/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying the configuration of Virtualized Network Functions in Software Defined Networks</title>
+      <link>https://diverse-team.github.io/publication/hal-01657866/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01657866/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why can’t users choose their identity providers on the web?</title>
+      <link>https://diverse-team.github.io/publication/hal-01611048/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01611048/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composition and Interoperability for External Domain-Specific Language Engineering</title>
+      <link>https://diverse-team.github.io/publication/tel-01427009/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01427009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composition et interopérabilité pour l&#39;ingénierie des langages dédiés externes</title>
+      <link>https://diverse-team.github.io/publication/tel-01488300/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01488300/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging software product lines engineering in the construction of domain specific languages</title>
+      <link>https://diverse-team.github.io/publication/tel-01427187/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01427187/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-adaptation for Internet of things applications</title>
+      <link>https://diverse-team.github.io/publication/tel-01426219/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01426219/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libmask: Protecting Browser JIT Engines from the Devil in the Constants</title>
+      <link>https://diverse-team.github.io/publication/hal-01382971/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01382971/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Loop Unrolling</title>
+      <link>https://diverse-team.github.io/publication/hal-01401828/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01401828/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering Modeling Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01355374/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01355374/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Experience Report on the Formal Specification of a Packet Filtering Language Using the K Framework</title>
+      <link>https://diverse-team.github.io/publication/hal-01401849/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01401849/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Non-functional Testing of Code Generators Families</title>
+      <link>https://diverse-team.github.io/publication/hal-01356849/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01356849/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Execution Framework of the GEMOC Studio (Tool Demo)</title>
+      <link>https://diverse-team.github.io/publication/hal-01355391/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01355391/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience Report on the Formal Specification of a Packet Filtering Language Using the K Framework</title>
+      <link>https://diverse-team.github.io/publication/hal-01385541/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01385541/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Genetic Improvement on the java virtual machine with ECSELR</title>
+      <link>https://diverse-team.github.io/publication/hal-01382964/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01382964/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Decision-making Process for Exploring Architectural Variants in Systems Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01374140/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01374140/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Microbenchmark Generation to Prevent Dead Code Elimination and Constant Folding</title>
+      <link>https://diverse-team.github.io/publication/hal-01343818/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01343818/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El uso de modelos de características con atributos para pruebas en sistemas de alta variabilidad: primeros pasos</title>
+      <link>https://diverse-team.github.io/publication/hal-01342354/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01342354/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting the Enumeration of All Feature Model Configurations</title>
+      <link>https://diverse-team.github.io/publication/hal-01334851/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01334851/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourth International Workshop on Reverse Variability Engineering (REVE 2016), associated with SPLC</title>
+      <link>https://diverse-team.github.io/publication/hal-01628959/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01628959/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacia el uso de sistemas de recomendación en sistemas de alta variabilidad</title>
+      <link>https://diverse-team.github.io/publication/hal-01342353/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01342353/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Software Product Lines Engineering in the Development of External DSLs: A Systematic Literature Review</title>
+      <link>https://diverse-team.github.io/publication/hal-01372702/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01372702/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metamodels and feature models : complementary approaches to formalize product comparison matrices</title>
+      <link>https://diverse-team.github.io/publication/tel-01416129/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01416129/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Model Polymorphism for Flexible Modeling</title>
+      <link>https://diverse-team.github.io/publication/hal-01367305/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01367305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Machine Learning to Infer Constraints for Product Lines</title>
+      <link>https://diverse-team.github.io/publication/hal-01323446/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01323446/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NOTICE: A Framework for Non-functional Testing of Compilers</title>
+      <link>https://diverse-team.github.io/publication/hal-01344835/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01344835/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards microservices architecture to transcode videos in the large at low costs</title>
+      <link>https://diverse-team.github.io/publication/hal-01427277/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01427277/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traceability analyses between features and assets in software product lines</title>
+      <link>https://diverse-team.github.io/publication/hal-01342351/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01342351/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Detection of GUI Design Smells: The Case of Blob Listener</title>
+      <link>https://diverse-team.github.io/publication/hal-01308625/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01308625/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Demand-Shifting in the Context of Domestic Micro-Generation</title>
+      <link>https://diverse-team.github.io/publication/tel-01385022/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01385022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoperability and Composition of DSLs with Melange</title>
+      <link>https://diverse-team.github.io/publication/hal-01336940/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01336940/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puzzle: A tool for analyzing and extracting specification clones in DSLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01284822/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01284822/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse-engineering reusable language modules from legacy domain-specific languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01284816/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01284816/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Complexity Tale: Web Configurators</title>
+      <link>https://diverse-team.github.io/publication/hal-01427165/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01427165/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beauty and the Beast: Diverting modern web browsers to build unique browser fingerprints</title>
+      <link>https://diverse-team.github.io/publication/hal-01285470/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01285470/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured model types: Towards Systematic Reuse in Modelling Language Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01406507/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01406507/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeking for the Optimal Energy Modelisation Accuracy to Allow Efficient Datacenter Optimizations</title>
+      <link>https://diverse-team.github.io/publication/hal-01356099/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01356099/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Unbundling: Challenges and Perspectives</title>
+      <link>https://diverse-team.github.io/publication/hal-01427560/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01427560/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Modeling and Analysis Framework for Software Product Line of Preemptive Real-Time Systems</title>
+      <link>https://diverse-team.github.io/publication/hal-01241673/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01241673/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generative Middleware for Heterogeneous and Distributed Services</title>
+      <link>https://diverse-team.github.io/publication/hal-01356104/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01356104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KevoreeJS: Enabling Dynamic Software Reconfigurations in the Browser</title>
+      <link>https://diverse-team.github.io/publication/hal-01354997/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01354997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale Analysis of Chess Games with Chess Engines: A Preliminary Report</title>
+      <link>https://diverse-team.github.io/publication/hal-01307091/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01307091/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining and Modeling Variability from Natural Language Documents: Two Case Studies</title>
+      <link>https://diverse-team.github.io/publication/tel-01388392/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01388392/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squirrel: Architecture Driven Resource Management</title>
+      <link>https://diverse-team.github.io/publication/hal-01355000/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01355000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Minimisation of Pairwise-covering Test Configurations Using Constraint Programming</title>
+      <link>https://diverse-team.github.io/publication/hal-01352831/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01352831/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tool-Supported Approach for Concurrent Execution of Heterogeneous Models</title>
+      <link>https://diverse-team.github.io/publication/hal-01258358/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01258358/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B-Refactoring: Automatic Test Code Refactoring to Improve Dynamic Analysis</title>
+      <link>https://diverse-team.github.io/publication/hal-01309004/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01309004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correct-by-construction model driven engineering composition operators</title>
+      <link>https://diverse-team.github.io/publication/hal-01319576/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01319576/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightning Talk:I solemnly pledge A Manifesto for Personal Responsibility in the Engineering of Academic Software</title>
+      <link>https://diverse-team.github.io/publication/hal-01367344/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01367344/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling for Sustainability</title>
+      <link>https://diverse-team.github.io/publication/hal-01185800/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01185800/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScapeGoat: Spotting abnormal resource usage in component-based reconfigurable software systems</title>
+      <link>https://diverse-team.github.io/publication/hal-01354999/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01354999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VCU: The Three Dimensions of Reuse</title>
+      <link>https://diverse-team.github.io/publication/hal-01287720/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01287720/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Execution trace management to support dynamic V&amp;V for executable DSMLs</title>
+      <link>https://diverse-team.github.io/publication/tel-01238005/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01238005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting resource awareness in managed runtime environment</title>
+      <link>https://diverse-team.github.io/publication/tel-01308660/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01308660/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting resource-awareness in managed runtime environments</title>
+      <link>https://diverse-team.github.io/publication/tel-01246035/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01246035/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Language-Oriented Modeling</title>
+      <link>https://diverse-team.github.io/publication/tel-01238817/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01238817/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Model Transformation Pre-conditions using Automatically Generated Test Models</title>
+      <link>https://diverse-team.github.io/publication/hal-01228715/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01228715/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quand l’écologie inspire de nouvelles manières de fabriquer des logiciels</title>
+      <link>https://diverse-team.github.io/publication/hal-01350442/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01350442/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing and maintenance of graphical user interfaces</title>
+      <link>https://diverse-team.github.io/publication/tel-01232388/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01232388/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model-Driven Based Environment for Automatic Model Coordination</title>
+      <link>https://diverse-team.github.io/publication/hal-01198744/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01198744/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globalized Domain Specific Language Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01224283/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01224283/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melange: A Meta-language for Modular and Reusable Development of DSLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01197038/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01197038/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Driven Multi-Cloud Resource Management</title>
+      <link>https://diverse-team.github.io/publication/hal-01218571/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01218571/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reusing Legacy DSLs with Melange</title>
+      <link>https://diverse-team.github.io/publication/hal-01197039/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01197039/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Efficient and Advanced Omniscient Debugging for xDSMLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01182517/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01182517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Behavioral Coordination Operator Language (BCOoL)</title>
+      <link>https://diverse-team.github.io/publication/hal-01182773/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01182773/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Software Diversity in the Light of Test Suites</title>
+      <link>https://diverse-team.github.io/publication/hal-01198384/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01198384/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Cloud Energy Models for Optimizing Datacenters Efficiency</title>
+      <link>https://diverse-team.github.io/publication/hal-01243146/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01243146/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating predictive analysis in self-adaptive pervasive systems</title>
+      <link>https://diverse-team.github.io/publication/tel-01251551/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01251551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le fingerprinting : une nouvelle technique de traçage</title>
+      <link>https://diverse-team.github.io/publication/hal-01247090/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01247090/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Breaking The Curse of Dimensionality in Reverse Engineering Feature Models</title>
+      <link>https://diverse-team.github.io/publication/hal-01243571/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01243571/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards testing variability intensive systems using user reviews</title>
+      <link>https://diverse-team.github.io/publication/hal-01204507/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01204507/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Verification Techniques for Model Transformations: A Tridimensional Classification</title>
+      <link>https://diverse-team.github.io/publication/hal-01083759/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01083759/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MatrixMiner: A Red Pill to Architect Informal Product Descriptions in the Matrix</title>
+      <link>https://diverse-team.github.io/publication/hal-01234338/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01234338/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Lines Can Jeopardize Their Trade Secrets</title>
+      <link>https://diverse-team.github.io/publication/hal-01234342/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01234342/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using fuzzy modeling for consistent definitions of product qualities in requirements</title>
+      <link>https://diverse-team.github.io/publication/hal-01243006/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01243006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generative Approach to Define Rich Domain-Specific Trace Metamodels</title>
+      <link>https://diverse-team.github.io/publication/hal-01154225/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01154225/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novelty Search-based Test Data Generator for Object-oriented Programs</title>
+      <link>https://diverse-team.github.io/publication/hal-01248177/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01248177/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ATSyRa: An Integrated Environment for Synthesizing Attack Trees </title>
+      <link>https://diverse-team.github.io/publication/hal-01243021/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01243021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Product Line Derivation Operators Applied to Java Source Code: An Empirical Study</title>
+      <link>https://diverse-team.github.io/publication/hal-01163423/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01163423/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedding Adaptivity in Software Systems using the ECSELR framework</title>
+      <link>https://diverse-team.github.io/publication/hal-01159118/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01159118/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergent Robustness in Software Systems through Decentralized Adaptation: an Ecologically-Inspired ALife Approach</title>
+      <link>https://diverse-team.github.io/publication/hal-01159131/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01159131/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCCIware - A Formal and Tooled Framework for Managing Everything as a Service</title>
+      <link>https://diverse-team.github.io/publication/hal-01188826/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01188826/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPLTea 2015: Second International Workshop on Software Product Line Teaching</title>
+      <link>https://diverse-team.github.io/publication/hal-01243213/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01243213/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Attributed Feature Models From Product Descriptions</title>
+      <link>https://diverse-team.github.io/publication/hal-01178454/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01178454/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Multiple Facets of Software Diversity: Recent Developments in Year 2000 and Beyond</title>
+      <link>https://diverse-team.github.io/publication/hal-01182103/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01182103/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tooling Support for Variability and Architectural Patterns in Systems Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01242180/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01242180/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Functional Model Transformations with OCL</title>
+      <link>https://diverse-team.github.io/publication/hal-01179294/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01179294/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Precise Metamodel for Open Cloud Computing Interface</title>
+      <link>https://diverse-team.github.io/publication/hal-01188800/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01188800/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSpot: Test Amplification for Automatic Assessment of Computational Diversity</title>
+      <link>https://diverse-team.github.io/publication/hal-01162219/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01162219/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Analysis can be Improved with Automatic Test Suite Refactoring</title>
+      <link>https://diverse-team.github.io/publication/hal-01162220/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01162220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDE in Practice for Computational Science</title>
+      <link>https://diverse-team.github.io/publication/hal-01141393/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01141393/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novelty Search Approach for Automatic Test Data Generation</title>
+      <link>https://diverse-team.github.io/publication/hal-01121228/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01121228/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating browser fingerprint tracking: multi-level reconfiguration and diversification</title>
+      <link>https://diverse-team.github.io/publication/hal-01121108/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01121108/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifying and Qualifying GUI Defects</title>
+      <link>https://diverse-team.github.io/publication/hal-01114724/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01114724/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Model-Based Testing Advanced GUIs</title>
+      <link>https://diverse-team.github.io/publication/hal-01123647/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01123647/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges on Software Unbundling: Growing and Letting Go</title>
+      <link>https://diverse-team.github.io/publication/hal-01116694/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01116694/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computability Abstractions for Fault-tolerant Asynchronous Distributed Computing</title>
+      <link>https://diverse-team.github.io/publication/tel-01256926/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01256926/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution, testing and configuration of variability systems intensive</title>
+      <link>https://diverse-team.github.io/publication/tel-01187958/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01187958/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Language Interfaces for DSLs Integration</title>
+      <link>https://diverse-team.github.io/publication/hal-01138017/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01138017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Meta-Language for the Concurrency Concern in DSLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01087442/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01087442/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the use of slicing techniques for an efficient invariant checking</title>
+      <link>https://diverse-team.github.io/publication/hal-01141395/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01141395/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polymer: A Model-Driven Approach for Simpler, Safer, and Evolutive Multi-Objective Optimization Development</title>
+      <link>https://diverse-team.github.io/publication/hal-01248160/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01248160/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Attributed Feature Models From Product Descriptions: Foundations</title>
+      <link>https://diverse-team.github.io/publication/hal-01116663/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01116663/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Solution to the TTC&#39;15 Model Execution Case Using the GEMOC Studio</title>
+      <link>https://diverse-team.github.io/publication/hal-01152342/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01152342/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Metamodeling Practices for MOF and OCL</title>
+      <link>https://diverse-team.github.io/publication/hal-01186015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01186015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Use of Slicing-based Visualizing Techniques on the Understanding of Large Metamodels</title>
+      <link>https://diverse-team.github.io/publication/hal-01120558/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01120558/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breathing Ontological Knowledge Into Feature Model Synthesis: An Empirical Study</title>
+      <link>https://diverse-team.github.io/publication/hal-01096969/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01096969/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLARITY: Open-Sourcing the Model-Based Systems Engineering Solution Capella</title>
+      <link>https://diverse-team.github.io/publication/hal-01186019/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01186019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptual Model of the Globalization for Domain-Specific Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01224116/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01224116/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coping with Semantic Variation Points in Domain-Specific Modeling Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01222999/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01222999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globalizing Domain-Specific Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01224096/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01224096/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Proceedings of the 3rd International Workshop on the Globalization Of Modeling Languages and the 9th International Workshop on Multi-Paradigm Modeling</title>
+      <link>https://diverse-team.github.io/publication/hal-01242558/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01242558/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kompren: Modeling and Generating Model Slicers</title>
+      <link>https://diverse-team.github.io/publication/hal-00746566/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00746566/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mashup of Meta-Languages and its Implementation in the Kermeta Language Workbench</title>
+      <link>https://diverse-team.github.io/publication/hal-00829839/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00829839/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivating Use Cases for the Globalization of DSLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01233660/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01233660/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-tier diversification in Web-based software applications</title>
+      <link>https://diverse-team.github.io/publication/hal-01089268/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01089268/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Globalization of Domain-Specific Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01224105/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01224105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Variability Secrets of an Online Video Generator</title>
+      <link>https://diverse-team.github.io/publication/hal-01104797/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01104797/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Slicing to Improve the Performance of Model Invariant Checking</title>
+      <link>https://diverse-team.github.io/publication/hal-01179369/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01179369/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weaving Concurrency in eXecutable Domain-Specific Modeling Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01185911/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01185911/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach of combining model-based testing with product Ffamily management</title>
+      <link>https://diverse-team.github.io/publication/tel-01092342/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01092342/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing resource-aware distriubted system based on system level containers</title>
+      <link>https://diverse-team.github.io/publication/hal-01090565/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01090565/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Specific Languages: From Craft to Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01098012/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01098012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging model-based product lines for systems engineering</title>
+      <link>https://diverse-team.github.io/publication/tel-01127500/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01127500/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Distributed Product Configuration by Integrating Heterogeneous Variability Modeling Approaches</title>
+      <link>https://diverse-team.github.io/publication/hal-01204510/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01204510/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Model@runtime Middleware for Cyber Physical Systems</title>
+      <link>https://diverse-team.github.io/publication/hal-01090269/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01090269/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la modélisation à l’exécution : objectif, challenges et bénéfices</title>
+      <link>https://diverse-team.github.io/publication/tel-01096952/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01096952/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web applications engineering: reduce the complexity without loosing control</title>
+      <link>https://diverse-team.github.io/publication/tel-01087372/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01087372/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A formal framework to prove the correctness of model driven engineering composition operators</title>
+      <link>https://diverse-team.github.io/publication/hal-01024067/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01024067/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost in the Cloud: Rationalization and Research Trails</title>
+      <link>https://diverse-team.github.io/publication/hal-01158925/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01158925/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating scenario-based SPL requirements approaches: the case for modularity, stability and expressiveness</title>
+      <link>https://diverse-team.github.io/publication/hal-01088537/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01088537/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare event simulation for statistical model checking</title>
+      <link>https://diverse-team.github.io/publication/tel-01127612/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01127612/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Systems Engineering Meets Software Language Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01024166/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01024166/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Multi-objective Evolutionary Algorithms to Enable Quality-Aware Software Provisioning</title>
+      <link>https://diverse-team.github.io/publication/hal-01090246/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01090246/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Models@Run.time to embed an Energetic Cloud Simulator in a MAPE-K Loop</title>
+      <link>https://diverse-team.github.io/publication/hal-01243158/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01243158/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Native Versioning Concept to Support Historized Models at Runtime</title>
+      <link>https://diverse-team.github.io/publication/hal-01097020/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01097020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating Variability Model Inference for Component-Based Language Implementations</title>
+      <link>https://diverse-team.github.io/publication/hal-01023864/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01023864/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating the Formalization of Product Comparison Matrices</title>
+      <link>https://diverse-team.github.io/publication/hal-01058440/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01058440/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conversations with my Washing Machine: An in-the-wild Study of Demand Shifting with Self-generated Energy</title>
+      <link>https://diverse-team.github.io/publication/hal-01090641/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01090641/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEMOC 2014 2nd International Workshop on The Globalization of Modeling Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01074602/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01074602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MPLM -- MaTeLo Product Line Manager</title>
+      <link>https://diverse-team.github.io/publication/hal-01025159/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01025159/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metamorphic Domain-Specific Languages: A Journey Into the Shapes of a Language</title>
+      <link>https://diverse-team.github.io/publication/hal-01061576/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01061576/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Toward Product Line Engineering in a Nuclear Industry Consortium</title>
+      <link>https://diverse-team.github.io/publication/hal-01019537/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01019537/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Analyzing the Topology of Commit Histories in Decentralized Version Control Systems</title>
+      <link>https://diverse-team.github.io/publication/hal-01063789/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01063789/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operational Semantics of the Model of Concurrency and Communication Language</title>
+      <link>https://diverse-team.github.io/publication/hal-01060601/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01060601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPLTea 2014: First International Workshop on Software Product Line Teaching</title>
+      <link>https://diverse-team.github.io/publication/hal-01024990/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01024990/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safely Reusing Model Transformations through Family Polymorphism</title>
+      <link>https://diverse-team.github.io/publication/hal-01097975/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01097975/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Armies of Model Clones through Data Sharing</title>
+      <link>https://diverse-team.github.io/publication/hal-01023681/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01023681/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slicing-based Techniques for Visualizing Large Metamodels</title>
+      <link>https://diverse-team.github.io/publication/hal-01056217/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01056217/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Relevance of Model-Driven Engineering Thirty Years from Now</title>
+      <link>https://diverse-team.github.io/publication/hal-01081848/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01081848/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Managing Variability in the Safety Design of an Automotive Hall Effect Sensor</title>
+      <link>https://diverse-team.github.io/publication/hal-01018938/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01018938/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Scalable Multidimensional Execution Traces for xDSMLs</title>
+      <link>https://diverse-team.github.io/publication/hal-01061740/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01061740/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Synthesis of Attack Trees for Supporting Computer-Aided Risk Analysis</title>
+      <link>https://diverse-team.github.io/publication/hal-01064645/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01064645/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability Management in Domain-Specific Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01077788/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01077788/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability Management in Domain-Specific Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-01077834/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01077834/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ViViD: A Variability-Based Tool for Synthesizing Video Sequences</title>
+      <link>https://diverse-team.github.io/publication/hal-01020933/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01020933/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-based Absolute Localization for Unmanned Aerial Vehicles</title>
+      <link>https://diverse-team.github.io/publication/hal-01010140/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01010140/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebFML: Synthesizing Feature Models Everywhere</title>
+      <link>https://diverse-team.github.io/publication/hal-01022912/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01022912/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving Usage Model Variants for Model-based Testing: An Industrial Case Study</title>
+      <link>https://diverse-team.github.io/publication/hal-01002099/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01002099/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Multi-Objective Optimisation of Service Compositions in Mobile Ad hoc Networks Using Lightweight Surrogate Models</title>
+      <link>https://diverse-team.github.io/publication/hal-01090552/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01090552/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Participatory Data Analysis to Understand Social Constraints and Opportunities of Electricity Demand-Shifting</title>
+      <link>https://diverse-team.github.io/publication/hal-01090643/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01090643/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Variability-Based Testing Approach for Synthesizing Video Sequences</title>
+      <link>https://diverse-team.github.io/publication/hal-01003148/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01003148/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customization and 3D Printing: A Challenging Playground for Software Product Lines</title>
+      <link>https://diverse-team.github.io/publication/hal-01018937/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01018937/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing and Evolving Distributed Architecture using Kevoree</title>
+      <link>https://diverse-team.github.io/publication/hal-01096941/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01096941/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Counterexamples of Model-based Software Product Lines</title>
+      <link>https://diverse-team.github.io/publication/hal-01026581/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01026581/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Variability in the Video Domain: Language and Experience Report</title>
+      <link>https://diverse-team.github.io/publication/hal-01023159/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01023159/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-Assisted Optimisation of Composite Applications in Mobile Ad hoc Networks</title>
+      <link>https://diverse-team.github.io/publication/hal-00983064/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00983064/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The K3 Model-Based Language Workbench</title>
+      <link>https://diverse-team.github.io/publication/hal-01025283/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01025283/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Path-Dependent Types to Build Type Safe JavaScript Foreign Function Interfaces</title>
+      <link>https://diverse-team.github.io/publication/hal-01026148/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01026148/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Prediction-Driven Adaptation Approach for Self-Adaptive Sensor Networks</title>
+      <link>https://diverse-team.github.io/publication/hal-00983046/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00983046/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globalizing Modeling Languages</title>
+      <link>https://diverse-team.github.io/publication/hal-00994551/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00994551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>May the fork be with you: novel metrics to analyze collaboration on GitHub</title>
+      <link>https://diverse-team.github.io/publication/hal-01085400/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01085400/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Diversity: Challenges to handle the imposed, Opportunities to harness the chosen</title>
+      <link>https://diverse-team.github.io/publication/hal-00980126/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00980126/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency Checking in Early Software Product Line Specifications -The VCC Approach</title>
+      <link>https://diverse-team.github.io/publication/hal-01088464/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01088464/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevoree Modeling Framework (KMF): Efficient modeling techniques for runtime use</title>
+      <link>https://diverse-team.github.io/publication/hal-00996764/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00996764/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Family Polymorphism in MDE</title>
+      <link>https://diverse-team.github.io/publication/hal-00994541/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00994541/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Architectures and Multiple Variability</title>
+      <link>https://diverse-team.github.io/publication/hal-01098107/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01098107/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vers une approche centrée humain pour la définition de langages de modélisation graphiques</title>
+      <link>https://diverse-team.github.io/publication/hal-01002994/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01002994/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INCREMENT: A Mixed MDE-IR Approach for Regulatory Requirements Modeling and Analysis</title>
+      <link>https://diverse-team.github.io/publication/hal-00982065/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00982065/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scapegoat: an Adaptive monitoring framework for Component-based systems</title>
+      <link>https://diverse-team.github.io/publication/hal-00983045/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00983045/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound Merging and Differencing for Class Diagrams</title>
+      <link>https://diverse-team.github.io/publication/hal-01087323/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01087323/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Automation of the Mutation Analysis Dedicated to Model Transformation</title>
+      <link>https://diverse-team.github.io/publication/hal-00988164/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00988164/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability management and automation of software development processes</title>
+      <link>https://diverse-team.github.io/publication/tel-01061129/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/tel-01061129/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Architecture-Based Approach for Compute-Intensive Pervasive Systems in Dynamic Environments</title>
+      <link>https://diverse-team.github.io/publication/hal-01091541/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01091541/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Model Driven Engineering meets Virtual Reality: Feedback from Application to the Collaviz Framework</title>
+      <link>https://diverse-team.github.io/publication/hal-00969072/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00969072/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architectures logicielles et variabilité multiple</title>
+      <link>https://diverse-team.github.io/publication/hal-01098109/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01098109/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIVERSIFY - Ecology-inspired software evolution for diversity emergence</title>
+      <link>https://diverse-team.github.io/publication/hal-00916281/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00916281/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering Web Configurators</title>
+      <link>https://diverse-team.github.io/publication/hal-00913139/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00913139/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Teaching of Software Product Lines</title>
+      <link>https://diverse-team.github.io/publication/hal-00916746/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00916746/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and Exploitation of Natural Software Diversity: The Case of API Usages</title>
+      <link>https://diverse-team.github.io/publication/hal-01095501/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01095501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing or Configuring Products: Are We Getting the Right Ones?</title>
+      <link>https://diverse-team.github.io/publication/hal-00927312/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00927312/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based Testing of Global Properties on Large-Scale Distributed Systems</title>
+      <link>https://diverse-team.github.io/publication/hal-00942576/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00942576/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Language Engineering</title>
+      <link>https://diverse-team.github.io/publication/hal-01110914/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01110914/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailored Source Code Transformations to Synthesize Computationally Diverse Program Variants</title>
+      <link>https://diverse-team.github.io/publication/hal-00938855/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-00938855/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Multiple Facets of Software Diversity: Recent Developments in Year 2000 and Beyond</title>
+      <link>https://diverse-team.github.io/publication/hal-01067782/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/publication/hal-01067782/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

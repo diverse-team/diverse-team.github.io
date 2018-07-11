@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineer on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/tags/engineer/</link>
+    <description>Recent content in Engineer on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/tags/engineer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Research Engineer]: Machine Learning and Software Variability</title>
+      <link>https://diverse-team.github.io/position/varyvary/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/position/varyvary/</guid>
+      <description>co-advised with CEA/DAM, Rennes or Paris</description>
+    </item>
+    
+  </channel>
+</rss>

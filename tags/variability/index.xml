@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variability on IRISA/INRIA DiverSE Team</title>
+    <link>https://diverse-team.github.io/tags/variability/</link>
+    <description>Recent content in Variability on IRISA/INRIA DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diverse-team.github.io/tags/variability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VaryVary ANR JCJC (2017-2021)</title>
+      <link>https://diverse-team.github.io/project/varyvary/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diverse-team.github.io/project/varyvary/</guid>
+      <description>Coordinator: Mathieu Acher</description>
+    </item>
+    
+  </channel>
+</rss>
