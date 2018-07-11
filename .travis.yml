@@ -19,6 +19,7 @@ install:
 script:
   - cd tooling/bibtex2md/ && rm -rf *.md && node app.js && cp -n *.md ../../content/publication/ || true
   - cd ../atom2md/ && rm -rf *.md && node app.js && cp -n *.md ../../content/post/ || true
+  - cd ../../
   - tooling/hugo
   - echo 'www.diverse-team.fr' > public/CNAME
 
