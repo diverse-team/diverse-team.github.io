@@ -9,7 +9,7 @@ from = "2015-11-15"
 note = "Joint supervision thesis with University of Luxembourg. Co-director: [Y. lE TRAON](https://wwwen.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/members/yves_le_traon)"
 
 # Tags: can be used for filtering projects.
-tags = ["phd","current", "Co-Diplomation"]
+tags = ["phd","current", "codiplomation"]
 
 external_link = "https://wwwen.uni.lu/snt/people/ludovic_mouline"
 
@@ -18,7 +18,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "mouline.jpg"
 caption = ""
 
 +++
