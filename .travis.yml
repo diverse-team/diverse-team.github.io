@@ -3,6 +3,10 @@ branches:
   only:
   - gh-pages-edit
 
+language: node_js
+node_js:
+  - "8"
+
 # Install the apt prerequisites
 addons:
   apt:
@@ -13,6 +17,8 @@ install:
   - rm -rf public || exit 0
 # Build the website
 script:
+  - cd tooling/bibtex2md/ && rm -rf *.md && node app.js && cp -n *.md ../../content/publication/ || true
+  - cd ../atom2md/ && rm -rf *.md && node app.js && cp -n *.md ../../content/post/ || true
   - tooling/hugo
   - echo 'www.diverse-team.fr' > public/CNAME
 
