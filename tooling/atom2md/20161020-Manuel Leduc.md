@@ -1,7 +1,7 @@
 +++
 date = "2016-10-20"
-title = "Manuel Leduc published a new Blog Post on Object Algebras Composition"
-summary = "Manuel Leduc published a new Blog Post on Object Algebras Composition"
+title = "Manuel Leduc published a new Blog Post: Object Algebras Composition"
+summary = "Manuel Leduc published a new Blog Post: Object Algebras Composition"
 image_preview = ""
 tags = ["object","algebras","composition"]
 external_link = "https://mleduc.xyz/blog/scala/object/2016/10/20/object-algebra-composition.html"
@@ -12,4 +12,4 @@ caption = ""
 +++
 
 
-Manuel Leduc published a [new blog](https://mleduc.xyz/blog/scala/object/2016/10/20/object-algebra-composition.html) on Object Algebras Composition
+Manuel Leduc published a [new blog post](https://mleduc.xyz/blog/scala/object/2016/10/20/object-algebra-composition.html) on "**Object Algebras Composition**"

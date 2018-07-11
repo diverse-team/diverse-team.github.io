@@ -1,7 +1,7 @@
 +++
 date = "2017-07-26"
-title = "Manuel Leduc published a new Blog Post on Eclipse Plugin Generation"
-summary = "Manuel Leduc published a new Blog Post on Eclipse Plugin Generation"
+title = "Manuel Leduc published a new Blog Post: Eclipse Plugin Generation"
+summary = "Manuel Leduc published a new Blog Post: Eclipse Plugin Generation"
 image_preview = ""
 tags = ["pde","plugin","generation","programmatically"]
 external_link = "https://mleduc.xyz/blog/eclipse/2017/07/26/eclipse-plugin-generation.html"
@@ -12,4 +12,4 @@ caption = ""
 +++
 
 
-Manuel Leduc published a [new blog](https://mleduc.xyz/blog/eclipse/2017/07/26/eclipse-plugin-generation.html) on Eclipse Plugin Generation
+Manuel Leduc published a [new blog post](https://mleduc.xyz/blog/eclipse/2017/07/26/eclipse-plugin-generation.html) on "**Eclipse Plugin Generation**"
