@@ -40,10 +40,13 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "INRIA", url = "http://www.inria.fr" },
-    { name = "University of Rennes 1", url = "http://www.univ-rennes1.fr/" },
-    { name = "CNRS", url = "http://www.cnrs.fr/" },
-    {name = "IRISA Laboratory", url = "https://www.irisa.fr" }]
+  organizations = [ 
+        { name = "CNRS", url = "http://www.cnrs.fr/" },
+        { name = "Inria", url = "http://www.inria.fr" },
+        { name = "INSA Rennes", url = "https://www.insa-rennes.fr/" },
+        {name = "IRISA Laboratory", url = "https://www.irisa.fr" },
+        { name = "University of Rennes 1", url = "http://www.univ-rennes1.fr/" }
+]
 
   gravatar = false   # Get your avatar from Gravatar.com? (true/false)
   avatar = "diverse.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
