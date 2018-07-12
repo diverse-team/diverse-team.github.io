@@ -175,7 +175,7 @@ weight = 10
     ]
 
   [[team.students]]
-    img = "portrait.jpg"
+    img = "dorian.jpg"
     name = "Dorian Leroy"
     position = "Ph.D. Austrian [Tetrabox](https://www.big.tuwien.ac.at/projects/40) project"
     worksAt = "TU Wien, Austria"
@@ -198,4 +198,91 @@ weight = 10
       ["fa-home", "https://wwwen.uni.lu/snt/people/ludovic_mouline"],
     ]
 
+
+  [[team.students]]
+    img = "oscar.jpg"
+    name = "Oscar Luis Vera Pérez"
+    position = "Ph.D."
+    worksAt = "INRIA / U. of Rennes"
+    social = [
+      ["fa-twitter", "https://twitter.com/oscarlvp"],
+      ["fa-github", "https://github.com/oscarlvp"],
+    ]
+
+  [[team.students]]
+    img = "jed.jpg"
+    name = "Jean Emile DARTOIS"
+    position = "Ph.D."
+    worksAt = "B-COM / U. of Rennes"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/jeanemile/"],
+      ["fa-github", "https://github.com/Jean-Emile"]
+    ]
+
+
+
+  [[team.students]]
+    img = "youssou.jpeg"
+    name = "Youssou Ndiaye"
+    position = "Ph.D."
+    worksAt = "Orange / U. of Rennes"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/youssou-ndiaye/"]
+    ]
+
+ [[team.students]]
+    img = "gauthier.jpeg"
+    name = "Gauthier LYAN"
+    position = "Ph.D."
+    worksAt = "Keolis / U. of Rennes"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/gauthier-lyan-950b79b5/"]
+    ]
+
+
+ [[team.students]]
+    img = "antoine.jpeg"
+    name = "Antoine Cheron"
+    position = "Ph.D."
+    worksAt = "FABERNOVEL / U. of Rennes"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/antoine-cheron-581804aa"]
+    ]
+
+ [[team.students]]
+    img = "Alejandro.jpeg"
+    name = "Alejandro G. Gómez-Boix"
+    position = "Ph.D."
+    worksAt = "INRIA / U. of Rennes"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/alejandro-g-g%C3%B3mez-boix-260003a7/"]
+    ]
+
+ [[team.students]]
+    img = "Caroline.jpg"
+    name = "Caroline Landry"
+    position = "Research Engineer"
+    worksAt = "INRIA"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/?locale=fr_FR"]
+    ]
+
+
+ [[team.students]]
+    img = "paul.jpg"
+    name = "Paul Temple"
+    position = "Ph.D."
+    worksAt = "INRIA / U. of Rennes"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/paul-temple-16aa75120/"],
+        ["fa-twitter", "https://twitter.com/pleupi22"]
+    ]
+
+     [[team.students]]
+    img = "portrait.jpg"
+    name = "Erwan Picard"
+    position = "Ph.D."
+    worksAt = "IODE / U. of Rennes"
+
+	
 +++
