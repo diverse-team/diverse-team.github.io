@@ -153,7 +153,7 @@ weight = 10
     worksAt = "INRIA Rennes"
     social = [
       ["fa-home", "http://people.rennes.inria.fr/Didier.Vojtisek/"],
-      ["fa-linkedin", "https://www.linkedin.com/in/didier-vojtisek-9668625"]
+      ["fa-linkedin", "https://www.linkedin.com/in/didier-vojtisek-9668625/"]
     ]
 
  [[team.members]]
@@ -162,7 +162,7 @@ weight = 10
     position = "Research Engineer"
     worksAt = "INRIA"
     social = [
-      ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/?locale=fr_FR"]
+      ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/"]
     ]
 
  [[team.members]]
@@ -174,6 +174,17 @@ weight = 10
       ["fa-twitter", "https://twitter.com/erwan_bousse"],
       ["fa-home", "http://people.irisa.fr/Erwan.Bousse/"]      
     ]
+
+ [[team.members]]
+    img = "amine.png"
+    name = "Amine Benelallam"
+    position = "Post-doctoral researcher"
+    worksAt = "INRIA"
+    social = [
+      ["fa-twitter", "https://twitter.com/abenelallam"],
+      ["fa-linkedin", "https://www.linkedin.com/in/amine-benelallam/"]          
+    ]
+
 
 
 # Students
