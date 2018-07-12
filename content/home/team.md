@@ -165,6 +165,15 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/?locale=fr_FR"]
     ]
 
+ [[team.members]]
+    img = "erwan.png"
+    name = "Erwan Bousse"
+    position = "Post-doctoral researcher"
+    worksAt = "TU Wien"
+    social = [
+      ["fa-twitter", "https://twitter.com/erwan_bousse"],
+      ["fa-home", "http://people.irisa.fr/Erwan.Bousse/"]      
+    ]
 
 
 # Students
