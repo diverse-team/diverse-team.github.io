@@ -156,6 +156,16 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/didier-vojtisek-9668625"]
     ]
 
+ [[team.members]]
+    img = "Caroline.jpg"
+    name = "Caroline Landry"
+    position = "Research Engineer"
+    worksAt = "INRIA"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/?locale=fr_FR"]
+    ]
+
+
 
 # Students
 
@@ -258,14 +268,6 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/alejandro-g-g%C3%B3mez-boix-260003a7/"]
     ]
 
- [[team.students]]
-    img = "Caroline.jpg"
-    name = "Caroline Landry"
-    position = "Research Engineer"
-    worksAt = "INRIA"
-    social = [
-      ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/?locale=fr_FR"]
-    ]
 
 
  [[team.students]]
