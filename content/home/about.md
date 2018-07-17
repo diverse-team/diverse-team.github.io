@@ -27,7 +27,7 @@ weight = 5
 
 {{< diverse >}}’s research agenda is in the area of software engineering. In this broad domain we develop models, methodologies and theories to address the challenges raised by the emergence of several forms of diversity in the design, deployment and evolution of software intensive systems.
 The emergence of software diversity is an essential phenomenon in all application domains that we investigate with our industrial partners. These application domains range from complex systems such as systems of systems (in collaboration with Thales and DGA) and Instrumentation and Control (with EDF) to pervasive combinations of Internet of Things and Internet of Services (with TellU and Software AG) and tactical information systems (with the firefighter department).
-Even if today these systems are apparently radically different, we envision a strong convergence  of the scientific principles underpinning their construction and validation towards flexible and open yet dependable systems. In particular, we see that the required flexibility and openness raise challenges for the software layer of these systems that must deal with four dimension of diversity: the **diversity of languages** used by the stakeholders involved in the construction of these systems; the diversity of features required by the different customers; the diversity of runtime environments in which software has to run and adapt; the diversity of implementations that are necessary for resilience through redundancy.
+Even if today these systems are apparently radically different, we envision a strong convergence  of the scientific principles underpinning their construction and validation towards flexible and open yet dependable systems. In particular, we see that the required flexibility and openness raise challenges for the software layer of these systems that must deal with four dimension of diversity: the **diversity of languages** used by the stakeholders involved in the construction of these systems; the diversity of features (aka **variability**) required by the different customers; the **diversity of runtime environments** in which software has to run and adapt; the **diversity of implementations** that are necessary for resilience through redundancy.
 
 In this context, the major software engineering challenge consists in handling diversity from variability in requirements and design to heterogeneous and dynamic execution environments. In particular this requires considering that the software system must adapt, in unpredictable ways, to changes in the requirements and environment. Conversely, explicitly handling of diversity is a great opportunity to allow software to spontaneously explore alternative design solutions. Concretely, we want to provide software engineers with the ability:
 
@@ -51,12 +51,3 @@ Software product lines and associated variability modeling formalisms represent 
 
 {{< diverse >}} (formely Triskell) is a research team of {{< IRISA >}} (mixed research unit grouping {{< CNRS >}}, {{< UR1 >}}, {{< INRIA >}} {{< INSARennes >}} in Rennes / Britanny / France), defining itself as a world leader(*) of Model Driven Engineering (MDE) research.
 
-The research domain of the Triskell project-team is the model driven development and validation of software product lines, ranging from the Internet of Things to the Internet of Services. Triskell is particularly interested in component based, dynamically adaptable systems with quality of service constraints, including reliability, performance, timeliness, etc. The long-term goal of the Triskell project-team is to investigate new ways of building and validating these systems by unifying Model Driven Engineering, Aspect Oriented Software Development, Product-Line Engineering, Component Based Software Development, and Generative Programming.
-
-Model-Driven Engineering for Component-Based Software
-- Formal manipulation of UML models with patterns, frameworks and components
-- Design with contract-aware components and Aspect Oriented Modeling
-- Models@runtime to control Dynamically Adaptable Systems
-- Intra-component and inter-component V&V (testing)
-
-[Introduction to Model Driven Engineering](http://www.irisa.fr/triskell/IntroMDE_fichiers/v3_document.htm)
