@@ -22,4 +22,4 @@ caption = ""
 
 +++
 
-co-advised with CEA/DAM, Rennes or Paris
+Job description here: https://varyvary.github.io/jobs/news/2018/05/09/jobs.html
