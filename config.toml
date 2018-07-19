@@ -181,25 +181,31 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  name = "Objectives"
+  url = "/objectives"
+  weight = 2
+
+
+[[menu.main]]
   name = "News"
   url = "#news"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Blog"
   url = "/post/"
-  weight = 3
+  weight = 4
 
 
 [[menu.main]]
   name = "Team"
   url = "#team"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Talks"
