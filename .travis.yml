@@ -34,6 +34,7 @@ script:
   - cp -n *.md ../../content/post/ || true
   - cd ../../
   - cd tooling/wordcloudgenerator
+  - npm install
   - node app.js > ../../static/img/banner.svg
   - cd ../../
   - tooling/hugo
