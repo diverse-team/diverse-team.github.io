@@ -21,10 +21,6 @@ weight = 5
 +++
 
 
-
-
-
-
 # Objectives
 
 {{< diverse >}}’s research agenda is in the area of software engineering. In this broad domain we develop models, methodologies and theories to address the challenges raised by the emergence of several forms of diversity in the design, deployment and evolution of software intensive systems.
