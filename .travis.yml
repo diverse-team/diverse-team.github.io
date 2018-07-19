@@ -11,7 +11,14 @@ node_js:
 addons:
   apt:
     packages:
-      - python-pygments
+      - python-pygments 
+      - libcairo2-dev 
+      - libjpeg-dev 
+      - libpango1.0-dev 
+      - libgif-dev 
+      - build-essential 
+      - g++
+
 # Clean and don't fail
 install:
   - rm -rf public || exit 0
@@ -25,6 +32,9 @@ script:
   - rm -rf *.md
   - node app.js 
   - cp -n *.md ../../content/post/ || true
+  - cd ../../
+  - cd tooling/wordcloudgenerator
+  - node app.js > ../../static/img/banner.svg
   - cd ../../
   - tooling/hugo
   - echo 'www.diverse-team.fr' > public/CNAME
