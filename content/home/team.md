@@ -185,6 +185,15 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/amine-benelallam/"]          
     ]
 
+[[team.members]]
+    img = "juliana.jpg"
+    name = "Juliana Alves Pereira"
+    position = "Post-doctoral researcher"
+    worksAt = "INRIA"
+    social = [
+      ["fa-twitter", "https://twitter.com/\_jualvespereira"],
+      ["fa-linkedin", "https://www.linkedin.com/in/jualvespereira/"]          
+    ]
 
 
 # Students
