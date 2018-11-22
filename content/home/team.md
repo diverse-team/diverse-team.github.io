@@ -302,11 +302,22 @@ weight = 10
         ["fa-twitter", "https://twitter.com/pleupi22"]
     ]
 
-     [[team.students]]
+  [[team.students]]
     img = "portrait.jpg"
     name = "Erwan Picard"
     position = "Ph.D."
     worksAt = "IODE / U. of Rennes"
+
+ [[team.students]]
+    img = "portrait.jpg"
+    name = "June Benvegnu-Sallou"
+    position = "Ph.D."
+    worksAt = "U. of Rennes (IRISA & OSUR)"
+    social = [
+      ["fa-twitter", "https://twitter.com/jnsll_"],
+      ["fa-github", "https://github.com/Jnsll"],
+      ["fa-linkedin", "https://www.linkedin.com/in/june-benvegnu-sallou/"]
+    ]
 
 
 +++
