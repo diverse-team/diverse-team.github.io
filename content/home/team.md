@@ -325,7 +325,7 @@ weight = 10
     position = "Ph.D."
     worksAt = "INRIA / U. of Rennes"
     social = [
-      ["fa-github", "https://github.com/alfakb"]
+      ["fa-github", "https://github.com/alfakbb"]
     ]
 
 
