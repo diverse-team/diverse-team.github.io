@@ -187,7 +187,7 @@ weight = 10
     ]
 
 [[team.members]]
-    img = "juliana.jpg"
+    img = "juliana.png"
     name = "Juliana Alves Pereira"
     position = "Post-doctoral researcher"
     worksAt = "INRIA"
