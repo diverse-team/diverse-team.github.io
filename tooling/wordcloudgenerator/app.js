@@ -41,7 +41,7 @@ function fill(n) {
 function getWords(words) {
     var keys = Object.keys(words);
     var res = [];
-    var common = ['le', 'la', 'les', 'dans', 'des', 'de', 'du', 'en', 'à', 'qui', 'sont', 'cet', 'cette', 'notre', 'un', 'une', 'est', 'ces', 'd\'un', 'avec', 'et', 'pour', 'par', 'los', 'sistemas', 'para', 'ce', 'sur', 'modelos', 'nous', 'je', 'tu', 'il', 'elle', 'ils', 'elles', 'vous', 'el', 'se']
+    var common = ['le', 'la', 'les', 'dans', 'des', 'present', 'de', 'du', 'en', 'à', 'qui', 'sont', 'cet', 'cette', 'notre', 'un', 'une', 'est', 'ces', 'd\'un', 'avec', 'et', 'pour', 'par', 'los', 'sistemas', 'para', 'ce', 'sur', 'modelos', 'nous', 'je', 'tu', 'il', 'elle', 'ils', 'elles', 'vous', 'el', 'se']
     keys.forEach(key => {
         if (!common.includes(key)) {
             res.push({

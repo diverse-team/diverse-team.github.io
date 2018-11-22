@@ -162,6 +162,7 @@ weight = 10
     position = "Research Engineer"
     worksAt = "INRIA"
     social = [
+      ["fa-home", "http://caro.landry.free.fr/"],
       ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/"]
     ]
 
@@ -185,6 +186,15 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/amine-benelallam/"]          
     ]
 
+[[team.members]]
+    img = "juliana.jpg"
+    name = "Juliana Alves Pereira"
+    position = "Post-doctoral researcher"
+    worksAt = "INRIA"
+    social = [
+      ["fa-twitter", "https://twitter.com/_jualvespereira"],
+      ["fa-linkedin", "https://www.linkedin.com/in/jualvespereira/"]          
+    ]
 
 
 # Students
@@ -201,7 +211,9 @@ weight = 10
     position = "Pôle d'Excellence Cyber Grant"
     worksAt = "U. of Rennes"
     social = [
-      ["fa-home", "https://mleduc.xyz/blog/"],
+      ["fa-home", "https://mleduc.xyz/"],
+      ["fa-twitter", "https://twitter.com/manuel_leduc"],
+      ["fa-github", "https://github.com/manuelleduc"]
     ]
 
   [[team.students]]
@@ -306,5 +318,5 @@ weight = 10
     position = "Ph.D."
     worksAt = "IODE / U. of Rennes"
 
-	
+
 +++
