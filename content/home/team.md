@@ -319,5 +319,14 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/june-benvegnu-sallou/"]
     ]
 
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Alif Akbar Pranata"
+    position = "Ph.D."
+    worksAt = "INRIA / U. of Rennes"
+    social = [
+      ["fa-github", "https://github.com/alfakb"]
+    ]
+
 
 +++
