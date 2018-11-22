@@ -162,6 +162,7 @@ weight = 10
     position = "Research Engineer"
     worksAt = "INRIA"
     social = [
+      ["fa-home", "http://caro.landry.free.fr/"],
       ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/"]
     ]
 
