@@ -12,14 +12,13 @@ from = "2015-09-01"
 note = "MESR Grant (National Government of University Ministry; Director: Jean-Marc Jézéquel; Advisor: Mathieu Acher"
 
 #Tags: can be used for filtering projects.
-tags = ["current","past","phd"]
 
-#tags = ["past","phd"] tags = ["phd","current"]
-Does the project detail page use math formatting?
+tags = ["phd","current"]
 
 math = false
-Optional featured image (relative to static/img/ folder).
 
-[header] image = "" caption = ""
+[header] 
+image = "" 
+caption = ""
 
 +++
