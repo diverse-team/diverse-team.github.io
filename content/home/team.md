@@ -162,6 +162,7 @@ weight = 10
     position = "Research Engineer"
     worksAt = "INRIA"
     social = [
+      ["fa-home", "http://caro.landry.free.fr/"],
       ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/"]
     ]
 
@@ -187,7 +188,7 @@ weight = 10
     ]
 
 [[team.members]]
-    img = "juliana.jpg"
+    img = "juliana.png"
     name = "Juliana Alves Pereira"
     position = "Post-doctoral researcher"
     worksAt = "INRIA"
@@ -210,7 +211,9 @@ weight = 10
     position = "Pôle d'Excellence Cyber Grant"
     worksAt = "U. of Rennes"
     social = [
-      ["fa-home", "https://mleduc.xyz/blog/"],
+      ["fa-home", "https://mleduc.xyz/"],
+      ["fa-twitter", "https://twitter.com/manuel_leduc"],
+      ["fa-github", "https://github.com/manuelleduc"]
     ]
 
   [[team.students]]

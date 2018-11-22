@@ -1,18 +1,16 @@
 +++
 # Date this page was created.
-date = "2016-11-01"
+date = "2018-11-22"
 
 # Student Name.
-name = "Manuel Leduc"
+name = "Hugo Martin"
 title = ""
-from = "2016-11-01"
-note = "Grant from the Pôle d'Excellence Cyber. Advisor: [B. Combemale](http://combemale.fr); Co-advisor: [O. Barais](http://olivier.barais.fr/)"
+from = "2018-09-01"
+note = "Project [VaryVary](http://www.agence-nationale-recherche.fr/Projet-ANR-17-CE25-0010)"
 
 # Tags: can be used for filtering projects.
-#tags = ["past","phd","grant"]
+#tags = ["past","phd"]
 tags = ["phd","current"]
-
-external_link = "https://mleduc.xyz/blog/"
 
 # Does the project detail page use math formatting?
 math = false

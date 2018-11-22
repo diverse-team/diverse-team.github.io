@@ -13,7 +13,9 @@ team = "DiverSE"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-129668194-1"
+
+
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
