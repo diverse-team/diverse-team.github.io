@@ -211,6 +211,8 @@ weight = 10
     worksAt = "U. of Rennes"
     social = [
       ["fa-home", "https://mleduc.xyz/blog/"],
+      ["fa-twitter", "https://twitter.com/manuel_leduc"],
+      ["fa-github", "https://github.com/manuelleduc"]
     ]
 
   [[team.students]]
@@ -315,5 +317,5 @@ weight = 10
     position = "Ph.D."
     worksAt = "IODE / U. of Rennes"
 
-	
+
 +++
