@@ -173,7 +173,8 @@ weight = 10
     worksAt = "INRIA"
     social = [
       ["fa-twitter", "https://twitter.com/abenelallam"],
-      ["fa-linkedin", "https://www.linkedin.com/in/amine-benelallam/"]          
+      ["fa-linkedin", "https://www.linkedin.com/in/amine-benelallam/"] ,
+      ["fa-home","http://www.amine-benelallam.fr"]        
     ]
 
 [[team.members]]
@@ -185,7 +186,6 @@ weight = 10
       ["fa-twitter", "https://twitter.com/_jualvespereira"],
       ["fa-linkedin", "https://www.linkedin.com/in/jualvespereira/"]          
     ]
-
 
 # Students
 
