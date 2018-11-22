@@ -210,7 +210,7 @@ weight = 10
     position = "Pôle d'Excellence Cyber Grant"
     worksAt = "U. of Rennes"
     social = [
-      ["fa-home", "https://mleduc.xyz/blog/"],
+      ["fa-home", "https://mleduc.xyz/"],
       ["fa-twitter", "https://twitter.com/manuel_leduc"],
       ["fa-github", "https://github.com/manuelleduc"]
     ]
