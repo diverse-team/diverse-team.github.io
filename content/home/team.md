@@ -108,8 +108,8 @@ weight = 10
     ]
 
       [[team.members]]
-    img = "tifenn.png"
-    name = "Tifenn Donguy"
+    img = "fanny.png"
+    name = "Fanny Banor"
     position = "Administrative Assistant"
     # For bio markdown and even multiline strings are available.
     worksAt = "CNRS"
@@ -164,16 +164,6 @@ weight = 10
     social = [
       ["fa-home", "http://caro.landry.free.fr/"],
       ["fa-linkedin", "https://www.linkedin.com/in/caroline-landry-4328a5/"]
-    ]
-
- [[team.members]]
-    img = "erwan.png"
-    name = "Erwan Bousse"
-    position = "Post-doctoral researcher"
-    worksAt = "TU Wien"
-    social = [
-      ["fa-twitter", "https://twitter.com/erwan_bousse"],
-      ["fa-home", "http://people.irisa.fr/Erwan.Bousse/"]      
     ]
 
  [[team.members]]
@@ -312,11 +302,31 @@ weight = 10
         ["fa-twitter", "https://twitter.com/pleupi22"]
     ]
 
-     [[team.students]]
+  [[team.students]]
     img = "portrait.jpg"
     name = "Erwan Picard"
     position = "Ph.D."
     worksAt = "IODE / U. of Rennes"
+
+ [[team.students]]
+    img = "portrait.jpg"
+    name = "June Benvegnu-Sallou"
+    position = "Ph.D."
+    worksAt = "U. of Rennes (IRISA & OSUR)"
+    social = [
+      ["fa-twitter", "https://twitter.com/jnsll_"],
+      ["fa-github", "https://github.com/Jnsll"],
+      ["fa-linkedin", "https://www.linkedin.com/in/june-benvegnu-sallou/"]
+    ]
+
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Alif Akbar Pranata"
+    position = "Ph.D."
+    worksAt = "INRIA / U. of Rennes"
+    social = [
+      ["fa-github", "https://github.com/alfakbb"]
+    ]
 
 
 +++

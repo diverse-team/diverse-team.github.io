@@ -7,7 +7,6 @@ abstract = "Hi all, We're happy to have Antoine Cheron as a speaker for our next
 abstract_short = "Hi all, We're happy to have Antoine Cheron as a speaker for our next DiverSE Coffee. Enters Antoine: Today, the web we interact with is mostly composed of two kinds of components"
 
 
-
 event = "DiverSE Coffee"
 
 location = "Rennes, France"
