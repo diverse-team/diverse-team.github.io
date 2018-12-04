@@ -2,6 +2,9 @@
 :icons: font
 :hugo: https://github.com/diverse-team/diverse-team.github.io.git[Hugo]
 
+
+http://www.diverse-team.fr/
+
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
