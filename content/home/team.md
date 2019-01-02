@@ -328,5 +328,14 @@ weight = 10
       ["fa-github", "https://github.com/alfakbb"]
     ]
 
+  [[team.students]]
+    img = "portrait.jpg"
+    name = "Hugo Martin"
+    position = "Ph.D."
+    worksAt = "IRISA / U. of Rennes"
+    social = [
+      ["fa-github", "https://github.com/HugoJPMartin"]
+    ]
+
 
 +++
