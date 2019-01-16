@@ -180,65 +180,70 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Home"
   url = "#about"
-  weight = 1
+  weight = 10
+
+[[menu.main]]
+  name = "Deadlines"
+  url = "./se-deadlines"
+  weight = 15
 
 [[menu.main]]
   name = "Objectives"
   url = "/objectives"
-  weight = 2
+  weight = 20
 
 
 [[menu.main]]
   name = "News"
   url = "#news"
-  weight = 3
+  weight = 30
 
 [[menu.main]]
   name = "Blog"
   url = "/post/"
-  weight = 4
+  weight = 40
 
 
 [[menu.main]]
   name = "Team"
   url = "#team"
-  weight = 5
+  weight = 50
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 6
+  weight = 60
 
 [[menu.main]]
   name = "Talks"
   url = "#talk"
-  weight = 7
+  weight = 70
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 9
+  weight = 90
 
 [[menu.main]]
   name = "Thesis"
   url = "#students"
-  weight = 11
+  weight = 110
 
 [[menu.main]]
   name = "Positions"
   url = "/position/"
-  weight = 13
+  weight = 130
 
 
 [[menu.main]]
   name = "Software"
   url = "/software/"
-  weight = 14
+  weight = 140
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 16
+  weight = 160
 
 # Taxonomies.
 #[taxonomies]
