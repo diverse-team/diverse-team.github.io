@@ -14,7 +14,7 @@ note = "MESR Grant (National Government of University Ministry; Director: Jean-M
 
 #Tags: can be used for filtering projects.
 
-tags = ["phd","past"]
+tags = ["phd","previous"]
 
 math = false
 
