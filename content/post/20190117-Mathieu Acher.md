@@ -1,5 +1,5 @@
 +++
-date = "2018-05-29"
+date = "2019-01-17"
 title = "Mathieu Acher published a new blog post: The WikipediaMatrix Challenge"
 summary = "Mathieu Acher published a new blog post: The WikipediaMatrix Challenge"
 image_preview = ""
