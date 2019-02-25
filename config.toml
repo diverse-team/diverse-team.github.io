@@ -245,6 +245,11 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 160
 
+[[menu.main]]
+  name = "SE Deadlines"
+  url = "/se-deadlines/"
+  weight = 170
+
 # Taxonomies.
 #[taxonomies]
 #  tag = "tags"
