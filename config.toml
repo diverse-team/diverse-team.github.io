@@ -184,7 +184,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Deadlines"
-  url = "./se-deadlines"
+  url = "/se-deadlines/"
   weight = 15
 
 [[menu.main]]
@@ -244,11 +244,6 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 160
-
-[[menu.main]]
-  name = "SE Deadlines"
-  url = "/se-deadlines/"
-  weight = 170
 
 # Taxonomies.
 #[taxonomies]
