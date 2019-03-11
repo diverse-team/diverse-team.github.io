@@ -7,7 +7,7 @@ var parser = require('xml2json');
 
 var blogs = [{
     author: "Manuel Leduc",
-    url : "https://mleduc.xyz/blog/feed.xml",
+    url : "https://mleduc.xyz/feed.xml",
     prot : https
   },
   {
@@ -19,6 +19,11 @@ var blogs = [{
     author: "Arnaud Blouin",
     url : "https://torgen-engineering.blogspot.com/feeds/posts/default",
     prot : https
+  },
+  {
+    author: "Mathieu Acher",
+    url: "http://blog.mathieuacher.com/feed.xml",
+    prot: http
   }
 ]
 
