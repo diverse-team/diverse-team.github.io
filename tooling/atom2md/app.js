@@ -28,7 +28,7 @@ var blogs = [{
  {
      author: "VaryVary", 
      url: "https://varyvary.github.io/feed.xml",
-     prot: http
+     prot: https
  }
             
 ]
