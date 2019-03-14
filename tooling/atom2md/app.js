@@ -24,7 +24,13 @@ var blogs = [{
     author: "Mathieu Acher",
     url: "http://blog.mathieuacher.com/feed.xml",
     prot: http
-  }
+  }, 
+ {
+     author: "VaryVary", 
+     url: "https://varyvary.github.io/feed.xml",
+     prot: http
+ }
+            
 ]
 
 blogs.forEach(blog => {
