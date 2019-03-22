@@ -23,8 +23,8 @@ Based on {hugo}.
 
 Students::
 
-- Go to the link:content/students[content/students] folder and add a `.md+` file for each of your students.
-- Add also a `[[team.students]]` item in the `content/team.md` file
+- Go to the link:content/student[content/student] folder and add a `.md+` file for each of your students.
+- Add also a `\[[team.students]]` item in the link:content/home/team.md[content/home/team.md] file
 
 NOTE: This is temporary, DRY principle should be applied everywhere soon ;-)
 
