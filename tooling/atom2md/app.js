@@ -27,7 +27,7 @@ var blogs = [{
   }, 
  {
      author: "VaryVary", 
-     url: "https://varyvary.github.io/feed.xml", // the way feed.xml is important 
+     url: "https://varyvary.github.io/feed.xml", // the way feed.xml is important (URL, avoid same dates, etc.) 
      prot: https
  }
             
