@@ -22,12 +22,12 @@ var blogs = [{
   },
   {
     author: "Mathieu Acher",
-    url: "http://blog.mathieuacher.com/feed.xml",
+    url: "http://blog.mathieuacher.com/feed.xml", 
     prot: http
   }, 
  {
      author: "VaryVary", 
-     url: "https://varyvary.github.io/feed.xml",
+     url: "https://varyvary.github.io/feed.xml", // the way feed.xml is important 
      prot: https
  }
             
