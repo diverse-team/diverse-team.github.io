@@ -30,11 +30,11 @@ NOTE: This is temporary, DRY principle should be applied everywhere soon ;-)
 
 Pictures::
 
-- upload your picture in the `static/img/team/` folder (default pix is `portrait.jpg`)
+- upload your picture in the link:static/img/team/[static/img/team/] folder (default pix is `portrait.jpg`)
 
 Other content (project, publication, talk)::
 
-- Go to the `content/xxx` folder (e.g., `content/talk`)
+- Go to the `content/xxx` folder (e.g., link:content/talk[content/talk])
 - Follow the existing naming rule (if any) to create a new entry file (e.g., `20180119-CERFACS.md`),
 by copying an existing one to get the attributes to fill
 
