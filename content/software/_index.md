@@ -71,3 +71,10 @@ As a common technical  foundations, we use a lot in the team the followings tool
 
 - GreyCat is the first Temporal Many-World Graph database. In a nutshell, this project defines a graph storage and processing framework that allows you to store and analyze highly interconnected complex data structures and rapidly evolving over time. This data structure can be as well infinitely cloneable in order to evaluate potential alternatives modifications to find the best one. To sum up GreyCat is a core data structure framework to build for businesses, a live reasoning engine that can handle simulations and analytics over data in motion.
 
+# Tips & Tricks
+
+Here, we share tips and tricks acquired when implementing our prototypes, or papers.
+It's free for edition, with a trust-based policy.
+So feel free to add yours!
+
+- [LaTeX](https://hackmd.diverse-team.fr/LuGwkd6rS7WH-jM97oGW2Q)
