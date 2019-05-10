@@ -309,14 +309,14 @@ weight = 10
     worksAt = "IODE / U. of Rennes"
 
  [[team.students]]
-    img = "portrait.jpg"
-    name = "June Benvegnu-Sallou"
-    position = "Ph.D."
+    img = "June.png"
+    name = "June Sallou"
+    position = "Ph.D. Student"
     worksAt = "U. of Rennes (IRISA & OSUR)"
     social = [
       ["fa-twitter", "https://twitter.com/jnsll_"],
       ["fa-github", "https://github.com/Jnsll"],
-      ["fa-linkedin", "https://www.linkedin.com/in/june-benvegnu-sallou/"]
+      ["fa-linkedin", "https://www.linkedin.com/in/june-sallou/"]
     ]
 
   [[team.students]]
