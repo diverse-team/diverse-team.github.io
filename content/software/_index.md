@@ -15,7 +15,7 @@ The team develops many tools to support empirical research and we disseminate ou
 
 - [Melange](http://melange.inria.fr/) is a language and platform for assembling and integrating multiple domain-specific languages (DSL).
 - [Familiar](http://familiar-project.github.io/) is a language for importing, exporting, composing, decomposing, editing, configuring, computing “diffs”, refactoring, reverse engineering, testing, and reasoning about (multiple) feature models.
-- [Kevoree](http://kevoree.org/) aims at enabling distributed reconfigurable software development.
+- [Kevoree](https://github.com/kevoree) aims at enabling distributed reconfigurable software development.
 - Our [diversification toolbox](https://softwarediversity.eu/software/) gathers a set of tools to monitor and automatically synthesize variants of Java programs.
 
 As a common technical  foundations, we use a lot in the team the followings tools:
