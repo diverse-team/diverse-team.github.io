@@ -1,8 +1,7 @@
 +++
 date = "2019-06-21T13:00:00"
 title = "DiverSE Coffee[DiverSE Interns]"
-abstract = "We'll have six interns today for our DiverSE coffee.
-They will present themselves, what they are doing and what they plan to do."
+abstract = "We'll have six interns today for our DiverSE coffee. They will present themselves, what they are doing and what they plan to do."
 
 abstract_short = "DiverSE Interns present the project they will be working on."
 
