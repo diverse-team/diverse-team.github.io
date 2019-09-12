@@ -1,9 +1,9 @@
 +++
-date = "2019-07-11T13:00:00"
-title = "DiverSE Coffee[Benoit Baudry]"
-abstract = "Benoit Baudry is presenting his current research. Benoit Baudry is a Professor in Software Technology at the KTH Royal Institute of Technology, where he leads the CASTOR software research center. He received his PhD in 2003 from the University of Rennes and was a research scientist at INRIA from 2004 to 2017. His research interests include dynamic code analysis, automated software engineering and software diversification."
+date = "2019-07-04T13:00:00"
+title = "DiverSE Coffee[Philemon Houdaille & Ludovic Richoux]"
+abstract = "Two interns of the team,Philemon Houdaille and Ludovic Richoux, introduce themselves and their internship project to the rest of the team."
 
-abstract_short = "Benoit Baudry is presenting his current research."
+abstract_short = "Presentations of Philemon Houdaille and Ludovic Richoux"
 
 event = "DiverSE Coffee"
 location = "Rennes, France"
