@@ -314,6 +314,7 @@ weight = 10
     position = "Ph.D. Student"
     worksAt = "U. of Rennes (IRISA & OSUR)"
     social = [
+      ["fa-home", "https://jnsll.github.io/"],
       ["fa-twitter", "https://twitter.com/jnsll_"],
       ["fa-github", "https://github.com/Jnsll"],
       ["fa-linkedin", "https://www.linkedin.com/in/june-sallou/"]
