@@ -1,7 +1,7 @@
 +++
 date = "2019-10-03T13:00:00"
 title = "DiverSE Coffee[Nelly Bencomo]"
-abstract = "We'll have Dr. Nelly Bencomo as our DiverSE Coffee speaker this week. She will introduce herself and give a global presentation of her research work."
+abstract = "We'll have Pr. Nelly Bencomo as our DiverSE Coffee speaker this week. She will introduce herself and give a global presentation of her research work."
 
 abstract_short = "Nelly Bencomo is presenting her research work."
 
