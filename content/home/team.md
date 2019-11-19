@@ -167,7 +167,7 @@ weight = 10
     ]
 
  [[team.members]]
-    img = "djamel.png"
+    img = "djamel.jpg"
     name = "Djamel E. Khelladi"
     position = "CNRS Researcher"
     worksAt = "IRISA, Université Rennes 1"
