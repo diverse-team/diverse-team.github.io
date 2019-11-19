@@ -167,6 +167,17 @@ weight = 10
     ]
 
  [[team.members]]
+    img = "djamel.jpg"
+    name = "Djamel E. Khelladi"
+    position = "CNRS Researcher"
+    worksAt = "IRISA, Université Rennes 1"
+    social = [
+      ["fa-home", "http://people.irisa.fr/Djamel-Eddine.Khelladi/"],
+	  ["fa-twitter", "https://twitter.com/@dekhelladi"],
+      ["fa-linkedin", "https://www.linkedin.com/in/djamel-eddine-khelladi-42677a31/"]          
+    ]
+
+ [[team.members]]
     img = "amine.png"
     name = "Amine Benelallam"
     position = "Post-doctoral researcher"
