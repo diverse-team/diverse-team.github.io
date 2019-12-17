@@ -30,16 +30,7 @@ list_format = 2
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-  publication_types = [
-    'Any',
-    'Uncategorized',  # 0
-    'Conference proceedings',  # 1
-    'Journal',  # 2
-    'Work in progress',  # 3
-    'Technical report',  # 4
-    'Book',  # 5
-    'Book chapter'  # 6
-  ]
+publication_type = "-1"
 
 
 # Filter toolbar.
