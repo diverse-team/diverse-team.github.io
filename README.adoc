@@ -1,6 +1,6 @@
 = DiverSE Team web site
 :icons: font
-:hugo: https://github.com/diverse-team/diverse-team.github.io.git[Hugo]
+:hugo: https://gohugo.io[Hugo]
 
 
 http://www.diverse-team.fr/
