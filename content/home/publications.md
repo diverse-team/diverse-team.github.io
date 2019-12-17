@@ -30,7 +30,16 @@ list_format = 2
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+  publication_types = [
+    'Any',
+    'Uncategorized',  # 0
+    'Conference proceedings',  # 1
+    'Journal',  # 2
+    'Work in progress',  # 3
+    'Technical report',  # 4
+    'Book',  # 5
+    'Book chapter'  # 6
+  ]
 
 
 # Filter toolbar.
@@ -60,14 +69,5 @@ filter_default = 0
 [[filter]]
   name = "Variability"
   tag = ".variability"
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-[design]
-view = 3
-
 
 +++
