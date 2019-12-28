@@ -306,6 +306,14 @@ weight = 10
       ["fa-github", "https://github.com/HugoJPMartin"]
     ]
 
+  [[team.students]]
+    img = "pierre.jpg"
+    name = "Pierre Jeanjean"
+    position = "Ph.D."
+    worksAt = "INRIA"
+    social = [
+      ["fa-github", "https://github.com/pjeanjean"]
+    ]
 
 # Former members
 
