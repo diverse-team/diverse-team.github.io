@@ -237,7 +237,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Internships"
   url = "/internships/"
-  weight = 150
+  weight = 135 # weight defines the order: OK 
 
 [[menu.main]]
   name = "Software"
