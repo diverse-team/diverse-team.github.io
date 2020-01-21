@@ -61,6 +61,4 @@ filter_default = 0
   name = "Variability"
   tag = ".variability"
 
-
-
 +++

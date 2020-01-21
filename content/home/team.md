@@ -177,17 +177,6 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/djamel-eddine-khelladi-42677a31/"]          
     ]
 
- [[team.members]]
-    img = "amine.png"
-    name = "Amine Benelallam"
-    position = "Post-doctoral researcher"
-    worksAt = "INRIA"
-    social = [
-      ["fa-twitter", "https://twitter.com/abenelallam"],
-      ["fa-linkedin", "https://www.linkedin.com/in/amine-benelallam/"] ,
-      ["fa-home","http://www.amine-benelallam.fr"]        
-    ]
-
 [[team.members]]
     img = "juliana.png"
     name = "Juliana Alves Pereira"
@@ -232,15 +221,6 @@ weight = 10
       ["fa-home", "https://alexrio.fr/"],
     ]
 
-  [[team.students]]
-    img = "mouline.jpg"
-    name = "Ludovic Mouline"
-    position = "Ph.D."
-    worksAt = "U. of Luxembourg / U. of Rennes"
-    social = [
-      ["fa-home", "https://wwwen.uni.lu/snt/people/ludovic_mouline"],
-    ]
-
 
   [[team.students]]
     img = "oscar.jpg"
@@ -260,17 +240,6 @@ weight = 10
     social = [
       ["fa-linkedin", "https://www.linkedin.com/in/jeanemile/"],
       ["fa-github", "https://github.com/Jean-Emile"]
-    ]
-
-
-
-  [[team.students]]
-    img = "youssou.jpeg"
-    name = "Youssou Ndiaye"
-    position = "Ph.D."
-    worksAt = "Orange / U. of Rennes"
-    social = [
-      ["fa-linkedin", "https://www.linkedin.com/in/youssou-ndiaye/"]
     ]
 
  [[team.students]]
@@ -299,18 +268,6 @@ weight = 10
     worksAt = "INRIA / U. of Rennes"
     social = [
       ["fa-linkedin", "https://www.linkedin.com/in/alejandro-g-g%C3%B3mez-boix-260003a7/"]
-    ]
-
-
-
- [[team.students]]
-    img = "paul.jpg"
-    name = "Paul Temple"
-    position = "Ph.D."
-    worksAt = "INRIA / U. of Rennes"
-    social = [
-      ["fa-linkedin", "https://www.linkedin.com/in/paul-temple-16aa75120/"],
-        ["fa-twitter", "https://twitter.com/pleupi22"]
     ]
 
   [[team.students]]
@@ -349,5 +306,54 @@ weight = 10
       ["fa-github", "https://github.com/HugoJPMartin"]
     ]
 
+  [[team.students]]
+    img = "pierre.jpg"
+    name = "Pierre Jeanjean"
+    position = "Ph.D."
+    worksAt = "INRIA"
+    social = [
+      ["fa-github", "https://github.com/pjeanjean"]
+    ]
+
+# Former members
+
+ [[team.members]]
+    img = "amine.png"
+    name = "Amine Benelallam"
+    position = "Post-doctoral researcher"
+    worksAt = "INRIA"
+    social = [
+      ["fa-twitter", "https://twitter.com/abenelallam"],
+      ["fa-linkedin", "https://www.linkedin.com/in/amine-benelallam/"] ,
+      ["fa-home","http://www.amine-benelallam.fr"]        
+    ]
+
+[[team.students]]
+    img = "mouline.jpg"
+    name = "Ludovic Mouline"
+    position = "Ph.D."
+    worksAt = "U. of Luxembourg / U. of Rennes"
+    social = [
+      ["fa-home", "https://wwwen.uni.lu/snt/people/ludovic_mouline"],
+    ]
+
+[[team.students]]
+    img = "youssou.jpeg"
+    name = "Youssou Ndiaye"
+    position = "Ph.D."
+    worksAt = "Orange / U. of Rennes"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/youssou-ndiaye/"]
+    ]
+
+ [[team.students]]
+    img = "paul.jpg"
+    name = "Paul Temple"
+    position = "Ph.D."
+    worksAt = "INRIA / U. of Rennes"
+    social = [
+      ["fa-linkedin", "https://www.linkedin.com/in/paul-temple-16aa75120/"],
+        ["fa-twitter", "https://twitter.com/pleupi22"]
+    ]
 
 +++

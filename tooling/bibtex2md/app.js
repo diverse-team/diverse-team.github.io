@@ -3,7 +3,7 @@ var https = require('https');
 var fs = require('fs');
 var moment = require('moment');
 
-https.get('https://haltools.inria.fr/Public/exportPubli.php?format_export=bibtex&annee_publideb=2014&annee_publifin=2018&labos_exp=diverse;triskell&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=typdoc&tri_exp2=auteur_exp&tri_exp3=titre&ordre_aff=TA', (res) => {
+https.get('https://haltools.inria.fr/Public/exportPubli.php?format_export=bibtex&annee_publideb=2014&labos_exp=diverse;triskell&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=typdoc&tri_exp2=auteur_exp&tri_exp3=titre&ordre_aff=TA', (res) => {
   const { statusCode } = res;
   const contentType = res.headers['content-type'];
 
