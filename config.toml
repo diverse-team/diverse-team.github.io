@@ -234,6 +234,10 @@ defaultContentLanguageInSubdir = false
   url = "/position/"
   weight = 130
 
+[[menu.main]]
+  name = "Internships"
+  url = "/internships/"
+  weight = 150
 
 [[menu.main]]
   name = "Software"
