@@ -6,10 +6,11 @@ date = "2018-07-10"
 name = "Ludovic Mouline"
 title = "PhD Candidate"
 from = "2015-11-15"
+to = "2019-11-29"
 note = "Joint supervision thesis with University of Luxembourg. Co-director: [Y. lE TRAON](https://wwwen.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/members/yves_le_traon)"
 
 # Tags: can be used for filtering projects.
-tags = ["phd","current", "codiplomation"]
+tags = ["phd","past", "codiplomation"]
 
 external_link = "https://wwwen.uni.lu/snt/people/ludovic_mouline"
 
