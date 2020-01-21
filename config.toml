@@ -230,14 +230,9 @@ defaultContentLanguageInSubdir = false
   weight = 110
 
 [[menu.main]]
-  name = "Positions"
+  name = "Open Positions"
   url = "/position/"
   weight = 130
-
-[[menu.main]]
-  name = "Internships"
-  url = "/internships/"
-  weight = 135 # weight defines the order: OK 
 
 [[menu.main]]
   name = "Software"
