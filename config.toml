@@ -230,7 +230,7 @@ defaultContentLanguageInSubdir = false
   weight = 110
 
 [[menu.main]]
-  name = "Open Positions"
+  name = "Join Us!"
   url = "/position/"
   weight = 130
 
