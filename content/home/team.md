@@ -289,7 +289,7 @@ weight = 10
     ]
 
   [[team.students]]
-    img = "portrait.jpg"
+    img = "alif.jpg"
     name = "Alif Akbar Pranata"
     position = "Ph.D."
     worksAt = "INRIA / U. of Rennes"
