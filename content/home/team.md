@@ -187,6 +187,12 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/jualvespereira/"]          
     ]
 
+ [[team.members]]
+    img = "gurvan.jpg"
+    name = "Gurvan LE GUERNIC"
+    position = "External collaborator"
+    worksAt = "DGA MI"
+
 # Students
 
   [[team.students]]
