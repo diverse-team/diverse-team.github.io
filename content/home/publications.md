@@ -13,7 +13,7 @@ widget = "publications"
 weight = 20
 
 # Number of publications to list.
-count = 5
+count = 3
 
 # List format.
 #   0 = Simple

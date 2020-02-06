@@ -19,6 +19,14 @@ WARNING: Work in progress!!
 
 Based on {hugo}.
 
+== Requirements
+
+The website is built using Hugo 0.43 and there are compatibility issues with newer versions. To ease the build we include the required Hugo binaries in the link:tooling[tooling/] folder.
+
+NodeJS is required to run the supporting scripts that fetch data from different sources.
+
+link:.travis.yml[.travis.yml] contains the steps that can be followed to build the site. Change the Hugo binary according to your platform.
+
 == To add content
 
 Students::
