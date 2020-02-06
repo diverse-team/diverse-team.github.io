@@ -197,15 +197,15 @@ defaultContentLanguageInSubdir = false
   url = "#publications"
   weight = 40
 
-[[menu.main]]
-  name = "Community"
-  url = "/community"
-  weight = 50
+# [[menu.main]]
+#   name = "Community"
+#   url = "/community"
+#   weight = 50
 
-[[menu.main]]
-  name = "Team"
-  url = "/team"
-  weight = 50
+# [[menu.main]]
+#   name = "Team"
+#   url = "/team"
+#   weight = 50
 
 [[menu.main]]
   name = "Join Us!"
