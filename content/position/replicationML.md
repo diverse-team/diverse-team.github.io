@@ -30,8 +30,8 @@ By replicating studies, the intern will have a deep understanding of a specific 
 The internship is really *practical*: We will select papers for which the code and data are available.  
 The main task will be to reuse and customize the existing code/data in order to produce and discuss results. 
 
-For this fall/summer, we are specifically interested in replicating studies about machine learning algorithms (usually written in Python or R) over real-world software systems (e.g., Linux, ffmpeg). 
+For this fall/summer, we are specifically interested in replicating studies about *machine learning algorithms* (usually written in Python or R) over real-world software systems (e.g., Linux, ffmpeg). 
 For instance, there are many learning-based algorithms that claim to find optimal software configurations, but is it really the case for the data we have in our research team?
-The candidate should not necessarily have an in-depth knowledge of machine learning (the internship is a good excuse to acquire such a knowledge!), but she/he should be passionate about software and gathering/analysis of data. 
+The candidate should not necessarily have an in-depth knowledge of machine learning (the internship is a good excuse to acquire such a knowledge!), but she/he should be passionate about **software and gathering/analysis of data**. 
 
 Contact: Mathieu Acher mathieu.acher@irisa.fr 
