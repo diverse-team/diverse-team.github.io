@@ -60,9 +60,10 @@ We are looking for highly motivated people in software (in a broad sense) and se
 We are studying real-world, popular, open-source, configurable software projects like Linux, Firefox, ffmpeg, VLC, Apache or JHipster -- and we hope to have concrete impacts on them!
 
 The candidate should have a strong interest and the skills for performing large-scale experiments with software. In particular:
- * advanced software engineering skills, including program analysis, compilation, software automation, software testing. In general we need *highly technical software abilities*, since it is the main asset we are analyzing;  
- * experience or interest in software security, for example: fuzzing, code debloating, obfuscation; 
- * variability and configuration expertise: it is a *plus* to have knowledge about software configurations, but it's not mandatory 
+ 
+ - advanced software engineering skills, including program analysis, compilation, software automation, software testing. In general we need **highly technical software abilities**, since software is the main asset we are analyzing;  
+ - experience or interest in software security, for example: fuzzing, code debloating, obfuscation; 
+ - variability and configuration expertise: it is a *plus* to have knowledge about software configurations, but it's not mandatory 
  
 The candidates will work with two PhD students, at 2 least two professors, and a researcher from DGA.  
 
