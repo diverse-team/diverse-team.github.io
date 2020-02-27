@@ -45,8 +45,9 @@ Despite its ubiquitous presence, variability (adaptation at compile-time or run-
 
 There is another important issue: the surface attack of configurable system is potentially extremely important. Each (combination of) option can be subject to a different attack, for example, an attacker can inspect many configuration-related paths in a program. 
 Overall, our observation is twofold:
- * *configuration can be pointless*: users do not need necessarily the ability to configure their systems, especially at run-time. A default configuration can be sufficient for a majority of the use cases while most of the options will simply never been used; 
- * *configuration is a security threat*: configuration options cannot only be pointless, they can be unnecessary opportunity and entry point for attackers.
+
+ - *configuration can be pointless*: users do not need necessarily the ability to configure their systems, especially at run-time. A default configuration can be sufficient for a majority of the use cases while most of the options will simply never been used; 
+ - *configuration is a security threat*: configuration options cannot only be pointless, they can be unnecessary opportunity and entry point for attackers.
 
 As configuration options can be pointless and represent a threat, our objective is to *automatically remove unneeded configuration-related code out of programs*.   
 When options are removed, we aim to show that some attacks are no longer possible while the the functionality or usability of the system is not altered. We plan to study real-wold systems, attacks, and options to empirically study the effectiveness of our techniques. 
