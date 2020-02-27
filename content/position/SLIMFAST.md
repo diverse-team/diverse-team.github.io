@@ -53,6 +53,11 @@ As configuration options can be pointless and represent a threat, our objective 
 When options are removed, we aim to show that some attacks are no longer possible while the the functionality or usability of the system is not altered. We plan to study real-wold systems, attacks, and options to empirically study the effectiveness of our techniques. 
 We also plan to provide some theoretical guarantees about our removal process.  
 
+## References
+
+ - Mathieu Acher, Guillaume Bécan, Benoit Combemale, Benoit Baudry, and Jean-Marc Jézéquel. Product lines can jeopardize their trade secrets (2015). In Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering (ESEC/FSE'15), NIER track https://hal.inria.fr/hal-01234342 
+ - Mathieu Acher, Hugo Martin, Juliana Alves Pereira, Arnaud Blouin, Jean-Marc Jézéquel, Djamel Eddine Khelladi, Luc Lesoil, and Olivier Barais. Learning Very Large Configuration Spaces: What Matters for Linux Kernel Sizes (2019). https://hal.inria.fr/hal-02314830  
+
 
 # Skills
 
