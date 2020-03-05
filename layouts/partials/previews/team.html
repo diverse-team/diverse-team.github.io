@@ -4,9 +4,9 @@
     {{ with .Params }}
       <h5 class="card-title">{{ .name }}</h5>
       <p class="card-text">
-          <span>{{ .position }}</span>
+          <span>{{ .position | markdownify }}</span>
           <br/>
-          <span>{{ .organization }}</span>
+          <span>{{ .organization | markdownify }}</span>
       </p>
 
       {{ $urls := dict "home" "%s" "twitter" "https://twitter.com/%s" "github" "https://github.com/%s" "linkedin" "https://linkedin.com/in/%s" "researchgate" "https://researchgate.com/profile/%s" }}

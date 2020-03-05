@@ -48,5 +48,6 @@ The website will be created in the `public` directory.
 
 ## Guides
 
+- [How to add a new team member](docs/team.md)
 - [How to add a new job opening?](docs/positions.md)
 - [How to add a new software entry?](docs/software.md)
