@@ -1,0 +1,36 @@
+const {URL, URLSearchParams} = require('url');
+const fetchbib = require('./fetchbib')
+const fs = require('fs');
+
+const HALTOOLS_EXPORT_URL =  'https://haltools.inria.fr/Public/exportPubli.php';
+
+const EXPORT_PARAMETERS = {
+    format_export: 'bibtex',
+    annee_publideb: 2014,
+    labos_exp: 'diverse;triskell',
+    CB_article: 'oui',
+    CB_auteur: 'oui',
+    CB_titre: 'oui',
+    langue: 'Anglais',
+    tri_exp: 'typdoc',
+    tri_exp2: 'auteur_exp',
+    tri_exp3: 'titre',
+    ordre_aff: 'TA'
+};
+
+const PUBLICATIONS_PATH = '../data/publications.json'
+
+
+async function updatebib() {
+    const url = new URL(HALTOOLS_EXPORT_URL);
+    url.search = new URLSearchParams(EXPORT_PARAMETERS);
+    
+    //Request publications
+    const publications = await fetchbib(url.toString());
+
+    //Save publications
+    fs.writeFileSync(PUBLICATIONS_PATH, JSON.stringify(publications));
+
+}
+
+updatebib();

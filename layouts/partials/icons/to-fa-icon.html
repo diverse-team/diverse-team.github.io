@@ -1,0 +1,3 @@
+{{ $brands :=  (slice "github" "researchgate" "linkedin" "twitter") }}
+{{ $format :=  (cond (in  $brands .) "fab fa-%s" "fas fa-%s") }}
+{{ return ( printf $format . ) }}

@@ -1,0 +1,6 @@
+<span class="fa-stack fa-{{ .size | default "2x" }} m-2" title="{{ .title }}">
+    <i class="fas fa-circle fa-stack-2x text-{{ .color | default "primary" }}"></i>
+    <i class="{{ partial "icons/to-fa-icon.html" .icon }} fa-stack-1x {{ if .inverted }}fa-inverse{{ end }}"></i>
+    {{ if .title }}<span class="sr-only">{{ .title }}</span>{{ end }}
+</span>
+

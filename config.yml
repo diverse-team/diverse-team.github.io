@@ -1,0 +1,23 @@
+baseURL: "http://example.org/"
+languageCode: en-us
+title: Inria/Irisa DiverSE Team
+
+disablleKinds: [taxonomy, taxonomyTerm, RSS, sitemap, robotsTXT, 404]
+
+logFile: hugo.log
+verbose: true
+verbseLog: true
+useResourceCacheWhen: never
+
+params:
+  twitter: DiverSE_inria
+  github: diverse-project
+  researchgate: Olivier-Barais-Lab
+  address: Campus de Beaulieu, 263 avenue du Général Leclerc, 35 042 RENNES cedex, France
+  email: barais@irisa.fr
+  telephone: +33 (0)6.67.60.59.35
+
+  recent_publications: 3
+  recent_talks: 3
+
+ 

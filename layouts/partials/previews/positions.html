@@ -1,0 +1,5 @@
+<div class="position-preview">
+    <h4>[{{ .Params.position | upper }}] {{ .Title | markdownify }}</h4>
+    <p class="summary">{{ .Params.summary | markdownify }}</p>
+    <a href="{{ .Permalink }}">See more...</a>
+</div>

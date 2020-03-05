@@ -1,0 +1,19 @@
+<div class="card" style="width: 18rem;">
+    <img class="card-img-top" src="/images/team/{{ .File.BaseFileName }}.png" >
+    <div class="card-body">
+    {{ with .Params }}
+      <h5 class="card-title">{{ .name }}</h5>
+      <p class="card-text">
+          <span>{{ .position }}</span>
+          <br/>
+          <span>{{ .organization }}</span>
+      </p>
+
+      {{ $urls := dict "home" "%s" "twitter" "https://twitter.com/%s" "github" "https://github.com/%s" "linkedin" "https://linkedin.com/in/%s" "researchgate" "https://researchgate.com/profile/%s" }}
+
+      {{ range $item, $target := .social }}
+      <a href="{{ printf (index $urls $item) $target }}" class="btn btn-primary"><i class="{{partial "icons/to-fa-icon.html" $item}}"></i></a>
+      {{ end }}
+    {{ end }}
+    </div>
+  </div>

@@ -1,0 +1,48 @@
+<footer class="py-5 bg-dark text-light">
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col col-8">
+                    <h4>DiverSE</h4>
+                    <ul id="contact-information">
+                        {{ with .Site.Params }}
+                            {{ if .twitter }}
+                            <li><i class="fab fa-twitter"></i><a class="text-light" href="https://www.twitter.com/@{{.twitter}}">@{{ .twitter }}</a></li>
+                            {{ end }}
+                            {{ if .github }}
+                            <li><i class="fab fa-github"></i><a class="text-light" href="https://github.com/{{.github}}">{{ .github }}</a></li>
+                            {{ end }}
+                            {{ if .researchgate }}
+                            <li><i class="fab fa-researchgate"></i><a class="text-light" href="https://www.researchgate.com/lab/{{.researchgate}}">Research Gate</a></li>
+                            {{ end }}
+                            {{ if .email }}
+                            <li><i class="fas fa-at"></i><a class="text-light" href="mailto:{{.email}}">{{ .email }}</a></li>
+                            {{ end }}
+                            {{ if .telephone }}
+                            <li><i class="fas fa-phone"></i><a class="text-light" href="tel:{{ .telephone }}">{{ .telephone }}</a></li>
+                            {{ end }}
+                            {{ if .address }}
+                            <li><i class="fas fa-map-marker-alt"></i><span class="text-light">{{ .address }}</a></li>
+                            {{ end }}
+                        {{ end }}
+                    </ul>
+                </div>
+                {{ $pagesize := (div (len .Site.Menus.main ) 2) }}
+                <div class="col">
+                    <ul class="navbar-nav">
+                    {{ range first $pagesize .Site.Menus.main }}
+                        <il class="nav-item"><a class="text-light nav-link" href="{{ .URL }}">{{ .Name }}</a></il>
+                    {{ end }}
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul class="navbar-nav">
+                    {{ range after $pagesize .Site.Menus.main }}
+                        <il class="nav-item"><a class="text-light nav-link" href="{{ .URL }}">{{ .Name }}</a></il>
+                    {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

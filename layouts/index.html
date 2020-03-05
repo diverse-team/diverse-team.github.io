@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+    <section id="banner">
+        <div id="banner-frame" class="container-fluid position-relative">
+            <h1 id="banner-title" class="text-center text-light position-absolute">
+                Diversity-Centric Software Engineering
+            </h1>
+        </div>
+    </section>
+
+    <section id="research-axes">
+        <div>
+        {{ partial "icons/list.html" .Params.sections.axes }}
+        </div>
+    </section>
+
+    <section id="papers">
+        <div class="container-fluid">
+        {{ partial "icons/column.html" (merge .Params.sections.publications  (dict "context" .)) }}
+        </div>
+    </section>
+
+    <section id="talks">
+        <div class="container-fluid">
+        {{ partial "icons/column.html" .Params.sections.talks }}
+        </div>
+    </section>
+
+    <section id="organizations" class="py-5 bg-dark">
+        <div class="row justify-content-center align-items-stretch items">
+            {{ range (slice "inria" "irisa" "univ-rennes1" "cnrs" "insa") }}
+            <div class="col-md-2 d-flex flex-column">
+                <div id="{{.}}"class="organization-logo" style="background-image: url(/images/organizations/dark-bg/{{.}}.png);"></div>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+{{ end }}

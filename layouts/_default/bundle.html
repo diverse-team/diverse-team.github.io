@@ -1,0 +1,15 @@
+{{ define "content" }}
+    {{ $type := path.Base .File.Dir }}
+    {{ $preview := printf "previews/%s.html" $type }}
+    {{ if not (fileExists (printf "layouts/partials/%s" $preview)) }}
+        {{ $preview = "previews/default-simple.html" }}
+    {{ end }}
+    <div class="list-preamble">
+        {{ .Content }}
+    </div>
+    <ul class="page-list">
+    {{ range .Resources }}
+        <li> {{ partial $preview . }} </li>
+    {{ end }}
+    </ul>
+{{ end }}
