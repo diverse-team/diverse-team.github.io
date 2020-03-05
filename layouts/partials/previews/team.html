@@ -1,5 +1,19 @@
 <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="/images/team/{{ .File.BaseFileName }}.png" >
+
+    {{ $folder := "/images/team" }}
+    {{ $image := printf "%s/%s.png" $folder .File.BaseFileName }}
+    {{ if not ( fileExists $image ) }}
+        {{ $image = printf "%s/%s.jpg" $folder .File.BaseFileName }}
+    {{ end }}
+
+    {{ if ( fileExists $image ) }}
+    <img class="card-img-top" src="{{ $image }}" >
+    {{ else }}
+    <div class="card-img-top default-profile-img bg-primary">
+        <i class="fas fa-user fa-4x fa-inverse"></i>
+    </div>
+    {{ end }}
+
     <div class="card-body">
     {{ with .Params }}
       <h5 class="card-title">{{ .name }}</h5>
