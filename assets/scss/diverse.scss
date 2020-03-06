@@ -86,7 +86,48 @@ blockquote {
     padding-left: 1em;
 }
 
-.default-profile-img {
-    padding: 10px;
-    text-align: center;
+
+
+.member-card {
+    $member-photo-size: 150px;
+
+    width: $member-photo-size;
+
+    @mixin profile-image {
+        height: $member-photo-size;
+    }
+
+    .default-member-image {
+        @include profile-image;
+        text-align: center;
+        line-height: $member-photo-size + 30;
+        background-color: $primary;
+    }
+
+    .card-body {
+        padding: .5em;
+    }
+
+    .member-name {
+        font-size: .9em;
+        margin-bottom: .3em;
+        min-height: 1.9em;;
+    }
+    
+    .member-description {
+        margin-bottom: .3em;
+        font-size: .7em;
+        min-height: 6em;
+    }
+
+    .member-social {
+        text-align: center;
+    }
+
+    .social-item {
+        font-size: 1.4em;
+        margin: 0 .03em;
+    }
+
+
 }

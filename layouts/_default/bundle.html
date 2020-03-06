@@ -7,9 +7,9 @@
     <div class="list-preamble">
         {{ .Content }}
     </div>
-    <ul class="page-list">
+    <div class="row page-list">
     {{ range .Resources }}
-        <li> {{ partial $preview . }} </li>
+        {{ partial $preview . }}
     {{ end }}
     </ul>
 {{ end }}
