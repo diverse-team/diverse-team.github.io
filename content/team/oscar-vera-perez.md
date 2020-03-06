@@ -1,7 +1,7 @@
 ---
 name: Oscar Luis Vera-Pérez
 organization: ISTIC, Université de Rennes 1
-position: Professor, acting head of the team
+position: Assistant Professor
 category: member
 social:
   home: http://oscarlvp.github.io
