@@ -1,10 +1,12 @@
-<h4>{{ .Params.name }}</h4>
-<div cllass="summary">
-    {{ .Content }}
+<div>
+    <h4>{{ .Params.name }}</h4>
+    <div cllass="summary">
+        {{ .Content }}
+    </div>
+    {{ if .Params.repository }}
+    <a href="{{.Params.repository}}">Repository</a>
+    {{ end }}
+    {{ if .Params.site }}
+    <a href="{{.Params.site}}">Site</a>
 </div>
-{{ if .Params.repository }}
-<a href="{{.Params.repository}}">Repository</a>
-{{ end }}
-{{ if .Params.site }}
-<a href="{{.Params.site}}">Site</a>
 {{ end }}
