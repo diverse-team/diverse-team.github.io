@@ -1,14 +1,18 @@
 <div class="col">
 <div class="card member-card">
 
-    {{ $folder := "/images/team" }}
-    {{ $image := printf "%s/%s.png" $folder .File.BaseFileName }}
-    {{ if not ( fileExists $image ) }}
-        {{ $image = printf "%s/%s.jpg" $folder .File.BaseFileName }}
+    {{ $name := .File.BaseFileName }}
+    {{ $image := "" }}
+    {{ range (slice "png" "jpg" "jpeg") }}
+        {{ if (fileExists (printf "static/images/team/%s.%s" $name . )) }}
+            {{ $image = (printf "/images/team/%s.%s" $name .) }}
+        {{ end }}
     {{ end }}
+    
 
-    {{ if ( fileExists $image ) }}
-    <img class="card-img-top member-image" src="{{ $image }}" >
+    {{ if $image }}
+    <div class="card-img-top member-image" style="background-image: url({{$image}});">
+    </div>
     {{ else }}
     <div class="card-img-top default-member-image">
         <i class="fas fa-user fa-4x fa-inverse"></i>

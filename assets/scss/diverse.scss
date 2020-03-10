@@ -104,6 +104,14 @@ blockquote {
         background-color: $primary;
     }
 
+    .member-image {
+        @include profile-image();
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-color: $gray-500;
+    }
+
     .card-body {
         padding: .5em;
     }
@@ -128,6 +136,8 @@ blockquote {
         font-size: 1.4em;
         margin: 0 .03em;
     }
+
+    
 
 
 }
