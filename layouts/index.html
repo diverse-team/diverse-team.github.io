@@ -10,19 +10,23 @@
 
     <section id="research-axes">
         <div>
-        {{ partial "icons/list.html" .Params.sections.axes }}
+        {{ $axesitems := slice (dict "icon" "project-diagram" "title" "Modeling and Language Engineering" "color" "primary" ) (dict "icon" "check-double" "title" "Advanced testing" "color" "secondary") (dict "icon" "infinity" "title" "DevOps for distributed and heterogeneous systems" "color" "success") (dict "icon" "dice" "title" "Variability Engineering" "color" "danger")}}
+        {{ $axesargs := dict "inverted" true "iconinverted" true "iconstyle" "round" "iconsize" "3x" "buttonlabel" "View More" "items" $axesitems }}
+        {{ partial "icons/list.html" $axesargs }}
         </div>
     </section>
 
     <section id="papers">
         <div class="container-fluid">
-        {{ partial "icons/column.html" (merge .Params.sections.publications  (dict "context" .)) }}
+        {{ $publicationargs := dict "title" "Recent Publications" "icon" "file-alt" "inverted" true "size" "3x" "render" "home/recent-publications.html" "context" .}}
+        {{ partial "icons/column.html" $publicationargs }}
         </div>
     </section>
 
     <section id="talks">
         <div class="container-fluid">
-        {{ partial "icons/column.html" .Params.sections.talks }}
+        {{ $talkargs := dict "title"  "Recent Talks" "icon" "chalkboard-teacher" "position" "left" "inverted" true "size" "3x" "render" "home/recent-talks.html" "context" .  }}
+        {{ partial "icons/column.html" $talkargs }}
         </div>
     </section>
 

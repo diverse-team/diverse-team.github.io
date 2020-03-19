@@ -1,0 +1,30 @@
+{{ define "content" }}
+    <h5>{{ .Params.speaker }}</h5>
+    <h6>{{ dateFormat "02/01/2006" .Date }}</h6>
+    {{ with .Params }}
+        <h6>
+            {{ if .event_url }} 
+            <a href="{{ .event_url }}"> {{ .event }} </a> 
+            {{ else }}
+                {{ .event }}
+            {{ end }}
+        </h6>
+        <h6>{{ .Location }} </h6>
+        {{ if .image }}
+            <img src="{{ .image }}" />
+        {{ end }}
+        <div>
+            <h2>Abstract</h2>
+            <p>{{ .Abstract }}</p>
+        </div>
+        {{ if .url_video }}
+            <iframe width="600" height="400" src="{{ .url_video }}"></iframe>
+        {{ end }}
+        {{ if .url_pdf }}
+            <a href="{{ .url_pdf }}"> {{ partial "icons/round.html" (dict "icon" "book" "size" "1x" "inverted" true) }} Document </a>
+        {{ end }}
+        {{ if .url_slides }}
+            <a href="{{ .url_slides }}"> {{ partial "icons/round.html" (dict "icon" "chalkboard-teacher" "size" "1x" "inverted" true) }} Slides </a>
+        {{ end }}
+    {{ end }}
+{{ end }}
