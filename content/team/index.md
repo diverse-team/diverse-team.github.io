@@ -1,7 +1,7 @@
 ---
 title: Our team
 
-layout: bundle
+type: team
 menu: 
     main:
         weight: 300

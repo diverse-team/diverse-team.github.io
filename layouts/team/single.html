@@ -1,0 +1,25 @@
+{{ define "content" }}
+    <div class="list-preamble">
+        {{ .Content }}
+    </div>
+    <h2>Members</h2>
+    <div class="row">
+        {{ range .Resources }}
+            {{ if or (eq .Params.category nil) (eq .Params.category "member") }}
+                {{ partial "previews/team.html" . }}
+            {{ end }}
+        {{ end }}
+    </div>
+    <h2>Alumni</h2>
+    <div class="row">
+        {{ range where .Resources "Params.category" "alumni" }}
+            {{ partial "previews/team.html" . }}
+        {{ end }}
+    </div>
+    <h2>Former Members</h2>
+    <div class="row">
+        {{ range where .Resources "Params.category" "former" }}
+            {{ partial "previews/team.html" . }}
+        {{ end }}
+    </div>
+{{ end }}
