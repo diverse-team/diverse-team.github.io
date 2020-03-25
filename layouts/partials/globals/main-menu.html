@@ -1,9 +1,11 @@
-<nav class="navbar navbar-expand navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" data-controls="navbarNav" data-expanded="false" data-label="Toggle navigation">
+<nav id="main-menu" class="navbar navbar-light navbar-expand-md sticky-top bg-light">
+    <a class="navbar-brand" href="/">
+        <img id="team-logo" src="/images/logo-borders.svg" width="80" height="80" alt="DiverSE Team">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-items" aria-controls="navbar-items" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="collapse navbar-collapse" id="navbar-items">
         <ul class="navbar-nav">
             {{ $current := . }}
             {{ range .Site.Menus.main }}
@@ -28,5 +30,5 @@
                 {{ end }}
             {{ end }}
         </ul>
-    </div>
+    </div> 
 </nav>

@@ -6,6 +6,6 @@
             {{ $groupYear = $publicationYear }}
             <h2>{{ $groupYear }} </h2>
         {{ end }}
-        {{ partial "previews/publication.html" . }}
+        {{ template "publications/item.html" . }}
     {{ end }}
 {{ end }}

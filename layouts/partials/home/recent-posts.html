@@ -1,0 +1,3 @@
+{{ range first .Site.Params.recent_posts (sort .Site.Data.posts "date" "desc") }}
+    {{ template "posts/item.html" . }}
+{{ end }}

@@ -1,14 +1,10 @@
 {{ define "content" }}
-    {{ $preview := printf "previews/%s.html" .Type }}
-    {{ if not (fileExists (printf "layouts/partials/%s" $preview)) }}
-        {{ $preview = "previews/default-content.html" }}
-    {{ end }}
     <div class="list-preamble">
         {{ .Content }}
     </div>
     <ul class="page-list">
     {{ range .Pages }}
-        <li> {{ partial $preview . }} </li>
+        <li> {{ .Render "item" }} </li>
     {{ end }}
     </ul>
 {{ end }}

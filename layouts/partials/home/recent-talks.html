@@ -1,3 +1,4 @@
-{{ range first .Site.Params.recent_publications (sort (where (where .Site.Pages "Section" "talks") "Kind" "ne" "section") "Date" "desc") }}
-    {{ partial "previews/talks.html" . }}
+{{ range first .Site.Params.recent_talks (sort (where (where .Site.Pages "Section" "talks") "Kind" "ne" "section") "Date" "desc") }}
+    {{ .Render "item" }}
 {{ end }}
+

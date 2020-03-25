@@ -1,10 +1,9 @@
 {{ define "main" }}
-
+    
     <section id="banner">
         <div id="banner-frame" class="container-fluid position-relative">
-            <h1 id="banner-title" class="text-center text-light position-absolute">
-                Diversity-Centric Software Engineering
-            </h1>
+            <div id="banner-title" class="text-center text-light position-absolute">
+            </div>
         </div>
     </section>
 
@@ -16,20 +15,10 @@
         </div>
     </section>
 
-    <section id="papers">
-        <div class="container-fluid">
-        {{ $publicationargs := dict "title" "Recent Publications" "icon" "file-alt" "inverted" true "size" "3x" "render" "home/recent-publications.html" "context" .}}
-        {{ partial "icons/column.html" $publicationargs }}
-        </div>
-    </section>
-
-    <section id="talks">
-        <div class="container-fluid">
-        {{ $talkargs := dict "title"  "Recent Talks" "icon" "chalkboard-teacher" "position" "left" "inverted" true "size" "3x" "render" "home/recent-talks.html" "context" .  }}
-        {{ partial "icons/column.html" $talkargs }}
-        </div>
-    </section>
-
+    {{ partial "home/preview-section.html" (dict "section" "recent-publications" "title" "Recent Publications" "bgcolor" "primary" "icon" (dict "icon" "file-alt"          ) "context" . ) }}
+    {{ partial "home/preview-section.html" (dict "section" "recent-talks"        "title" "Recent Talks"        "bgcolor" "secondary" "icon" (dict "icon" "chalkboard-teacher") "context" . ) }}
+    {{ partial "home/preview-section.html" (dict "section" "recent-posts"        "title" "Recent Posts"        "bgcolor" "success" "icon" (dict "icon" "blog"              ) "context" . ) }}
+    
     <section id="organizations" class="py-5 bg-dark">
         <div class="row justify-content-center align-items-stretch items">
             {{ range (slice "inria" "irisa" "univ-rennes1" "cnrs" "insa") }}

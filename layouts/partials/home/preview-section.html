@@ -1,0 +1,17 @@
+{{ $icondefaults := ( dict "color" "white" "size" "5x" ) }}
+<section id="section-{{ .section }}" class="section">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="icon col-2 text-center bg-{{ .bgcolor }}" style="">
+                {{ partial "icons/simple" (merge .icon $icondefaults) }}
+            </div>
+            <div class="col">
+                <h2 class="title text-{{ .bgcolor }}">{{ .title }}</h2>
+                <div class="section-content">
+                    {{ partial (printf "home/%s.html" .section ) .context }}
+                </div>
+                <p class="footer"><a class="section-link" href="{{ .link }}">See all</a></p>
+            </div>
+        </div>
+    </div>
+</section>
