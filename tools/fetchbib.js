@@ -77,14 +77,14 @@ PUBLISHING_DETAILS = {
     }},
     BOOK: (data) => { return {
         publication_type: 'Book',
-        publication: bib`${data.PUBLISHER}, ${data.EDITOR}, ${data.SERIES}` //TODO: Short In Book:
+        publication: bib`${data.PUBLISHER}, ${data.EDITOR}, ${data.SERIES}`
     }},
     PHDTHESIS: (data) => { return {
-        publication_type: 'Uncategorized', //TODO: But why?
-        publication: bib`PhD: ${data.SCHOOL}` //TODO: Short wihtout PhD
+        publication_type: 'PhD Thesis', 
+        publication: bib`PhD: ${data.SCHOOL}`
     }},
     MISC: (data) => { return {
-        publication_type: 'Uncategorized', //TODO: But why?
+        publication_type: 'Uncategorized',
         publication: bib`PhD: ${data.NOTE}, ${data.HOWPUBLISHED}`
     }},
     TECHREPORT: (data) => { return  {
