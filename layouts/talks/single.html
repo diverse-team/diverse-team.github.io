@@ -1,6 +1,7 @@
 {{ define "content" }}
-    <h5>{{ .Params.speaker }}</h5>
-    <h6>{{ dateFormat "02/01/2006" .Date }}</h6>
+    {{ $title := .Title }}
+    <h5 class="text-gray-600">by {{ .Params.speaker }}</h5>
+    <h6 class="text-gray-600">{{ dateFormat "02/01/2006" .Date }}</h6>
     {{ with .Params }}
         <h6>
             {{ if .event_url }} 
@@ -11,20 +12,22 @@
         </h6>
         <h6>{{ .Location }} </h6>
         {{ if .image }}
-            <img src="{{ .image }}" />
+            <div class="presentation-image" style="background-image: url({{ .image }})"></div>
         {{ end }}
+        <div class="links">
+        {{ if .url_pdf }}
+            {{ partial "icons/link.html" (dict "icon" "book" "text" "Document" "url" .url_pdf "style" "round") }}
+        {{ end }}
+        {{ if .url_slides }}
+            {{ partial "icons/link.html" (dict "icon" "chalkboard-teacher" "text" "Slides" "url" .url_slides "style" "round") }}
+        {{ end }}
+        </div>
         <div>
             <h2>Abstract</h2>
             <p>{{ .Abstract }}</p>
         </div>
         {{ if .url_video }}
-            <iframe width="600" height="400" src="{{ .url_video }}"></iframe>
-        {{ end }}
-        {{ if .url_pdf }}
-            <a href="{{ .url_pdf }}"> {{ partial "icons/round.html" (dict "icon" "book" "size" "1x" "inverted" true) }} Document </a>
-        {{ end }}
-        {{ if .url_slides }}
-            <a href="{{ .url_slides }}"> {{ partial "icons/round.html" (dict "icon" "chalkboard-teacher" "size" "1x" "inverted" true) }} Slides </a>
+            {{ partial "globals/video.html" (dict "url" .url_video "title" $title) }}
         {{ end }}
     {{ end }}
 {{ end }}

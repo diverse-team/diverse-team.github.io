@@ -1,0 +1,1 @@
+<a class="btn text-{{ (default .color "primary" )}}" href="{{ .url }}"> {{ partial  (printf "icons/%s.html" (default "simple" .style)) (dict "icon" .icon "size" "1x" "inverted" true "color" (default .color "primary") ) }} {{ .text }} </a>

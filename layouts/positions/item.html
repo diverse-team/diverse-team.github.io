@@ -1,5 +1,5 @@
-<div class="position-preview">
-    <h4>[{{ .Params.position | upper }}] {{ .Title | markdownify }}</h4>
+<div class="position preview-item">
+    <h4>{{ template "positions/pos2badge.html" .Params.position }}{{ .Title | markdownify }}</h4>
     <p class="summary">{{ .Params.summary | markdownify }}</p>
-    <a href="{{ .Permalink }}">See more...</a>
+    <a class="btn btn-outline-primary" href="{{ .Permalink }}">See more...</a>
 </div>

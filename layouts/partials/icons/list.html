@@ -1,10 +1,10 @@
 {{ $iconparams := (dict "color" (default "primary" .iconcolor)  "size" (default "4x" .iconsize) "inverted" (default true .iconinverted) ) }}
 {{ $buttonstyle := (default "outline-primary" .buttonstyle) }}
 {{ $textstyle := (default "text-body" .textstyle) }}
-<div class="container py-5">
+<div class="container">
     {{ if .title }}
     <div class="title-container row mx-0">
-        <div class="title col px-0 text-center text-body">
+        <div class="title col px-0 text-center">
             <h2>{{ .title }}</h2>
         </div>
     </div>
@@ -12,12 +12,12 @@
     <div class="row justify-content-center align-items-stretch items">
         {{ $self := .}}
         {{ range .items }}
-        <div class="col-md-3 d-flex flex-column">
+        <div class="icon-item col-md-3 d-flex flex-column">
             <div class="col justify-content-between flex-column header">
             <div class="row image justify-content-center align-items-center">
                 {{ partial (printf "icons/%s.html"  $self.iconstyle) (merge $iconparams . ) }}
             </div>
-            <div class="row justify-content-center text-center">
+            <div class="icon-label row justify-content-center text-center">
                 <h4 class="mb-3 {{ .text | default $textstyle }}">{{ .title }}</h4></div>
             </div>
             {{ if .url }}

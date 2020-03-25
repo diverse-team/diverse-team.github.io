@@ -1,7 +1,7 @@
 ---
 title: Software
-layout: bundle 
 
+type: software
 menu: 
     main:
         weight: 600

@@ -1,9 +1,9 @@
-<div class="talk-preview">
+<div class="talk preview-item">
     <h4>{{ .Title }}</h4>
     <h5>{{ .Params.speaker }}</h5>
     <h6>{{ .Params.event}} - {{ dateFormat "02/01/2006" .Date }}</h6>
     {{ if .Params.abstract_short }}
         <p>{{ .Params.abstract_short }}</p>
     {{ end }}
-    <a href="{{ .Permalink }}">Details</a>
+    <a class="btn btn-outline-teal" href="{{ .Permalink }}">Details</a>
 </div>

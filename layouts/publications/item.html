@@ -1,6 +1,6 @@
-<div class="publication">
+<div class="publication preview-item">
     <h4>{{ .title }}</h4>
     <h5>{{ .authors }}</h5>
     <h6>{{ .publication }}, {{ dateFormat "2006" .date }}</h6>
-    <a href="{{ .url_hal }}">Details</a>
+    <a class="btn btn-outline-purple" href="{{ .url_hal }}">Details</a>
 </div>

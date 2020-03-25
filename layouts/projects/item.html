@@ -1,5 +1,9 @@
-
-<div class="project-preview">
-    <h4>{{ .Title | markdownify }}</h4>
-    <a href="{{ .Permalink }}">See more...</a>
+<div class="card project h-100">
+    <div class="card-img-top" style="background-image: url(/images/projects/{{ .Params.image }});">
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">{{ .Title | markdownify }}</h5>
+        <p class="card-text">{{ .Params.description }}</p>
+        <a class="btn btn-outline-primary" href="{{ .Permalink }}">See more...</a>
+    </div>
 </div>

@@ -1,0 +1,22 @@
+{{ define "content" }}
+    {{ with .Params }}
+    <img src="/images/projects/{{ .image }}" height="100" />
+    <div class="information">
+        {{ if .from }}
+        <p class="info-row"><span class="label">From</span><span class="data">{{ .from }}</span></p>
+        {{ end }}
+        {{ if .to }}
+        <p class="info-row"><span class="label">To</span><span class="data">{{ .to }}</span></p>
+        {{ end }}
+        {{ if .coordinator }}
+        <p class="info-row"><span class="label">Coordinated by</span><span class="data"> {{ .coordinator }} </span></p>
+        {{ end }}
+    </div>
+    {{ if .site }}
+    <div class="links">
+        {{partial "icons/link.html" (dict "icon" "globe-europe" "color" "primary" "text" "Site" "url" .url ) }}
+    </div>
+    {{ end }}
+    {{ end }}
+    {{ .Content }}
+{{ end }}

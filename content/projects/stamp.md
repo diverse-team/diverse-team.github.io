@@ -4,7 +4,7 @@ site: https://www.stamp-project.eu/
 from: 2016-12-01
 to: 2019-11-31
 description: Software Testing AMPlification
-image: stamp.png
+image: stamp.jpg
 coordinator: Benoit Baudry
 ---
 

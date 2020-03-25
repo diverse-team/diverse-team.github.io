@@ -10,19 +10,20 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
 
+$red:     #b92b32 !default;
+$green:   #74ba46 !default;
+$orange:  #e76032 !default;
+
 $blue:    #007bff !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #e83e8c !default;
-$red:     #dc3545 !default;
-$orange:  #fd7e14 !default;
 $yellow:  #ffc107 !default;
-$green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
 
-$primary:       $blue !default;
+$primary:       $orange !default;
 $secondary:     $gray-600 !default;
 $success:       $green !default;
 $info:          $cyan !default;
@@ -31,7 +32,29 @@ $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
 
-//TODO: Define the color theme
+
+$theme-colors: (
+    "red": $red,
+    "green": $green,
+    "orange": $orange,
+    "blue": $blue,
+    "indigo": $indigo,
+    "purple": $purple,
+    "pink": $pink,
+    "yellow": $yellow,
+    "teal": $teal,
+    "cyan": $cyan,
+  );
+
+$font-family-sans-serif:      Voces, cursive !default;
+$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-family-base:            $font-family-sans-serif !default;
+
+
+// stylelint-enable value-keyword-case
+
+
+// Home page
 
 #banner-frame {
     // background-image: url(/images/team-photo-grayscale.jpg);
@@ -46,20 +69,100 @@ $dark:          $gray-800 !default;
 }
 
 #banner-title {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.8);
     width: 100%;
     bottom: 0;
-    //padding: 30px;
+    padding: 30px;
     margin: 0 auto;
-    height: 2em;
+    height: 200px;
+    background-image: url(/images/logo-large.svg); 
+    background-size: 40%; 
+    background-repeat: no-repeat; 
+    background-position: 50%; 
+}
+
+#research-axes {
+    .icon-label { margin-top: 1.5em; 
+        h4 { font-size: 1.2em; }
+    }
 }
 
 .organization-logo {
     width: 100%;
-    height: 100px;
+    height: 60px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+#home-content section {
+    .content {
+    }
+
+    .title {
+        
+    }
+    .icon {
+       // padding-top: 10%;;
+    }
+    .content {
+
+    }
+    .footer {
+
+    }
+}
+
+.preview-item {
+    margin: 20px 0;
+}
+
+.preview-section {
+    margin: 30px 0;
+
+    .side-icon {
+        top: 10%;
+    }
+
+    
+}
+
+
+.software.card {
+    width: 17rem;
+
+    .card-title {
+        height: 3rem;
+    }
+
+    .card-text {
+        height: 13rem;
+    }
+}
+
+.project  {
+    width: 17rem;
+    .card-img-top {
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 9rem;
+    }
+
+    .card-title {
+        height: 5rem;
+    }
+
+    .card-text {
+        height: 15rem;
+    }
+}
+
+.presentation-image {
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 9rem;
 }
 
 #contact-information {
@@ -78,6 +181,11 @@ $dark:          $gray-800 !default;
     }
 }
 
+.preview-item {
+    h4 { color: $black; font-weight: bold; }
+    h5 { color: $gray-800;  font-weight: bold; font-size: 1rem; font-style: italic;}
+    h6 { color: $gray-700; font-weight: bold; font-size: 0.9rem; font-style: italic;}
+}
 
 blockquote {
     color: $gray-600;
@@ -87,9 +195,32 @@ blockquote {
 }
 
 
+p.summary {
+    color: $gray-600;
+}
+
+.information {
+    .info-row {
+        display: table-row;
+
+        .label {
+            display: table-cell;
+            color: $gray-600;
+            width: 200px;
+            height: 2rem;
+            font-weight: bold;
+        }
+
+        .data {
+            display: table-cell;
+        }
+    }
+
+}
+
 
 .member-card {
-    $member-photo-size: 150px;
+    $member-photo-size: 180px;
 
     width: $member-photo-size;
 
@@ -136,8 +267,4 @@ blockquote {
         font-size: 1.4em;
         margin: 0 .03em;
     }
-
-    
-
-
 }

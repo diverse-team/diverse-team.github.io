@@ -42,3 +42,6 @@ url_slides: https://github.com/diverse-project/slides/raw/master/2019/stamp/2019
 * `url_video`: (**Optional**) URL of an arbitrary video. It must be the embed URL, for example: https://www.youtube.com/embed/Xf1cfemeX_U  if the video is hosted on Youtube. 
 * `url_pdf`:  (**Optional**) A URL to a document. It could be included in the website if required. Notice that `documents/example.pdf` expects `example.pdf` to be stored in `static/document`. It can also be any URL.
 * `url_slides`: (**Optional**) It behaves in the same way as `url_pdf`.
+
+
+If a talk should not appear in the list of talks add `private: true`.

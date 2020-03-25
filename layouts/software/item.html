@@ -1,12 +1,17 @@
-<div>
-    <h4>{{ .Params.name }}</h4>
-    <div cllass="summary">
-        {{ .Content }}
+<div class="software card">
+    <div class="card-body">
+        <h4 class="card-title">{{ .Params.name }}</h4>
+        <div class="card-text">
+            {{ .Content }}
+        </div>
+        <div class="links">
+            {{ if .Params.repository }}
+            {{ partial "icons/link.html" (dict "icon" "code" "text" "Repository" "url" .Params.repository) }}
+            {{ end }}
+            {{ if .Params.site }}
+            {{ partial "icons/link.html" (dict "icon" "home" "text" "Site" "url" .Params.site) }}
+            {{ end }}
+        </div>
     </div>
-    {{ if .Params.repository }}
-    <a href="{{.Params.repository}}">Repository</a>
-    {{ end }}
-    {{ if .Params.site }}
-    <a href="{{.Params.site}}">Site</a>
-    {{ end }}
 </div>
+
