@@ -19,5 +19,6 @@ params:
 
   recent_publications: 3
   recent_talks: 3
+  recent_posts: 3
 
  
