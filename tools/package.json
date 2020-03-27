@@ -4,7 +4,7 @@
   "description": "DiverSE website supporting scripts",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "fetchall": "node updatebibterms.js && node fetchposts.js && node fetchpics.js"
   },
   "author": "DiverSE",
   "license": "LGPL-2.0-only",

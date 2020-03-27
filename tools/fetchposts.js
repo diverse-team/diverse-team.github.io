@@ -12,14 +12,22 @@ const FEED_SOURCES = [
 
 const POSTS_PATH = '../data/posts.json';
 
-async function fetchFeeds() {
+async function fetchfeeds() {
     const parser = new Parser();
     let posts = [];
+
+    console.log("Fetching posts from %s sources", FEED_SOURCES.length);
+    
     for (let source of FEED_SOURCES) {
+        console.log("- Fetching posts from " + source.url);
         let feed = await parser.parseURL(source.url);
+
         posts = posts.concat(feed.items.map( item => { item.author = item.author || source.author; return item; } ));
     }
+
+    console.log("Saving posts to " + POSTS_PATH);
     fs.writeFileSync(POSTS_PATH, JSON.stringify(posts));
+    console.log("Done")
 }
 
-fetchFeeds();
+fetchfeeds();

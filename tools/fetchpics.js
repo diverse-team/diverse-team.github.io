@@ -1,4 +1,3 @@
-const {URL, URLSearchParams} = require('url');
 const fetch = require('node-fetch');
 const fs = require('fs');
 const glob = require('glob');
@@ -8,7 +7,6 @@ const IMAGE_SIZE = 400;
 const PROFILE_DIR = '../content/team';
 const IMAGE_DIR = '../static/images/team';
 const GITHUB_ID_REO = /\s*github\s*:\s*(?<id>\S+)/;
-
 
 function get_filenames(directory, extension) {
     return new Set( glob.sync(`${directory}/*.${extension}`).map(item => path.basename(item, `.${extension}`)));
@@ -55,6 +53,8 @@ async function retrieve_github_image(profile) {
 
 
 async function updateimages() {
+
+    console.log("Checking images")
     let profiles = get_profiles_with_no_image();
     console.log(`Profiles without image: ${profiles.size}`);
     for(let prof of profiles) {
@@ -62,6 +62,7 @@ async function updateimages() {
         await retrieve_github_image(prof)
             .catch((err) => `[ERROR] Could not retrieve image for ${prof}: ${err.message}`);
     }
+    console.log("Done");
 }
 
 updateimages();

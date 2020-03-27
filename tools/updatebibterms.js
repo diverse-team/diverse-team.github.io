@@ -22,14 +22,21 @@ const PUBLICATIONS_PATH = '../data/publications.json'
 
 
 async function updatebib() {
+
+
     const url = new URL(HALTOOLS_EXPORT_URL);
     url.search = new URLSearchParams(EXPORT_PARAMETERS);
     
+    console.log("Obtaining the list of publications from HAL");
     //Request publications
     const publications = await fetchbib(url.toString());
 
+    console.log("Saving publications to " + PUBLICATIONS_PATH);
     //Save publications
     fs.writeFileSync(PUBLICATIONS_PATH, JSON.stringify(publications));
+
+    //TODO: Generate the term cloud from publications
+    console.log("Done")
 
 }
 
