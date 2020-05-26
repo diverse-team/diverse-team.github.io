@@ -1,6 +1,6 @@
 ---
 name: Alejandro G. Gómez-Boix
-position: Ph.D.
+position: Ph.D. Student
 organization: INRIA, U. of Rennes
 category: alumni
 social:

@@ -1,6 +1,6 @@
 ---
 name: Amine Benelallam
-position: Post-doctoral researcher
+position: Post-Doctoral Researcher
 organization: INRIA
 category: former
 social:

@@ -1,6 +1,6 @@
 ---
 name: Pierre Jeanjean
-position: Ph.D.
+position: Ph.D. Student
 organization: INRIA
 social:
     github: pjeanjean

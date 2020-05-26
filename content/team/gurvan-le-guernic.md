@@ -1,5 +1,5 @@
 ---
 name: Gurvan LE GUERNIC
-position: External collaborator
+position: External Collaborator
 organization: DGA MI
 ---
