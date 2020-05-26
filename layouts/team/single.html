@@ -1,25 +1,21 @@
 {{ define "content" }}
-    <div class="list-preamble">
-        {{ .Content }}
-    </div>
-    <h2 class="p-2 text-light bg-primary">Members</h2>
-    <div class="row mb-3 row-cols-5">
-        {{ range .Resources }}
-            {{ if or (eq .Params.category nil) (eq .Params.category "member") }}
-                {{ .Render "item" }}
-            {{ end }}
-        {{ end }}
-    </div>
-    <h2 class="p-2 text-light bg-purple">Alumni</h2>
-    <div class="row mb-3 row-cols-5">
-        {{ range where .Resources "Params.category" "alumni" }}
+<div class="list-preamble">
+    {{ .Content }}
+</div>
+<h2 class="p-2 text-light bg-primary">Members</h2>
+<div class="members-row mb-3">
+    {{ range .Resources }}
+        {{ if or (eq .Params.category nil) (eq .Params.category "member") }}
             {{ .Render "item" }}
         {{ end }}
-    </div>
-    <h2 class="p-2 text-light bg-teal">Former Members</h2>
-    <div class="row mb-3 row-cols-5">
-        {{ range where .Resources "Params.category" "former" }}
-            {{ .Render "item" }}
+    {{ end }}
+</div>
+<h2 class="p-2 text-light bg-teal">Former Members</h2>
+<div class="members-row mb-3">
+    {{ range .Resources }}
+        {{ if or (eq .Params.category "former") (eq .Params.category "former") }}
+            {{ .Render "former-member" }}
         {{ end }}
-    </div>
+    {{ end }}
+</div>
 {{ end }}

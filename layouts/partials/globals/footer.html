@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="container">
             <div class="row">
-                <div class="col col-8">
+                <div class="col col-sm-8">
                     <h4>DiverSE</h4>
                     <ul id="contact-information">
                         {{ with .Site.Params }}
@@ -28,15 +28,13 @@
                     </ul>
                 </div>
                 {{ $pagesize := (div (len .Site.Menus.main ) 2) }}
-                <div class="col">
-                    <ul class="navbar-nav">
+                <div class="col-sm-4 row">
+                    <ul class="navbar-nav col">
                     {{ range first $pagesize .Site.Menus.main }}
                         <il class="nav-item"><a class="text-light nav-link" href="{{ .URL }}">{{ .Name }}</a></il>
                     {{ end }}
                     </ul>
-                </div>
-                <div class="col">
-                    <ul class="navbar-nav">
+                    <ul class="navbar-nav col">
                     {{ range after $pagesize .Site.Menus.main }}
                         <il class="nav-item"><a class="text-light nav-link" href="{{ .URL }}">{{ .Name }}</a></il>
                     {{ end }}

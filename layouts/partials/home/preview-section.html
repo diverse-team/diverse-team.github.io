@@ -2,15 +2,15 @@
 <section id="section-{{ .section }}" class="preview-section">
     <div class="container-fluid">
         <div class="container">
-        <div class="row ">
-            <div class="icon col-3 text-center position-relative">
-                <div class="side-icon position-absolute">
+        <div class="row">
+            <div class="col-sm-3 col-md-5 col-lg-3">
+                <div class="text-center p-3">
                     <h2 class="title">{{ .title }}</h2>
                     {{ partial "icons/round" (merge $icondefaults .icon) }}
                     <a class="section-link btn btn-primary" href="{{ .link }}">See all</a>
                 </div>
             </div>
-            <div class="col-9">
+            <div class="col-sm-8 col-md-7 col-lg-9">
                 <div class="section-content">
                     {{ partial (printf "home/%s.html" .section ) .context }}
                 </div>

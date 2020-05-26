@@ -2,7 +2,7 @@
     <div class="list-preamble">
         {{ .Content }}
     </div>
-    <div class="row row-cols-4 p-2">
+    <div class="row p-2">
     {{ range .Pages }}
         <div class="col mb-2">{{ .Render "item" }} </div>
     {{ end }}
