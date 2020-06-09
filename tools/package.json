@@ -4,13 +4,14 @@
   "description": "DiverSE website supporting scripts",
   "main": "main.js",
   "scripts": {
-      "fetchall": "node updatebibterms.js && node fetchposts.js && node fetchpics.js"
+    "fetchall": "node updatebibterms.js && node fetchposts.js && node fetchpics.js"
   },
   "author": "DiverSE",
   "license": "LGPL-2.0-only",
   "dependencies": {
     "bibtex-parser": "0.0.0",
     "glob": "^7.1.6",
+    "googleapis": "^52.1.0",
     "moment": "^2.24.0",
     "node-fetch": "^2.6.0",
     "rss-parser": "^3.7.6"
