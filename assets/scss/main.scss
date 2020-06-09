@@ -2,8 +2,9 @@
 
 $fa-font-path: "/fonts";
 
-@import "diverse.scss";
+@import "theme-colors.scss";
 @import "bootstrap/bootstrap.scss";
+@import "diverse.scss";
 @import "fontawesome/fontawesome.scss";
 @import "fontawesome/brands.scss";
 @import "fontawesome/solid.scss";

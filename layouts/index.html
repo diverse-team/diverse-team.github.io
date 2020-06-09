@@ -20,6 +20,33 @@
     {{ partial "home/preview-section.html" (dict "section" "recent-talks"        "title" "Recent Talks"        "bgcolor" "light" "icon" (dict "icon" "chalkboard-teacher" "color" "teal") "link" "/talks" "context" . ) }}
     {{ partial "home/preview-section.html" (dict "section" "recent-posts"        "title" "Recent Posts"        "bgcolor" "light" "icon" (dict "icon" "blog" "color" "green"             ) "link" "/posts" "context" . ) }}
     
+    <section id="social">
+        <div class="container-fluid">
+            <div class="row">
+
+                <div id="latest-video" class="col-md-8 p-5">
+                    {{ $videos := sort .Site.Data.videos "published" "desc" }}
+                    {{ $latest_video := index $videos 0 }}
+
+                    <h4 id="latest-video-header"><i class="fab fa-2x fa-youtube"></i><span>Latest Video</span></h4>
+                    <h5>{{ htmlUnescape $latest_video.title }}</h5>
+
+                    <iframe id="latest-video-preview" 
+                            src="http://www.youtube.com/embed/{{$latest_video.id}}" 
+                            frameborder="0" 
+                            allowfullscreen="allowfullscreen">
+                    </iframe>
+                </div>
+
+                <div id="tweets" class="col-md-4 p-5">
+                    <a class="twitter-timeline" href="https://twitter.com/{{.Site.Params.twitter}}" data-height=450></a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
     <section id="organizations" class="py-5 bg-dark">
         <div class="content">
             <div class="row justify-content-center align-items-stretch items">
