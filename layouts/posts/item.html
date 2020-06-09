@@ -1,5 +1,5 @@
 <div class="post preview-item">
     <h4>{{ .title }}</h4>
-    <h5>by {{ .author }}</h5>
+    <h5>by {{ .author }} on {{ (dateFormat "02/01/2006" .pubDate) }}</h5>
     <a class="btn btn-outline-green" href="{{ .link }}">Read</a>
 </div>
