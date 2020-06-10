@@ -2,11 +2,13 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const glob = require('glob');
 const path = require('path');
+const colors = require('colors');
 
 const IMAGE_SIZE = 400;
 const PROFILE_DIR = '../content/team';
 const IMAGE_DIR = '../static/images/team';
 const GITHUB_ID_REO = /\s*github\s*:\s*(?<id>\S+)/;
+const CATEGORY_REO = /\s*category\s*:\s*(?<category>\S+)/;
 
 function get_filenames(directory, extension) {
     return new Set( glob.sync(`${directory}/*.${extension}`).map(item => path.basename(item, `.${extension}`)));
@@ -30,17 +32,19 @@ function get_profiles_with_no_image() {
     return new Set([...profiles].filter(item => !images.has(item)));
 }
 
-function get_github_id(profile) {
+
+function get_profile_info(profile) {
     const content = fs.readFileSync(`${PROFILE_DIR}/${profile}.md`, 'utf8');
-    let match = GITHUB_ID_REO.exec(content);
-    return match ? match.groups.id : null;
+    let githubMatch = GITHUB_ID_REO.exec(content);
+    let categoryMatch = CATEGORY_REO.exec(content);
+    return {
+        category: categoryMatch ? categoryMatch.groups.category : null,
+        github: githubMatch? githubMatch.groups.id : null,
+        name: profile
+    }
 }
 
-async function retrieve_github_image(profile) {
-    const id = get_github_id(profile);
-    if(!id) {
-        return Promise.reject(new Error(`No Github id found for: ${profile}`));
-    }
+async function retrieve_github_image(id) {
     //https://stackoverflow.com/questions/37614649/how-can-i-download-and-save-a-file-using-the-fetch-api-node-js
     const response = await fetch(`https://github.com/${id}.png?size=${IMAGE_SIZE}`);
     const stream = fs.createWriteStream(`${IMAGE_DIR}/${profile}.png`);
@@ -54,15 +58,22 @@ async function retrieve_github_image(profile) {
 
 async function updateimages() {
 
-    console.log("Checking images")
+    console.log("Finding missing profile images")
     let profiles = get_profiles_with_no_image();
-    console.log(`Profiles without image: ${profiles.size}`);
-    for(let prof of profiles) {
-        console.log(`Retrieving image for ${prof}`);
-        await retrieve_github_image(prof)
-            .catch((err) => `[ERROR] Could not retrieve image for ${prof}: ${err.message}`);
+    const isCurrentMember = (info) => !info.category || info.category === 'member';
+    let currentMembers = [...profiles].map(get_profile_info).filter(isCurrentMember);
+
+    console.log(`Profiles without image: ${currentMembers.length}`);
+
+    for(let info of currentMembers) {
+        if(!info.github) {
+            console.warn(`${'[WARNING]'.yellow} No Github id for ${info.name}. Site will use default image.`);
+            continue;
+        }
+        console.log(`Retrieving image for ${info.name}`);
+        await retrieve_github_image(info.github)
+            .catch((err) => console.error(`[ERROR] Could not retrieve image for ${prof}: ${err.message}`.red));
     }
-    console.log("Done");
 }
 
-updateimages();
+module.exports = updateimages;

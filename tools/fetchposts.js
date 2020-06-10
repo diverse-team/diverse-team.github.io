@@ -27,7 +27,6 @@ async function fetchfeeds() {
 
     console.log("Saving posts to " + POSTS_PATH);
     fs.writeFileSync(POSTS_PATH, JSON.stringify(posts));
-    console.log("Done")
 }
 
-fetchfeeds();
+module.exports = fetchfeeds;

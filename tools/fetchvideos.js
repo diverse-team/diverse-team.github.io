@@ -16,6 +16,7 @@ async function updatevideos() {
     const youtube = google.youtube({ version: 'v3', auth: process.env.YOUTUBE_API_KEY });
     let videos = [];
 
+    console.log("Fetching list of videos from YouTube");
     do {
         const response = await youtube.search.list(SEARCH_PARAMS);
         if(response.status !== 200) {
@@ -33,9 +34,9 @@ async function updatevideos() {
         SEARCH_PARAMS.pageToken = response.pageToken;
     }
     while( SEARCH_PARAMS.pageToken );
+
+    console.log('Saving list of videos to ' + VIDEOS_PATH);
     fs.writeFileSync(VIDEOS_PATH, JSON.stringify(videos));
 }
 
 module.exports = updatevideos;
-
-updatevideos();

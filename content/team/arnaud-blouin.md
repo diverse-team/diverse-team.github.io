@@ -2,7 +2,7 @@
 name: Arnaud Blouin
 organization: INSA Rennes
 position: Associate Professor
-category: member # Possible values are: [member, alumni, past] default: member
+category: member
 social:
   home: http://people.irisa.fr/Arnaud.Blouin/
   twitter: arnoblouin

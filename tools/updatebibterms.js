@@ -36,8 +36,7 @@ async function updatebib() {
     fs.writeFileSync(PUBLICATIONS_PATH, JSON.stringify(publications));
 
     //TODO: Generate the term cloud from publications
-    console.log("Done")
 
 }
 
-updatebib();
+module.exports = updatebib;

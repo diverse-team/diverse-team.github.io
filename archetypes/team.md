@@ -2,7 +2,7 @@
 name: Candide Smith
 organization: IRISA
 position: PhD student
-category: member # Possible values are: [member, alumni, past] default: member
+category: member # Possible values are: [member, alumni, former] default: member
 social:
   home: http://candide.github.io
   twitter: candide-smith
