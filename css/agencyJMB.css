@@ -1,0 +1,94 @@
+/*!
+ * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+.flexbox {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+.flexbox-center {
+  justify-content: center;
+}
+
+.team-member {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.team-member img {
+    margin: 0 auto;
+    border: 3px solid #fff;
+    max-width: 200px !important;
+    width: 160px !important;
+    height: 160px !important;
+}
+
+.team-member p {
+    margin-top: 0;
+}
+.team-member h3 {
+    text-transform: none;
+    font-weight: 600;
+    color: #333;
+}
+
+.team-member h4 {
+    font-size: 16px;
+    text-transform: none;
+    font-weight: 400;
+    color: #777;
+    margin-bottom: 0px;
+}
+
+.team-member h4 a {
+    text-transform: none;
+}
+
+.team-member h5 {
+    font-size: 14px;
+    text-transform: none;
+    font-style: italic;
+    font-weight: 200;
+    color: #777;
+    margin-bottom: 15px
+}
+
+.team-member .report  {
+    margin-top: 0px;
+}
+
+.team-member h5 a {
+    text-transform: none;
+}
+
+.team-member ul {
+    list-style: none;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+.team-bio {
+    padding: 15px
+}
+
+.img-responsive,
+
+.img-circle {
+    border-radius: 50%;
+    max-width: 80%;
+    height: auto;
+  }
+

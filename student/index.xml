@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students on IRISA/Inria DiverSE Team</title>
+    <link>https://www.diverse-team.fr/student/</link>
+    <description>Recent content in Students on IRISA/Inria DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.diverse-team.fr/student/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.diverse-team.fr/student/martin/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/student/martin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.diverse-team.fr/student/sallou/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/student/sallou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigate the Matrix : Leveraging Variability to Specialize Software and Test Suites</title>
+      <link>https://www.diverse-team.fr/student/temple/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/student/temple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Candidate</title>
+      <link>https://www.diverse-team.fr/student/mouline/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/student/mouline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.diverse-team.fr/student/coulon/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/student/coulon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.diverse-team.fr/student/leduc/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/student/leduc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.diverse-team.fr/student/leroy/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/student/leroy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.diverse-team.fr/student/rio/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/student/rio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

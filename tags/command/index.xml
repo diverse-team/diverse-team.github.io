@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Command on IRISA/Inria DiverSE Team</title>
+    <link>https://www.diverse-team.fr/tags/command/</link>
+    <description>Recent content in Command on IRISA/Inria DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Wed, 11 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.diverse-team.fr/tags/command/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arnaud Blouin published a new Blog Post: How to bring undo/redo features to your user interfaces</title>
+      <link>https://www.diverse-team.fr/post/20160511-arnaud-blouin/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/post/20160511-arnaud-blouin/</guid>
+      <description>Arnaud Blouin published a new blog post on &amp;ldquo;How to bring undo/redo features to your user interfaces&amp;ldquo;</description>
+    </item>
+    
+  </channel>
+</rss>

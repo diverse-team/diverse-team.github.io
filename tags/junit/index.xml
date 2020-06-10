@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junit on IRISA/Inria DiverSE Team</title>
+    <link>https://www.diverse-team.fr/tags/junit/</link>
+    <description>Recent content in Junit on IRISA/Inria DiverSE Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Last update: 2018/02/06</copyright>
+    <lastBuildDate>Sun, 06 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.diverse-team.fr/tags/junit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arnaud Blouin published a new Blog Post: GUI Testing: how to compare JavaFX GUI snapshots to assess their graphical rendering</title>
+      <link>https://www.diverse-team.fr/post/20151206-arnaud-blouin/</link>
+      <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/post/20151206-arnaud-blouin/</guid>
+      <description>Arnaud Blouin published a new blog post on &amp;ldquo;GUI Testing: how to compare JavaFX GUI snapshots to assess their graphical rendering&amp;ldquo;</description>
+    </item>
+    
+    <item>
+      <title>Arnaud Blouin published a new Blog Post: Testing JavaFX applications with TestFX: an introduction</title>
+      <link>https://www.diverse-team.fr/post/20151128-arnaud-blouin/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.diverse-team.fr/post/20151128-arnaud-blouin/</guid>
+      <description>Arnaud Blouin published a new blog post on &amp;ldquo;Testing JavaFX applications with TestFX: an introduction&amp;ldquo;</description>
+    </item>
+    
+  </channel>
+</rss>
