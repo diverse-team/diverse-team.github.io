@@ -27,12 +27,12 @@
                 <div id="latest-video" class="col-md-8 p-5">
                     {{ $latest_video := (dict "id" "wr_EA1By5so" "title" "Grammatical picture generation") }}
                     {{ if .Site.Data.videos }}
-                        {{ $videos := sort . "published" "desc" }}
-                        {{ $latest_video := index $videos 0 }}
+                        {{ $videos := sort .Site.Data.videos "published" "desc" }}
+                        {{ $latest_video = index $videos 0 }}
                     {{ end }}
 
-                        <h4 id="latest-video-header"><i class="fab fa-2x fa-youtube"></i><span>Latest Video</span></h4>
-                        <h5>{{ htmlUnescape $latest_video.title }}</h5>
+                    <h4 id="latest-video-header"><i class="fab fa-2x fa-youtube"></i><span>Latest Video</span></h4>
+                    <h5>{{ htmlUnescape $latest_video.title }}</h5>
 
 
                     <iframe id="latest-video-preview" 
