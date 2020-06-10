@@ -1,4 +1,5 @@
 {{ define "content" }}
+    <div id="wordcloud" class="container"></div>
     {{ $groupYear := "" }}
     {{ range sort .Site.Data.publications "date" "desc" }}
         {{ $publicationYear := (dateFormat "2006" .date) }}

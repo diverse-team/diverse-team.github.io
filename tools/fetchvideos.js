@@ -7,7 +7,7 @@ const VIDEOS_PATH = '../data/videos.json'
 const SEARCH_PARAMS = {
     channelId: 'UCIJQNB3HXuq3_Tl6u_tUeBA', //TODO: Remove duplicates by reading this from the config.yml file
     part: 'snippet',
-    maxResults: 100,
+    maxResults: 50,
     pageToken: undefined
 };
 

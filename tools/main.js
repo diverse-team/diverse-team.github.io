@@ -10,8 +10,8 @@ async function main() {
     const steps = [
         { title: "Updating bibliography items", command: updatebib    },
         { title: "Updating blog posts",         command: fetchfeed    },
-        { title: "Updating YouTube videos",     command: updatevideos },
-        { title: "Updating profile images",     command: updateimages }
+        { title: "Updating profile images",     command: updateimages },
+        { title: "Updating YouTube videos",     command: updatevideos }
     ];
 
     for (let step of steps) {

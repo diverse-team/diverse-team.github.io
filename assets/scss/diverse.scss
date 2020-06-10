@@ -273,3 +273,25 @@ p.summary {
     display: flex;
     flex-wrap: wrap;
 }
+
+#wordcloud {
+
+    @include media-breakpoint-down(sm) { 
+        background-image: url(/images/wordcloud-small.svg);
+        height: 150px;
+    }
+    @include media-breakpoint-up(sm) { 
+        background-image: url(/images/wordcloud-medium.svg);
+        height: 200px;
+    }
+    @include media-breakpoint-up(lg) {
+        background-image: url(/images/wordcloud-large.svg);
+        height: 300px;
+    }
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}

@@ -2,7 +2,7 @@ const {URL, URLSearchParams} = require('url');
 const fetchbib = require('./fetchbib')
 const fs = require('fs');
 
-const termCount = require('./gencloud.js');
+const generateWordCloud = require('./gencloud.js');
 
 const HALTOOLS_EXPORT_URL =  'https://haltools.inria.fr/Public/exportPubli.php';
 
@@ -17,6 +17,7 @@ const EXPORT_PARAMETERS = {
 };
 
 const PUBLICATIONS_PATH = '../data/publications.json'
+const WORDCLOUD_PATH = '../static/images';
 
 
 async function updatebib() {
@@ -32,8 +33,8 @@ async function updatebib() {
     //Save publications
     fs.writeFileSync(PUBLICATIONS_PATH, JSON.stringify(publications));
 
-    //TODO: Generate the term cloud from publications
-
+    console.log('Generating word clouds');
+    generateWordCloud(publications, WORDCLOUD_PATH);
 }
 
 
