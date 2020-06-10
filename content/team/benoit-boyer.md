@@ -1,5 +1,5 @@
 ---
   name: Benoit Boyer
-  position: Post-Doctoral Researcher, ?, Ph.D. Student
+  position: Post-Doctoral Researcher, Assistant professor (ATER), Ph.D. Student
   category: alumni
 ---

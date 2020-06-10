@@ -1,5 +1,5 @@
 ---
   name: Loic Helouet
-  position: ?, Ph.D. Student
+  position: Scientific Researcher, Ph.D. Student
   category: alumni
 ---

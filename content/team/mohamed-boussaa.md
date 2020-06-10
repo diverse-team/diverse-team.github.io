@@ -1,5 +1,5 @@
 ---
   name: Mohamed Boussaa
-  position: ?, Ph.D. Student
+  position: Assistant professor (ATER), Ph.D. Student
   category: alumni
 ---

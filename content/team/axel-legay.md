@@ -1,5 +1,5 @@
 ---
 name: Axel Legay
-position: '?'
+position: 'Scientific Researcher'
 category: former
 ---
