@@ -29,8 +29,10 @@ npm install
 4. Run the Node.js scripts to complement data and assets
 
 ```
-npm run fetchall
+npm run update
 ```
+
+In this step the retrieval of the YouTube video list may fail if you do not use the API key for authentication. This is not essential and you can continue editing the website.
 
 5. Go to the root and execute Hugo
 

@@ -30,7 +30,7 @@ social:
 * `name`: (**Mandatory**) Name of the team member, as it should be displayed.
 * `organization`: (**Mandatory**) Current organization to which this team member belongs, for example, Inria.
 * `position`: (**Mandatory**) Position the team member holds in the previous organization.
-* `category`: (**Optional**) Possible values are: `member`, `alumni`, `past`. Default value is `member`.
+* `category`: (**Optional**) Possible values are: `member`, `alumni`, `former`. Default value is `member`.
 * `social`: Social profiles for the member. All are optional.
 
 Team member may add a photo to the website. This photo should be placed in `static/images/team`. The filename should be the same as the Markdown file containing the information about the team member and must be a `PNG` or a `JPEG` image, for example:  `candice-smith.png`. The image may have any size, but favor square dimensions, otherwise the result is unexpected.
