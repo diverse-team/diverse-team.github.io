@@ -2,6 +2,8 @@ const {URL, URLSearchParams} = require('url');
 const fetchbib = require('./fetchbib')
 const fs = require('fs');
 
+const termCount = require('./gencloud.js');
+
 const HALTOOLS_EXPORT_URL =  'https://haltools.inria.fr/Public/exportPubli.php';
 
 const EXPORT_PARAMETERS = {
@@ -11,18 +13,13 @@ const EXPORT_PARAMETERS = {
     CB_article: 'oui',
     CB_auteur: 'oui',
     CB_titre: 'oui',
-    langue: 'Anglais',
-    tri_exp: 'typdoc',
-    tri_exp2: 'auteur_exp',
-    tri_exp3: 'titre',
-    ordre_aff: 'TA'
+    ordre_aff: 'TA',
 };
 
 const PUBLICATIONS_PATH = '../data/publications.json'
 
 
 async function updatebib() {
-
 
     const url = new URL(HALTOOLS_EXPORT_URL);
     url.search = new URLSearchParams(EXPORT_PARAMETERS);
@@ -38,5 +35,7 @@ async function updatebib() {
     //TODO: Generate the term cloud from publications
 
 }
+
+
 
 module.exports = updatebib;

@@ -18,7 +18,7 @@ function process_publication_entry([key, data], index) {
         id: data.HAL_ID,
         authors: data.AUTHOR, //TODO: Convert to a list?
         abstract: bib`${data.ABSTRACT}`,
-        keywords:  bib`${data.KEYWORDS}`.split(';').map(x => x.trim()),
+        keywords:  bib`${data.KEYWORDS}`.split(';').map(x => x.trim()).filter(x => x),
         title: bib`${data.TITLE}`,
         date: extract_date(data),
         url_hal: data.URL,
@@ -37,8 +37,13 @@ function extract_date(data) {
 }
 
 function extract_publishing_details(data) {
-    //TODO: Handle the case when the entryType is not recognized
-    return PUBLISHING_DETAILS[data.entryType](data);
+
+    const details = PUBLISHING_DETAILS[data.entryType];
+    if (details === undefined) {
+        console.log('other');
+        details = PUBLISHING_DETAILS.OTHER;
+     }
+    return details(data)
 }
 
 function bib(strings, ...expressions) {
@@ -94,7 +99,8 @@ PUBLISHING_DETAILS = {
     UNPUBLISHED: (data) => { return {
         publication_type: 'Work in progress',
         publication: bib`${data.NOTE}`
-    }}
+    }},
+    OTHER: (data) => { console.log(data); return data; }
 
 }
  

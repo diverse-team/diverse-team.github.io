@@ -10,9 +10,13 @@
   "license": "LGPL-2.0-only",
   "dependencies": {
     "bibtex-parser": "0.0.0",
+    "canvas": "^2.6.1",
     "colors": "^1.4.0",
+    "d3": "^5.16.0",
+    "d3-cloud": "^1.2.5",
     "glob": "^7.1.6",
     "googleapis": "^52.1.0",
+    "jsdom": "^16.2.2",
     "moment": "^2.24.0",
     "node-fetch": "^2.6.0",
     "rss-parser": "^3.7.6"
