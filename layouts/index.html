@@ -54,10 +54,9 @@
     <section id="organizations" class="py-5 bg-dark">
         <div class="content">
             <div class="row justify-content-center align-items-stretch items">
-                {{ range (slice "inria" "irisa" "univ-rennes1" "cnrs" "insa") }}
+                {{ range (slice "inria" "irisa" "univ-rennes1" "cnrs" "insa-rennes") }}
                 <div class="col-md-2 d-flex flex-column">
-                    <a class="org-link" href="https://www.{{.}}.fr"
-                        ><div id="{{.}}"class="organization-logo" style="background-image: url(/images/organizations/dark-bg/{{.}}.png);"></div>
+                    <a class="org-link" href="https://www.{{.}}.fr" target="_blank"><div id="{{.}}"class="organization-logo" style="background-image: url(/images/organizations/dark-bg/{{.}}.png);"></div>
                     </a>
                 </div>
                 {{ end }}
