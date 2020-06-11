@@ -44,10 +44,10 @@ function get_profile_info(profile) {
     }
 }
 
-async function retrieve_github_image(id) {
+async function retrieve_github_image(info) {
     //https://stackoverflow.com/questions/37614649/how-can-i-download-and-save-a-file-using-the-fetch-api-node-js
-    const response = await fetch(`https://github.com/${id}.png?size=${IMAGE_SIZE}`);
-    const stream = fs.createWriteStream(`${IMAGE_DIR}/${profile}.png`);
+    const response = await fetch(`https://github.com/${info.github}.png?size=${IMAGE_SIZE}`);
+    const stream = fs.createWriteStream(`${IMAGE_DIR}/${info.name}.png`);
     return new Promise((resolve, reject) => {
         response.body.pipe(stream);
         response.body.on('error', reject);
@@ -71,7 +71,7 @@ async function updateimages() {
             continue;
         }
         console.log(`Retrieving image for ${info.name}`);
-        await retrieve_github_image(info.github)
+        await retrieve_github_image(info)
             .catch((err) => console.error(`[ERROR] Could not retrieve image for ${info.name}: ${err.message}`.red));
     }
 }
