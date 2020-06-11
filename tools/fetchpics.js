@@ -72,7 +72,7 @@ async function updateimages() {
         }
         console.log(`Retrieving image for ${info.name}`);
         await retrieve_github_image(info.github)
-            .catch((err) => console.error(`[ERROR] Could not retrieve image for ${prof}: ${err.message}`.red));
+            .catch((err) => console.error(`[ERROR] Could not retrieve image for ${info.name}: ${err.message}`.red));
     }
 }
 

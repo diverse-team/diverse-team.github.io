@@ -16,7 +16,13 @@ async function main() {
 
     for (let step of steps) {
         console.log(step.title.green);
-        await  step.command.call();
+        try {
+            await  step.command.call();
+        }
+        catch(err) {
+            console.error(`[ERROR] ${err}\n`.red);
+            continue;
+        }
         console.log('Done\n'.green);
     }
 
