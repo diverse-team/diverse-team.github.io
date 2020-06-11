@@ -1,5 +1,5 @@
 ---
   name: Laureline Guerin
-  position: ?, Intern
+  position: Software Engineer, Intern
   category: former
 ---

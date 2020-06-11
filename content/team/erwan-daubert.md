@@ -1,5 +1,5 @@
 ---
   name: Erwan Daubert
-  position: ?, Ph.D. Student, Contract Researcher, Intern
+  position: Software Engineer, Ph.D. Student, Contract Researcher, Intern
   category: alumni
 ---

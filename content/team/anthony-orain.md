@@ -1,5 +1,5 @@
 ---
   name: Anthony Orain
-  position: ?, Intern
+  position: Intern
   category: former
 ---

@@ -1,5 +1,5 @@
 ---
   name: Vincent Fontanella
-  position: '?'
+  position: Software Engineer
   category: former
 ---

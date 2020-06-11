@@ -1,5 +1,5 @@
 ---
   name: Maxime Bricet
-  position: '?'
+  position: Software Engineer
   category: former
 ---

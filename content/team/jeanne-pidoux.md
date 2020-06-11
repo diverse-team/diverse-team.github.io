@@ -1,5 +1,5 @@
 ---
   name: Jeanne Pidoux
-  position: '?'
+  position: Software Engineer
   category: former
 ---

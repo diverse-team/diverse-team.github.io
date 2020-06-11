@@ -1,5 +1,5 @@
 ---
 name: Cyril Faucher
-position: '?'
+position: Software Engineer
 category: former
 ---

@@ -1,5 +1,5 @@
 ---
   name: Cyrille Jegourel
-  position: ?, Ph.D. Student
+  position: Software Engineer, Ph.D. Student
   category: alumni
 ---

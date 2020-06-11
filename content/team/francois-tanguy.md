@@ -1,5 +1,5 @@
 ---
 name: Francois Tanguy
-position: '?'
+position: Software Engineer
 category: former
 ---

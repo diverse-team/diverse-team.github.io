@@ -1,5 +1,5 @@
 ---
   name: Simon Allier
-  position: ?, Post-Doctoral Researcher
+  position: Software Engineer, Post-Doctoral Researcher
   category: former
 ---

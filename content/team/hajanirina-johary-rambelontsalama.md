@@ -1,5 +1,5 @@
 ---
 name: Hajanirina Johary Rambelontsalama
-position: '?'
+position: Software Engineer
 category: former
 ---

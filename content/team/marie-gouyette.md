@@ -1,5 +1,5 @@
 ---
   name: Marie Gouyette
-  position: '?'
+  position: Software Engineer
   category: former
 ---

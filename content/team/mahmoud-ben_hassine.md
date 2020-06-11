@@ -1,5 +1,5 @@
 ---
   name: Mahmoud Ben-Hassine
-  position: '?'
+  position: Software Engineer
   category: former
 ---

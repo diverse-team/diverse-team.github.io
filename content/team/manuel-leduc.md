@@ -1,6 +1,6 @@
 ---
 name: Manuel Leduc
-position: Ph.D. Pôle d'Excellence Cyber Grant
+position: Ph.D. Software Engineer
 organization: U. of Rennes
 category: alumni
 social:

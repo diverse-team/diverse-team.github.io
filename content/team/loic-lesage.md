@@ -1,5 +1,5 @@
 ---
   name: Loic Lesage
-  position: ?, ?
+  position: Administrative Assistant
   category: former
 ---

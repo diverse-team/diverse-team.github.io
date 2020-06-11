@@ -1,5 +1,5 @@
 ---
   name: Jose Angel Galindo Duarte
-  position: ?, Contract Researcher, Invited Researcher
+  position: Software Engineer, Contract Researcher, Invited Researcher
   category: former
 ---

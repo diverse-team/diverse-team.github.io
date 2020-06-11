@@ -1,5 +1,5 @@
 ---
   name: Maxime Tricoire
-  position: ?, Intern
+  position: Software Engineer, Intern
   category: former
 ---

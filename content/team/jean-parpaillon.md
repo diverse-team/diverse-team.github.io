@@ -1,5 +1,5 @@
 ---
   name: Jean Parpaillon
-  position: '?'
+  position: Software Engineer
   category: former
 ---
