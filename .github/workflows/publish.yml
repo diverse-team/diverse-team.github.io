@@ -30,6 +30,8 @@ jobs:
         extended: true
     - name: Build website
       run: hugo --minify
+    - name: Setting domain name
+      run: cp CNAME public/
     - name: Deploy website
       uses: peaceiris/actions-gh-pages@v3
       with:
