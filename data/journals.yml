@@ -1,0 +1,21 @@
+- name: IEEE Transactions on Software Engineering
+  acronym: TSE
+  url: https://www.computer.org/csdl/journal/ts
+  description:
+    Premier source for information, inspiration, and collaboration in computer 
+    science and engineering.
+- name: ACM Transactions on Software Engineering and Methodology
+  acronym: TOSEM
+  url: https://dl.acm.org/journal/tosem
+  description: |
+    Publishes papers on all aspects of that challenge: specification, design, 
+    development and maintenance. It covers tools and methodologies, languages, 
+    data structures, and algorithms. **TOSEM** also reports on successful 
+    efforts, noting practical lessons that can be scaled and transferred to 
+    other projects, and often looks at applications of innovative technologies.
+- name: Empirical Software Engineering
+  acronym: ESEM
+  url: https://www.springer.com/journal/10664
+  description:
+    Provides a forum for applied software engineering research with a strong 
+    empirical component.

@@ -1,0 +1,53 @@
+- name: International Conference on Software Engineering &reg;
+  url: http://www.icse-conferences.org/
+  acronym: ICSE
+  description: 
+    Premier software engineering conference, providing a forum for researchers, 
+    practitioners and educators to present and discuss the most recent 
+    innovations, trends, experiences and concerns in the field of software 
+    engineering.
+- name: IEEE/ACM International Conference on Automated Software Engineering
+  url: https://conf.researchr.org/series/ase
+  acronym: ASE
+  description:
+    Premier research forum for Automated Software Engineering. Each year, it 
+    brings together researchers and practitioners from academia and industry to 
+    discuss foundations, techniques, and tools for automating the analysis, 
+    design, implementation, testing, and maintenance of large software systems.
+- name: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+  url: https://www.esec-fse.org/
+  acronym: 'ESEC/FSE'
+  description:
+    Internationally renowned forum for researchers, practitioners, and educators
+    to present and discuss the most recent innovations, trends, experiences, 
+    and challenges in the field of software engineering. ESEC/FSE brings 
+    together experts from academia and industry to exchange the latest 
+    research results and trends as well as their practical application 
+    in all areas of software engineering.
+- name: ACM SIGSOFT International Symposium on Software Testing and Analysis
+  url: https://conf.researchr.org/series/issta
+  acronym: ISSTA
+  description:
+    The leading research symposium on software testing and analysis, bringing 
+    together academics, industrial researchers, and practitioners to exchange 
+    new ideas, problems, and experience on how to analyze and test software 
+    systems.
+- name: IEEE International Conference on Software Testing, Verification and Validation
+  url: https://conf.researchr.org/series/icst
+  acronym: ICST
+  description:
+    Provides a common forum for researchers, scientists, engineers and 
+    practitioners throughout the world to present their latest research 
+    findings, ideas, developments and applications in the area of Software 
+    Testing, Verification and Validation.
+- name: ACM / IEEE International Conference on Model Driven Engineering Languages and Systems
+  url: http://www.modelsconference.org/
+  acronym: MODELS
+  description: |
+    Premier conference series for model-driven software and systems engineering,
+    and is organized with support of ACM SIGSOFT and IEEE TCSE. Since 1998, 
+    **MODELS** has covered all aspects of modeling, from languages and methods, 
+    to tools and applications. Attendees of MODELS come from diverse 
+    backgrounds, including researchers, academics, engineers and industrial 
+    professionals. 
+

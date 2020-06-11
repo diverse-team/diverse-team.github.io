@@ -1,0 +1,7 @@
+<li>
+    <a href="{{ .url }}">{{ .name }}</a>
+    {{ if isset . "acronym" }}
+    (<strong>{{ .acronym }}</strong>)
+    {{ end }}
+    {{ .description }}
+</li>
