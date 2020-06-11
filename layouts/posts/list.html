@@ -2,7 +2,7 @@
     <div>
         {{ .Content }}
     </div>
-    {{ range sort .Site.Data.posts "date" "pubDate" }}
+    {{ range sort .Site.Data.posts "pubDate" "desc" }}
         {{ template "posts/item.html" . }}
     {{ end }}
 {{ end }}
