@@ -1,0 +1,35 @@
+name: Publish website
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 13.x
+    - name: Installing dependencies
+      run: |
+        cd tools
+        npm install
+    - name: Complementing site data
+      run: |
+        export YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
+        npm run update
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+    - name: Build website
+      run: |
+        cd ..
+        hugo --minify
+    - name: Deploy website
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: master
