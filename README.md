@@ -54,3 +54,4 @@ The website will be created in the `public` directory.
 - [How to add a new job opening?](docs/positions.md)
 - [How to add a new software entry?](docs/software.md)
 - [How to add a new talk?](docs/talks.md)
+- [Expanding the community](docs/community.md)
