@@ -50,4 +50,32 @@
     to tools and applications. Attendees of MODELS come from diverse 
     backgrounds, including researchers, academics, engineers and industrial 
     professionals. 
-
+- name: ACM SIGPLAN International Conference on Software Language Engineering
+  url: https://www.sleconf.org/
+  acronym: SLE
+  description: | 
+    Devoted to the engineering principles of software languages: their design, 
+    their implementation, and their evolution.
+- name: 'ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences'
+  url: https://conf.researchr.org/series/gpce
+  acronym: GPCE 
+  description: | 
+    A venue for researchers and practitioners interested in techniques that use 
+    program generation, domain-specific languages, and component deployment to 
+    increase programmer productivity, improve software quality, and shorten the 
+    time-to-market of software products.
+- name: Systems and Software Product Line Conference
+  url: https://splc2019.net/
+  acronym: SPLC 
+  description: | 
+    A premier forum where researchers, practitioners, and educators can present 
+    and discuss the most recent ideas, trends, experiences, and challenges in 
+    the area of software and system product line engineering.
+- name: IEEE International Conference on Software Architecture
+  url: http://icsa-conferences.org/
+  acronym: ICSA
+  description: 
+    The premier venue for practitioners and researchers interested 
+    in software architecture, in component-based software engineering and 
+    in quality aspects of software and how these relate to the design of 
+    software architectures.

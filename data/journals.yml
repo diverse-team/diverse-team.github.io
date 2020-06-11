@@ -19,3 +19,12 @@
   description:
     Provides a forum for applied software engineering research with a strong 
     empirical component.
+- name: Software and Systems Modeling
+  url: https://www.springer.com/journal/10270?gclid=EAIaIQobChMIlb6Y6sP56QIVVvlRCh2amwPIEAAYASAAEgJ1k_D_BwE
+  acronym: SoSyMan 
+  description: |
+    An international journal, publishing six issues yearly, that focuses on 
+    theoretical and practical issues in the development and application of 
+    software and system modeling languages, techniques, and methods, such as 
+    the Unified Modeling Language.
+
