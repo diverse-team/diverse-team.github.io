@@ -1,6 +1,6 @@
 ---
 name: Caroline Landry
-position: Software Engineer
+position: Research Engineer
 organization: INRIA
 category: former
 social:
