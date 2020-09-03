@@ -1,7 +1,7 @@
 ---
-name: Benoît Combemale
+name: Benoit Combemale
 position: Professor
-organization: UR1, Toulouse
+organization: UR1, Rennes
 social:
     home: http://combemale.fr/
     twitter: bcombemale
