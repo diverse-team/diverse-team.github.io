@@ -1,7 +1,7 @@
 ---
 name: Benoit Combemale
 position: Professor
-organization: UR1, Rennes
+organization: ESIR, Université de Rennes 1
 social:
     home: http://combemale.fr/
     twitter: bcombemale
