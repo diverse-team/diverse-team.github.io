@@ -2,7 +2,8 @@
 date: 2020-09-10T13:00:00
 title: Evolution of VaryLaTeX # Do not include the name of the event or the speakers
 abstract: VaryLaTeX is a tool that extracts variability from standart LaTeX documents. The variability can be specified by the user while writing a document or be generated automatically.We will see how it works with various examples of documents and how we can use VaryLaTeX to customize their output without having to touch the LaTeX source. We will also see how we could use the tool to predict if a document is going to fit in a limited amount of pages, which can be useful when trying to tweak a paper to respect a page limit.
-#abstract_short: A very short abstract # Do not repeat the title of the talk or the name of the event or the name of the speakers
+abstract_short: Corentin showed us the results of his internship on VaryLaTeX.
+# A very short abstract # Do not repeat the title of the talk or the name of the event or the name of the speakers
 event: DiverSE Coffee
 #event_url: https://example.com # Optional
 location: Rennes, France
