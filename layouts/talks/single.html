@@ -24,7 +24,7 @@
         </div>
         <div>
             <h2>Abstract</h2>
-            <p>{{ .Abstract }}</p>
+            <p class="text-justify">{{ replace .Abstract "\n" "<br/>"  | safeHTML }}</p>
         </div>
         {{ if .url_video }}
             {{ partial "globals/video.html" (dict "url" .url_video "title" $title) }}
