@@ -33,7 +33,7 @@ url_slides: https://github.com/diverse-project/slides/raw/master/2019/stamp/2019
 
 * `date`: (**Mandatory**) The date of the talk, use `YYYY-MM-DDTHH:mm:ss`.
 * `title`: (**Mandatory**) The title of the talk. *Please, avoid adding the name of the event or the name of the speaker. Those will be shown by the side of the title anyways.*
-* `abstract`: (**Mandatory**) A long abstract fo the talk
+* `abstract`: (**Mandatory**) A long abstract fo the talk. You can use markdown to write the content.
 * `abstract_short`: (**Optional**) A one sentence abstract for the talk. *Avoid repeating the title and the speakers.*
 * `event_url`: (**Optional**) The URL of the event.
 * `location`: (**Mandatory**) Usually `Rennes, France`.
