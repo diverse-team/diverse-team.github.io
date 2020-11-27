@@ -3,46 +3,50 @@
     <g transform="translate(250, 75)">
     
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 66px; fill: #587e8c" 
-                transform="translate(106,-9)rotate(0)">model</text>
+                style="font-family: Impact; font-size: 66px; fill: #b58842" 
+                transform="translate(-87,10)rotate(0)">model</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 54px; fill: #e98135" 
-                transform="translate(-104,-6)rotate(0)">product</text>
+                style="font-family: Impact; font-size: 40px; fill: #b1ad4e" 
+                transform="translate(110,-13)rotate(0)">modeling</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 40px; fill: #ec9637" 
-                transform="translate(-31,32)rotate(0)">modeling</text>
+                style="font-family: Impact; font-size: 33px; fill: #82c131" 
+                transform="translate(-43,43)rotate(0)">lines</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 34px; fill: #d19f4f" 
-                transform="translate(141,25)rotate(0)">lines</text>
+                style="font-family: Impact; font-size: 30px; fill: #ec9637" 
+                transform="translate(116,17)rotate(0)">systems</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 26px; fill: #6ba083" 
-                transform="translate(145,47)rotate(0)">languages</text>
+                style="font-family: Impact; font-size: 29px; fill: #bc8433" 
+                transform="translate(168,46)rotate(0)">testing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 18px; fill: #c42020" 
-                transform="translate(-181,23)rotate(0)">ingénierie</text>
+                style="font-family: Impact; font-size: 28px; fill: #91bb3c" 
+                transform="translate(-137,-40)rotate(0)">variability</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 17px; fill: #b58842" 
-                transform="translate(-58,54)rotate(0)">computing</text>
+                style="font-family: Impact; font-size: 24px; fill: #e76f31" 
+                transform="translate(40,-52)rotate(0)">domain-specific</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #e02424" 
-                transform="translate(-177,42)rotate(0)">security</text>
+                style="font-family: Impact; font-size: 18px; fill: #ec9637" 
+                transform="translate(64,45)rotate(0)">ingénierie</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #8ec23e" 
-                transform="translate(-146,-45)rotate(0)">feature</text>
+                style="font-family: Impact; font-size: 17px; fill: #b92b32" 
+                transform="translate(-141,41)rotate(0)">computing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #71b258" 
-                transform="translate(71,-54)rotate(0)">modèles</text>
+                style="font-family: Impact; font-size: 15px; fill: #6ba083" 
+                transform="translate(-186,60)rotate(0)">security</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #c39249" 
-                transform="translate(-49,-49)rotate(0)">logiciel</text>
+                style="font-family: Impact; font-size: 15px; fill: #618e88" 
+                transform="translate(-35,61)rotate(0)">feature</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 15px; fill: #b48742" 
+                transform="translate(195,-45)rotate(0)">modèles</text>
         </g></svg>
