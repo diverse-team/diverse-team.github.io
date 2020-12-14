@@ -21,10 +21,17 @@
     empirical component.
 - name: Software and Systems Modeling
   url: https://www.springer.com/journal/10270?gclid=EAIaIQobChMIlb6Y6sP56QIVVvlRCh2amwPIEAAYASAAEgJ1k_D_BwE
-  acronym: SoSyMan 
+  acronym: SoSyM
   description: |
     An international journal, publishing six issues yearly, that focuses on 
     theoretical and practical issues in the development and application of 
     software and system modeling languages, techniques, and methods, such as 
     the Unified Modeling Language.
+- name: Journal of Object Technology
+  url: http://www.jot.fm/
+  acronym: JOT
+  description: |
+    An international platinum open-access journal, publishing about theoretical, 
+    empirical, conceptual, and experimental results in the area of software and 
+    language engineering.
 
