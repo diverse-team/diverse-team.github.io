@@ -1,0 +1,297 @@
+
+
+// stylelint-enable value-keyword-case
+
+
+footer {
+    font-size: 0.8em;
+}
+
+// Home page
+
+#banner-frame {
+    
+    padding: 0;
+
+    @include media-breakpoint-down(sm) { 
+        // display: none;
+        height: 300px;
+        background-image: none;
+     }
+
+     @include media-breakpoint-up(sm) {
+        background-image: url(/images/team-photo.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+        max-width: 1600px;
+     }
+}
+
+#banner-title {
+    width: 100%;
+    bottom: 0;
+    padding: 30px;
+    margin: 0 auto;
+    background-image: url(/images/logo-large.svg); 
+    background-repeat: no-repeat; 
+    background-position: 50%; 
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 100%;
+    background-size: contain;
+
+    @include media-breakpoint-up(sm) {
+        height: 200px;
+        background-size: 40%; 
+    }
+}
+
+#research-axes {
+    .icon-label { margin-top: 1.5em; 
+        h4 { font-size: 1.2em; }
+    }
+
+    .icon-item { margin: 20px 0; }
+}
+
+.organization-logo {
+    width: 100%;
+    height: 60px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.preview-item {
+    margin: 20px 0;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,0.125);
+    border-radius: .25rem;
+    padding: 1em;
+}
+
+.preview-section {
+    margin: 30px 0;
+
+    .side-icon {
+        top: 10%;
+    }
+}
+
+.software.card {
+    width: 320px;
+    margin: 0 auto;
+
+    .card-title {
+        height: 3rem;
+    }
+
+    .card-text {
+        height: 10rem;
+    }
+}
+
+.project  {
+    width: 300px;
+    margin: 0 auto;
+    .card-img-top {
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 9rem;
+    }
+
+    .card-title {
+        height: 5rem;
+    }
+
+    .card-text {
+        height: 15rem;
+    }
+}
+
+.presentation-image {
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 9rem;
+}
+
+#social {
+
+    background-color: $gray-300;
+
+    #latest-video {
+
+        #latest-video-header {
+            span, .fa-youtube { 
+                height: 50px; 
+                vertical-align: middle; 
+            }
+            .fa-youtube { color: red; margin-right: .3em; }
+        }
+
+        #latest-video-preview {
+            margin: 0 auto;
+            width: 100%;
+
+            @include media-breakpoint-down(sm) { height: 200px; }
+            @include media-breakpoint-down(lg) { height: 300px; }
+            @include media-breakpoint-up(lg) { height: 350px; }
+        }
+
+    }
+}
+
+
+
+#contact-information {
+    list-style: none;
+    font-size: 1.1em;
+    margin: 0;
+    padding: 0;
+
+    a {
+        text-decoration: none;
+    }
+
+    i {
+        margin-right: 1em;
+        font-size: 1.3em;
+    }
+}
+
+.preview-item {
+    h4 { color: $black; font-weight: bold; }
+    h5 { color: $gray-800;  font-weight: bold; font-size: 1rem; font-style: italic;}
+    h6 { color: $gray-700; font-weight: bold; font-size: 0.9rem; font-style: italic;}
+}
+
+blockquote {
+    color: $gray-600;
+    font-style: italic;
+    border-left: solid 2px $gray-600;
+    padding-left: 1em;
+}
+
+
+p.summary {
+    color: $gray-600;
+}
+
+.information {
+    .info-row {
+        display: table-row;
+
+        .label {
+            display: table-cell;
+            color: $gray-600;
+            width: 200px;
+            height: 2rem;
+            font-weight: bold;
+        }
+
+        .data {
+            display: table-cell;
+        }
+    }
+
+}
+
+.base-member-card {
+
+    margin: 0 auto;
+
+    .card-body {
+        
+        padding: .5em;
+        
+        .member-name {
+            font-size: .9em;
+        }
+        
+        .member-description {
+            font-size: .7em;
+            strong { color: $orange; }
+        }
+    }
+}
+
+.member-card {
+    @extend .base-member-card;
+
+    $member-photo-size: 180px;
+
+    width: $member-photo-size;
+
+    @mixin profile-image {
+        height: $member-photo-size;
+    }
+
+    .default-member-image {
+        @include profile-image;
+        text-align: center;
+        line-height: $member-photo-size + 30;
+        background-color: $primary;
+    }
+
+    .member-image {
+        @include profile-image();
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-color: $gray-500;
+    }
+    
+    .card-body {
+
+        .member-social {
+            text-align: center;
+        }
+
+        .social-item {
+            font-size: 1.4em;
+            margin: 0 .03em;
+        }
+        
+        .member-name {
+            margin-bottom: .3em;
+            min-height: 1.9em;;
+        }
+        
+        .member-description {
+            margin-bottom: .3em;
+            min-height: 3em;
+        }
+    }
+}
+
+.members-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#wordcloud {
+
+    @include media-breakpoint-down(sm) { 
+        background-image: url(/images/wordcloud-small.svg);
+        height: 150px;
+    }
+    @include media-breakpoint-up(sm) { 
+        background-image: url(/images/wordcloud-medium.svg);
+        height: 200px;
+    }
+    @include media-breakpoint-up(lg) {
+        background-image: url(/images/wordcloud-large.svg);
+        height: 300px;
+    }
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}

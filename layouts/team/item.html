@@ -1,0 +1,45 @@
+<div class="col member mb-3">
+    <div class="card member-card">
+    
+        {{ $name := .File.BaseFileName }}
+        {{ $image := "" }}
+        {{ range (slice "png" "jpg" "jpeg") }}
+            {{ if (fileExists (printf "static/images/team/%s.%s" $name . )) }}
+                {{ $image = (printf "/images/team/%s.%s" $name .) }}
+            {{ end }}
+        {{ end }}
+        
+    
+        {{ if $image }}
+        <div class="card-img-top member-image" style="background-image: url({{$image}});">
+        </div>
+        {{ else }}
+        <div class="card-img-top default-member-image">
+            <i class="fas fa-user fa-4x fa-inverse"></i>
+        </div>
+        {{ end }}
+    
+        <div class="card-body">
+        {{ with .Params }}
+          <h6 class="card-title member-name">{{ .name }}</h6>
+          <p class="card-text member-description">
+              <span>{{ .position | markdownify }}</span>
+              <br/>
+              <span>{{ .organization | markdownify }}</span>
+          </p>
+    
+          {{ $order := slice "home" "twitter" "linkedin" "github" "researchgate" }}
+          {{ $urls := dict "home" "%s" "twitter" "https://twitter.com/%s" "github" "https://github.com/%s" "linkedin" "https://linkedin.com/in/%s" "researchgate" "https://researchgate.com/profile/%s" }}
+          <div class="member-social">
+          {{ $social := .social }}
+          {{ range $target := $order }}
+            {{ if isset $social $target }}
+            {{ $value := index $social $target }}
+            <a href="{{ printf ( index $urls $target ) $value }}" class="social-item" title="{{ $value }}" target="_blank"><i class="{{partial "icons/to-fa-icon.html" $target}}"></i></a>
+            {{ end }}
+          {{ end }}
+          </div>
+        {{ end }}
+        </div>
+      </div>
+</div>

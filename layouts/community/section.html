@@ -1,0 +1,8 @@
+<div>
+    <h2>{{ .title }}</h2>
+    <ul>
+        {{ range .data }}
+            {{ template "community/item.html"  . }}
+        {{ end }}
+    </ul>
+</div>

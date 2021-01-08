@@ -1,0 +1,8 @@
++++
+date = "2018-10-18T13:00:00"
+title = "Modular Language Composition for the Masses - SLE'18"
+abstract = "We're happy to have Manuel Leduc as a speaker for our next DiverSE Coffee. He will be presenting his paper entitled  Modular Language Composition for the Masses, accepted at SLE'18. Enters Manuel:  The goal of modular language development is to enable the definition of new languages as assemblies of pre-existing ones. Recent approaches in this area are plentiful but usually suffer from two main problems: either they do not support modular language composition both at the specification and implementation levels, or they require advanced knowledge of specific paradigms which hampers wide adoption in the industry. In this paper, we introduce a non-intrusive approach to modular development of language concerns with well-defined interfaces that can be composed modularly at the specification and implementation levels. We present an implementation of our approach atop the Eclipse Modeling Framework, namely Alex—an object-oriented meta-language for semantics definition and language composition. We evaluate Alex in the development of a new DSL for IoT systems modeling resulting from the composition of three independently defined languages (UML activity diagrams, Lua, and the CORBA Interface Description Language). We evaluate the effort required to implement and compose these languages using Alex with regards to similar approaches in the literature. The presentation is held Thursday at 1 pm in room Markov. Kudos to Manuel end Benoit."
+speaker = "Manuel Leduc"
+event = "DiverSE Coffee"
+location = "Rennes, France"
++++

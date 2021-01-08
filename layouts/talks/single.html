@@ -1,0 +1,33 @@
+{{ define "content" }}
+    {{ $title := .Title }}
+    <h5 class="text-gray-600">by {{ .Params.speaker }}</h5>
+    <h6 class="text-gray-600">{{ dateFormat "02/01/2006" .Date }}</h6>
+    {{ with .Params }}
+        <h6>
+            {{ if .event_url }} 
+            <a href="{{ .event_url }}"> {{ .event }} </a> 
+            {{ else }}
+                {{ .event }}
+            {{ end }}
+        </h6>
+        <h6>{{ .Location }} </h6>
+        {{ if .image }}
+            <div class="presentation-image" style="background-image: url({{ .image }})"></div>
+        {{ end }}
+        <div class="links">
+        {{ if .url_pdf }}
+            {{ partial "icons/link.html" (dict "icon" "book" "text" "Document" "url" .url_pdf "style" "round") }}
+        {{ end }}
+        {{ if .url_slides }}
+            {{ partial "icons/link.html" (dict "icon" "chalkboard-teacher" "text" "Slides" "url" .url_slides "style" "round") }}
+        {{ end }}
+        </div>
+        <div>
+            <h2>Abstract</h2>
+            <p class="text-justify">{{ .Abstract | markdownify }}</p>
+        </div>
+        {{ if .url_video }}
+            {{ partial "globals/video.html" (dict "url" .url_video "title" $title) }}
+        {{ end }}
+    {{ end }}
+{{ end }}

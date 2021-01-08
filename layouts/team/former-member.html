@@ -1,0 +1,12 @@
+<div class="col-md-3 mb-2 member">
+    <div class="card base-member-card">
+        <div class="card-body">
+        {{ with .Params }}
+          <h6 class="card-title member-name">{{ .name }}</h6>
+          <p class="card-text member-description">
+              <span>{{ .position | markdownify }}</span>
+          </p>
+        {{ end }}
+        </div>
+      </div>
+    </div>

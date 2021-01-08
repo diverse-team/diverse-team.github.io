@@ -1,0 +1,34 @@
+<nav id="main-menu" class="shadow-sm navbar navbar-light navbar-expand-md sticky-top bg-light">
+    <a class="navbar-brand" href="/">
+        <img id="team-logo" src="/images/logo-borders.svg" width="80" height="80" alt="DiverSE Team">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-items" aria-controls="navbar-items" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbar-items">
+        <ul class="navbar-nav">
+            {{ $current := . }}
+            {{ range .Site.Menus.main }}
+                {{ if .HasChildren }}
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ .URL }}" role="button" data-haspopup="true" data-expanded="false">
+                        {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}
+                    </a>
+                    <div class="dropdown-menu">\
+                    {{ range .Children }}
+                        <a class="dropdown-item" href="{{ .URL }}">
+                            {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}</a>
+                    {{ end }}
+                    </div>
+                </li>
+                {{ else }}
+                <li class="nav-item {{ if $current.IsMenuCurrent "main" . }}active{{ end }}">
+                    <a class="nav-link" href="{{ .URL }}">
+                        {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}
+                    </a>
+                </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </div> 
+</nav>

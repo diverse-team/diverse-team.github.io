@@ -1,0 +1,12 @@
+{{ define "content" }}
+    <div id="wordcloud" class="container"></div>
+    {{ $groupYear := "" }}
+    {{ range sort .Site.Data.publications "date" "desc" }}
+        {{ $publicationYear := (dateFormat "2006" .date) }}
+        {{ if ne $groupYear $publicationYear }}
+            {{ $groupYear = $publicationYear }}
+            <h2 class="text-light bg-purple py-2 px-2">{{ $groupYear }} </h2>
+        {{ end }}
+        {{ template "publications/item.html" . }}
+    {{ end }}
+{{ end }}

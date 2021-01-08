@@ -1,0 +1,10 @@
+{{ define "content" }}
+    <div class="list-preamble">
+        {{ .Content }}
+    </div>
+    <ul class="list-unstyled page-list">
+    {{ range .Resources }}
+        {{ .Render "item" }}
+    {{ end }}
+    </ul>
+{{ end }}

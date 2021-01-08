@@ -1,0 +1,37 @@
+- name: IEEE Transactions on Software Engineering
+  acronym: TSE
+  url: https://www.computer.org/csdl/journal/ts
+  description:
+    Premier source for information, inspiration, and collaboration in computer 
+    science and engineering.
+- name: ACM Transactions on Software Engineering and Methodology
+  acronym: TOSEM
+  url: https://dl.acm.org/journal/tosem
+  description: |
+    Publishes papers on all aspects of that challenge: specification, design, 
+    development and maintenance. It covers tools and methodologies, languages, 
+    data structures, and algorithms. **TOSEM** also reports on successful 
+    efforts, noting practical lessons that can be scaled and transferred to 
+    other projects, and often looks at applications of innovative technologies.
+- name: Empirical Software Engineering
+  acronym: ESEM
+  url: https://www.springer.com/journal/10664
+  description:
+    Provides a forum for applied software engineering research with a strong 
+    empirical component.
+- name: Software and Systems Modeling
+  url: https://www.springer.com/journal/10270?gclid=EAIaIQobChMIlb6Y6sP56QIVVvlRCh2amwPIEAAYASAAEgJ1k_D_BwE
+  acronym: SoSyM
+  description: |
+    An international journal, publishing six issues yearly, that focuses on 
+    theoretical and practical issues in the development and application of 
+    software and system modeling languages, techniques, and methods, such as 
+    the Unified Modeling Language.
+- name: Journal of Object Technology
+  url: http://www.jot.fm/
+  acronym: JOT
+  description: |
+    An international platinum open-access journal, publishing about theoretical, 
+    empirical, conceptual, and experimental results in the area of software and 
+    language engineering.
+

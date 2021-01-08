@@ -1,0 +1,10 @@
+- name: Communications of the ACM 
+  url: https://cacm.acm.org/
+  description:
+    The leading print and online publication for the computing and information 
+    technology fields.
+- name: IEEE Software 
+  ulr: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52
+  description: 
+    Delivers reliable, useful, leading-edge software development information to 
+    keep engineers and managers abreast of rapid technology change.

@@ -1,0 +1,14 @@
++++
+date = "2019-12-10T10:00:00"
+title = "Modélisation et évaluation de la sécurité des parcours d’authentification"
+abstract = """
+Les applications informatiques sont aujourd’hui largement déployées sur plusieurs plateformes (e.g., smartphone, ordinateur, console de jeux). Une instance de la même application peut être accessible en simultané sur ces plateformes. Cette hétérogénéité augmente certes le confort d’utilisation, mais rend les applications plus complexes, notamment en terme de sécurité, particulièrement, lorsqu’il s’agit de vérifier l’identité de l’utilisateur final. Cette vérification d’identité, bien qu’elle soit fondée sur des normes et des protocoles éprouvés, manque la considération des risques introduits par les éléments de contexte. Ces éléments de contexte sont principalement l’environnement d’exécution (e.g., navigateur web, application mobile), les choix d’utilisabilité, le comportement humain et les erreurs de conception. Cette thèse fournit des outils et méthodes qui permettent aux concepteurs d’améliorer la conception des parcours d’authentification en prenant en considération ces éléments de contexte. Cette démarche nécessite d’identifier les biens que l’on souhaite protéger ainsi que les risques et les menaces sur ces derniers. Pour une application Web/Mobile, le moyen d’authentification de ses utilisateurs est capital pour éviter tout accès non-autorisé. Cette authentification est souvent réalisée lors des phases de développement tout en étant dépourvue de spécification préalable. Cette absence de spécification empêche de déterminer les défauts qui en résultent, mais aussi ceux liés aux interfaces utilisateurs, aux choix d’usage et au comportement de l’utilisateur final.
+Dans un premier temps, nous étudions l’impact de ces éléments de contexte sur le parcours d’authentification. Puis, nous en déduisons une taxonomie des défauts qualifiés de défauts logiques. Enfin, nous définissons un ensemble d’exigences à respecter lors des phases de conception afin de prévenir ces défautsde sécurité.
+Dans un second temps, nous proposons de palier le manque de spécification du parcours d’authentification dans le processus de développement. Dans ce but, nous proposons un langage dédié (i.e., Langage Spécifique au Domaine - Domaine Specific Language (DSL)) à la spécification des parcours d’authentification. Ce langage dédié, qui implémente un ensemble d’abstractions que nous définissons via un cadre d’évaluation du niveau de risques, offre deux avantages importants. Premièrement, il permet d’étendre les moyens d’authentification existants en considérant les éléments de contexte (i.e., plasticité de l’interface utilisateur, l’utilisabilité, etc.). Deuxièmement, pour une spécification de parcours donnée, il permet d’évaluer automatiquement le niveau de risque d’attaques logiques associées.
+"""
+event = "PhD. Defense"
+location = "Université du Luxembourg"
+speaker = "Youssou Ndiaye"
++++
+
+

@@ -1,0 +1,8 @@
++++
+date = "2018-10-25T13:00:00"
+title = "Shape-Diverse DSLs: Languages without Borders (SLE'18)"
+abstract = "Hi all, As far as we can be from a world, an economy and a democracy without borders, let us enjoy for now language engineering without borders starring Fabien Coulon. In his talk, he will be bringing us one step closer towards the language engineering utopia, accepted at SLE'19. Enters Fabien: Domain-Specific Languages (DSLs) manifest themselves in remarkably diverse shapes, ranging from internal DSLs embedded as a mere fluent API within a programming language, to external DSLs with dedicated syntax and tool support. Although different shapes have different pros and cons, combining them for a single language is problematic: language designers usually commit to a particular shape early in the design process, and it is hard to reconsider this choice later. In this new ideas paper, we envision a language engineering approach enabling (i) language users to manipulate language constructs in the most appropriate shape according to the task at hand, and (ii) language designers to combine the strengths of different technologies for a single DSL. We report on early experiments and lessons learned building Prism, our prototype approach to this problem. We illustrate its applicability in the engineering of a simple shape-diverse DSL implemented conjointly in Rascal, EMF, and Java. We hope that our initial contribution will raise the awareness of the community and encourage future research. The presentation is held in Minquiers at 1 pm."
+speaker = "Fabien Coulon"
+event = "DiverSE Coffee"
+location = "Rennes, France"
++++

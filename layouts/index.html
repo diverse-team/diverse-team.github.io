@@ -1,0 +1,67 @@
+{{ define "main" }}
+
+<div id="home-content">
+    <section id="banner">
+        <div id="banner-frame" class="container-fluid position-relative">
+            <div id="banner-title" class="text-center text-light position-absolute">
+            </div>
+        </div>
+    </section>
+
+    <section id="research-axes" class="py-5 bg-primary text-light">
+        <div class="content">
+        {{ $axesitems := slice (dict "icon" "project-diagram" "title" "Modeling and Language Engineering" "color" "light" ) (dict "icon" "check-double" "title" "Advanced testing" "color" "light") (dict "icon" "infinity" "title" "DevOps for distributed and heterogeneous systems" "color" "light") (dict "icon" "sliders-h" "title" "Variability Engineering" "color" "light")}}
+        {{ $axesargs := dict "inverted" true "iconinverted" true "iconstyle" "simple" "iconsize" "4x" "buttonlabel" "View More" "items" $axesitems "textstyle" "text-light" }}
+        {{ partial "icons/list.html" $axesargs }}
+        </div>
+    </section>
+
+    {{ partial "home/preview-section.html" (dict "section" "recent-publications" "title" "Recent Publications" "icon" (dict "icon" "file-alt" "color" "purple") "link" "/publications" "context" . ) }}
+    {{ partial "home/preview-section.html" (dict "section" "recent-talks"        "title" "Recent Talks"        "bgcolor" "light" "icon" (dict "icon" "chalkboard-teacher" "color" "teal") "link" "/talks" "context" . ) }}
+    {{ partial "home/preview-section.html" (dict "section" "recent-posts"        "title" "Recent Posts"        "bgcolor" "light" "icon" (dict "icon" "blog" "color" "green"             ) "link" "/posts" "context" . ) }}
+    
+    <section id="social">
+        <div class="container-fluid">
+            <div class="row">
+
+                <div id="latest-video" class="col-md-8 p-5">
+                    {{ $latest_video := (dict "id" "wr_EA1By5so" "title" "Grammatical picture generation") }}
+                    {{ if .Site.Data.videos }}
+                        {{ $videos := sort .Site.Data.videos "published" "desc" }}
+                        {{ $latest_video = index $videos 0 }}
+                    {{ end }}
+
+                    <h4 id="latest-video-header"><i class="fab fa-2x fa-youtube"></i><span>Latest Video</span></h4>
+                    <h5>{{ htmlUnescape $latest_video.title }}</h5>
+
+
+                    <iframe id="latest-video-preview" 
+                            src="https://www.youtube.com/embed/{{$latest_video.id}}" 
+                            frameborder="0" 
+                            allowfullscreen="allowfullscreen">
+                    </iframe>
+                </div>
+
+                <div id="tweets" class="col-md-4 p-5">
+                    <a class="twitter-timeline" href="https://twitter.com/{{.Site.Params.twitter}}" data-height=450></a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="organizations" class="py-5 bg-dark">
+        <div class="content">
+            <div class="row justify-content-center align-items-stretch items">
+                {{ range (slice "inria" "irisa" "univ-rennes1" "cnrs" "insa-rennes") }}
+                <div class="col-md-2 d-flex flex-column">
+                    <a class="org-link" href="https://www.{{.}}.fr" target="_blank"><div id="{{.}}"class="organization-logo" style="background-image: url(/images/organizations/dark-bg/{{.}}.png);"></div>
+                    </a>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+</div>
+{{ end }}

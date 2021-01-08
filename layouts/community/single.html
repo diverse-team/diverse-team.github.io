@@ -1,0 +1,14 @@
+{{ define "content" }}
+    {{ .Content }}
+    
+    {{ template "community/section.html" (dict "title" "Conferences" "data"  .Site.Data.conferences) }}
+    
+    {{ template "community/section.html" (dict "title" "Scientific Journals" "data"  .Site.Data.journals) }}
+
+    {{ template "community/section.html" (dict "title" "Scientific magazines" "data" .Site.Data.magazines) }}
+
+    {{ range sort .Resources "Params.order" }}
+        <h2>{{ .Title }}</h2>
+        <div> {{ .Content }} </div>
+    {{ end }}
+{{ end }}

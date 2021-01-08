@@ -1,0 +1,14 @@
+{{ define "content" }}
+    {{ with .Params }}
+    <div class="information">
+        <p class="info-row"><span class="label">Position</span><span class="data">{{ template "positions/pos2badge.html" .position }}</span></p>
+        <p class="info-row"><span class="label">Expected start date</span><span class="data">{{ .starts }}</span></p>
+        <p class="info-row"><span class="label">Estimated duration</span><span class="data">{{ .duration }}</span></p>
+        <p class="info-row"><span class="label">Contact</span><span class="data">{{ .contact}}</span><a href="mailto:{{ .eamil }}">{{ .email }}</a></p>
+    </div>
+    {{ end }}
+    {{ .Content }}
+    {{ if .Params.pdf }}
+        <embed src="{{ .Params.pdf }}" type="application/pdf" width="100%" height="600px" />
+    {{ end }}
+{{ end }}

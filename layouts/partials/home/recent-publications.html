@@ -1,0 +1,4 @@
+{{ range first .Site.Params.recent_publications (sort .Site.Data.publications "date" "desc") }}
+    {{ template "publications/item.html" . }}
+{{ end }}
+ 
