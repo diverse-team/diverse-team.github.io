@@ -3,42 +3,54 @@
     <g transform="translate(250, 75)">
     
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 66px; fill: #d9702f" 
-                transform="translate(75,-20)rotate(0)">model</text>
+                style="font-family: Impact; font-size: 66px; fill: #cdb25f" 
+                transform="translate(-29,7)rotate(0)">model</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 48px; fill: #6fa39c" 
-                transform="translate(70,20)rotate(0)">language</text>
+                style="font-family: Impact; font-size: 33px; fill: #cb702d" 
+                transform="translate(-42,-41)rotate(0)">lines</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 40px; fill: #dd9735" 
-                transform="translate(-121,-39)rotate(0)">modeling</text>
+                style="font-family: Impact; font-size: 30px; fill: #76c135" 
+                transform="translate(94,31)rotate(0)">systems</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 33px; fill: #ec9637" 
-                transform="translate(-120,-5)rotate(0)">lines</text>
+                style="font-family: Impact; font-size: 29px; fill: #81d32f" 
+                transform="translate(-30,40)rotate(0)">testing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 30px; fill: #81c130" 
-                transform="translate(-166,19)rotate(0)">systems</text>
+                style="font-family: Impact; font-size: 28px; fill: #b58842" 
+                transform="translate(154,2)rotate(0)">variability</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 29px; fill: #eaa23b" 
-                transform="translate(-59,47)rotate(0)">testing</text>
+                style="font-family: Impact; font-size: 27px; fill: #6fa39c" 
+                transform="translate(151,-44)rotate(0)">languages</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 24px; fill: #bdb954" 
-                transform="translate(95,50)rotate(0)">domain-specific</text>
+                style="font-family: Impact; font-size: 18px; fill: #5e9063" 
+                transform="translate(121,53)rotate(0)">ingénierie</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 18px; fill: #587e8c" 
-                transform="translate(-177,50)rotate(0)">ingénierie</text>
+                style="font-family: Impact; font-size: 17px; fill: #dd9735" 
+                transform="translate(-137,-41)rotate(0)">computing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #cc8d34" 
-                transform="translate(-196,-12)rotate(0)">security</text>
+                style="font-family: Impact; font-size: 15px; fill: #76c135" 
+                transform="translate(-167,-19)rotate(0)">security</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 14px; fill: #55769e" 
-                transform="translate(-62,-7)rotate(0)">test</text>
+                style="font-family: Impact; font-size: 15px; fill: #6ea874" 
+                transform="translate(37,-52)rotate(0)">logiciel</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 15px; fill: #6ea874" 
+                transform="translate(-176,0)rotate(0)">feature</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 15px; fill: #82c131" 
+                transform="translate(-131,27)rotate(0)">modèles</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 14px; fill: #cba15d" 
+                transform="translate(98,-25)rotate(0)">test</text>
         </g></svg>
