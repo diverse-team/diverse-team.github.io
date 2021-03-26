@@ -3,7 +3,7 @@ title: DevOps pour l'ingénierie système
 starts: 2021
 duration: 3 ans
 position: phd
-contacts: Arnaud Blouin, Benoit Combemale
+contact: Arnaud Blouin, Benoit Combemale
 email: prenom.nom@irisa.fr
 summary: DevOps, langages dédiés, environnement de développement, interaction humain-machine, ingénierie dirigée par les modèles, live programming, utilisabilité
 ---
