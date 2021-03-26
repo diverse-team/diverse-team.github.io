@@ -4,7 +4,7 @@ starts: 2021
 duration: 3 ans
 position: phd
 contacts: Arnaud Blouin, Benoit Combemale
-courriels contacts: prénom.nom@irisa.fr
+email: prenom.nom@irisa.fr
 summary: Mots-clés: DevOps, langages dédiés, environnement de développement, interaction humain-machine, ingénierie dirigée par les modèles, live programming, utilisabilité
 ---
 
