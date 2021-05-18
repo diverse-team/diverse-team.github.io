@@ -48,8 +48,8 @@ The candidate will work more specifically with [Prof. Benoit Combemale](https://
 
 ## Skills and background
 
-    - A PhD in the field of software engineering or language design and implementation, with a recognized research record
-    - Experience in software language engineering, in particular an experience with Xtext and EMF would be a plus
-    - Experience in the implementation of static and dynamic program analysis
-    - Autonomy, and the ability to work in a distributed and international group. 
-    - Fluent in English
+- A PhD in the field of software engineering or language design and implementation, with a recognized research record
+- Experience in software language engineering, in particular an experience with Xtext and EMF would be a plus
+- Experience in the implementation of static and dynamic program analysis
+- Autonomy, and the ability to work in a distributed and international group. 
+- Fluent in English
