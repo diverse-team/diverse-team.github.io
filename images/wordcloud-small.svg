@@ -3,46 +3,50 @@
     <g transform="translate(250, 75)">
     
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 68px; fill: #689993" 
-                transform="translate(-102,-13)rotate(0)">model</text>
+                style="font-family: Impact; font-size: 68px; fill: #e1a853" 
+                transform="translate(33,-3)rotate(0)">model</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 53px; fill: #7bc039" 
-                transform="translate(37,23)rotate(0)">product</text>
+                style="font-family: Impact; font-size: 33px; fill: #eaa23b" 
+                transform="translate(-113,-1)rotate(0)">lines</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 42px; fill: #ef2727" 
-                transform="translate(102,-36)rotate(0)">modeling</text>
+                style="font-family: Impact; font-size: 30px; fill: #5a847e" 
+                transform="translate(76,25)rotate(0)">testing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 33px; fill: #82c131" 
-                transform="translate(186,-1)rotate(0)">lines</text>
+                style="font-family: Impact; font-size: 29px; fill: #dc8e37" 
+                transform="translate(-54,-50)rotate(0)">systems</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 30px; fill: #81c130" 
-                transform="translate(-120,18)rotate(0)">testing</text>
+                style="font-family: Impact; font-size: 28px; fill: #dd9735" 
+                transform="translate(-88,27)rotate(0)">variability</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 29px; fill: #bd8332" 
-                transform="translate(-153,46)rotate(0)">systems</text>
+                style="font-family: Impact; font-size: 18px; fill: #a04b62" 
+                transform="translate(-63,51)rotate(0)">computing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 26px; fill: #b1ad4e" 
-                transform="translate(116,50)rotate(0)">domain-specific</text>
+                style="font-family: Impact; font-size: 17px; fill: #e87733" 
+                transform="translate(-167,51)rotate(0)">ingénierie</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 16px; fill: #81d32f" 
-                transform="translate(81,-13)rotate(0)">cloud</text>
+                style="font-family: Impact; font-size: 16px; fill: #cc812f" 
+                transform="translate(-100,-27)rotate(0)">cloud</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #da7931" 
-                transform="translate(-32,45)rotate(0)">test</text>
+                style="font-family: Impact; font-size: 15px; fill: #eaa23b" 
+                transform="translate(155,-5)rotate(0)">test</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #55769e" 
-                transform="translate(180,22)rotate(0)">logiciel</text>
+                style="font-family: Impact; font-size: 15px; fill: #adc14a" 
+                transform="translate(159,30)rotate(0)">logiciel</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #6ba083" 
-                transform="translate(-181,-59)rotate(0)">feature</text>
+                style="font-family: Impact; font-size: 15px; fill: #5a847e" 
+                transform="translate(45,43)rotate(0)">feature</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 15px; fill: #7581ab" 
+                transform="translate(-174,-36)rotate(0)">analysis</text>
         </g></svg>
