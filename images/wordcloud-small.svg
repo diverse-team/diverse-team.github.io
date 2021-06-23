@@ -3,50 +3,50 @@
     <g transform="translate(250, 75)">
     
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 68px; fill: #cb702d" 
-                transform="translate(-24,-6)rotate(0)">model</text>
+                style="font-family: Impact; font-size: 68px; fill: #bdb954" 
+                transform="translate(-106,4)rotate(0)">model</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 42px; fill: #eaa23b" 
-                transform="translate(100,26)rotate(0)">modeling</text>
+                style="font-family: Impact; font-size: 42px; fill: #c39249" 
+                transform="translate(111,34)rotate(0)">modeling</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 33px; fill: #70ac6f" 
-                transform="translate(121,-17)rotate(0)">lines</text>
+                style="font-family: Impact; font-size: 33px; fill: #da7931" 
+                transform="translate(84,-5)rotate(0)">lines</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 30px; fill: #eaa23b" 
-                transform="translate(161,-43)rotate(0)">testing</text>
+                style="font-family: Impact; font-size: 30px; fill: #c39249" 
+                transform="translate(143,-30)rotate(0)">testing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 29px; fill: #d8a04c" 
-                transform="translate(-75,28)rotate(0)">systems</text>
+                style="font-family: Impact; font-size: 29px; fill: #e02424" 
+                transform="translate(-132,32)rotate(0)">systems</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 18px; fill: #da7931" 
-                transform="translate(-181,-16)rotate(0)">computing</text>
+                style="font-family: Impact; font-size: 18px; fill: #7bc039" 
+                transform="translate(54,56)rotate(0)">computing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 17px; fill: #6b789f" 
-                transform="translate(75,47)rotate(0)">ingénierie</text>
+                style="font-family: Impact; font-size: 17px; fill: #e1a853" 
+                transform="translate(-27,-57)rotate(0)">ingénierie</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 16px; fill: #a5a14a" 
-                transform="translate(-24,-51)rotate(0)">cloud</text>
+                style="font-family: Impact; font-size: 16px; fill: #bdb954" 
+                transform="translate(-14,24)rotate(0)">cloud</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 15px; fill: #c42020" 
+                transform="translate(130,58)rotate(0)">test</text>
         
         <text  text-anchor="middle"
                 style="font-family: Impact; font-size: 15px; fill: #e76f31" 
-                transform="translate(5,44)rotate(0)">test</text>
-        
-        <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #b63138" 
-                transform="translate(-169,13)rotate(0)">logiciel</text>
+                transform="translate(-29,45)rotate(0)">logiciel</text>
         
         <text  text-anchor="middle"
                 style="font-family: Impact; font-size: 15px; fill: #e9713e" 
-                transform="translate(-89,-53)rotate(0)">feature</text>
+                transform="translate(-94,52)rotate(0)">feature</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 15px; fill: #6ba083" 
-                transform="translate(-165,-56)rotate(0)">analysis</text>
+                style="font-family: Impact; font-size: 15px; fill: #9f4e66" 
+                transform="translate(193,1)rotate(0)">analysis</text>
         </g></svg>
