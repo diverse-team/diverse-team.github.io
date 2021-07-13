@@ -1,4 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
     <svg width="500" height="150" xmlns="http://www.w3.org/2000/svg">
     <g transform="translate(250, 75)">
-    </g></svg>
+    
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 67px; fill: #5e9063" 
+                transform="translate(106,4)rotate(0)">model</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 42px; fill: #8e6488" 
+                transform="translate(-99,32)rotate(0)">modeling</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 33px; fill: #b92b32" 
+                transform="translate(61,-40)rotate(0)">lines</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 30px; fill: #ddaa5c" 
+                transform="translate(-51,-36)rotate(0)">testing</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 29px; fill: #8e6488" 
+                transform="translate(-89,-7)rotate(0)">systems</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 28px; fill: #d12323" 
+                transform="translate(76,35)rotate(0)">variability</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 18px; fill: #adc14a" 
+                transform="translate(-79,57)rotate(0)">computing</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 17px; fill: #91bb3c" 
+                transform="translate(75,55)rotate(0)">ingénierie</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 16px; fill: #eaa23b" 
+                transform="translate(163,-54)rotate(0)">cloud</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 15px; fill: #bdb954" 
+                transform="translate(172,31)rotate(0)">test</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 15px; fill: #c42020" 
+                transform="translate(199,51)rotate(0)">logiciel</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 15px; fill: #e0a852" 
+                transform="translate(-139,-35)rotate(0)">feature</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 15px; fill: #e8a444" 
+                transform="translate(-198,-1)rotate(0)">analysis</text>
+        </g></svg>
