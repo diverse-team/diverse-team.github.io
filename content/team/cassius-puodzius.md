@@ -2,7 +2,7 @@
 name: Cassius Puodzius
 organization: INRIA
 position: PhD student
-category: member # Possible values are: [member, alumni, former] default: member
+category: member
 social:
   home: http://cpuodzius.github.io
   twitter: cpuodzius
