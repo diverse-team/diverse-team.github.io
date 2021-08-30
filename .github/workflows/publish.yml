@@ -3,8 +3,8 @@ name: Publish website
 on:
   push:
     branches: [ gh-pages-edit ]
-  schedule:
-    - cron: '0 0 * * *'
+#  schedule:
+#    - cron: '0 0 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
