@@ -42,8 +42,8 @@ footer {
     background-size: contain;
 
     @include media-breakpoint-up(sm) {
-        height: 200px;
-        background-size: 40%; 
+        height: 60px;
+        background-size: 15%; 
     }
 }
 
