@@ -4,5 +4,5 @@ organization: Inria
 position: Postdoc
 category: member
 social:
-  website: https://www.dr-apeiron.net/
+    home: https://www.dr-apeiron.net/
 ---
