@@ -1,5 +1,5 @@
 ---
-title: PhD Thesis: DevOps et IHM pour l'ingénierie des systèmes complexes
+title: DevOps et IHM pour l'ingénierie des systèmes complexes
 starts: 2022
 duration: 3 ans
 position: phd
