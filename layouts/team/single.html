@@ -5,7 +5,7 @@
 <h2 class="p-2 text-light bg-primary">Permanent Staff</h2>
 <div class="members-row mb-3">
     {{ range .Resources }}
-        {{ if or (eq .Params.category nil) (eq .Params.category "permanent") }}
+        {{ if (eq .Params.category "permanent") }}
             {{ .Render "item" }}
         {{ end }}
     {{ end }}
@@ -14,7 +14,7 @@
 <h2 class="p-2 text-light bg-primary">External Collaborators</h2>
 <div class="members-row mb-3">
     {{ range .Resources }}
-        {{ if or (eq .Params.category nil) (eq .Params.category "external") }}
+        {{ if (eq .Params.category "external") }}
             {{ .Render "item" }}
         {{ end }}
     {{ end }}
@@ -23,7 +23,7 @@
 <h2 class="p-2 text-light bg-primary">Post Doc</h2>
 <div class="members-row mb-3">
     {{ range .Resources }}
-        {{ if or (eq .Params.category nil) (eq .Params.category "postdoc") }}
+        {{ if (eq .Params.category "postdoc") }}
             {{ .Render "item" }}
         {{ end }}
     {{ end }}
@@ -32,7 +32,7 @@
 <h2 class="p-2 text-light bg-primary">PhD Student</h2>
 <div class="members-row mb-3">
     {{ range .Resources }}
-        {{ if or (eq .Params.category nil) (eq .Params.category "phd") }}
+        {{ if (eq .Params.category "phd") }}
             {{ .Render "item" }}
         {{ end }}
     {{ end }}
@@ -41,7 +41,7 @@
 <h2 class="p-2 text-light bg-primary">Engineers</h2>
 <div class="members-row mb-3">
     {{ range .Resources }}
-        {{ if or (eq .Params.category nil) (eq .Params.category "engineer") }}
+        {{ if (eq .Params.category "engineer") }}
             {{ .Render "item" }}
         {{ end }}
     {{ end }}
