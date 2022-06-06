@@ -2,7 +2,7 @@
 name: Yoann Marquer
 organization: Inria
 position: Postdoc
-category: member
+category: postdoc
 social:
     home: https://www.dr-apeiron.net/
 ---

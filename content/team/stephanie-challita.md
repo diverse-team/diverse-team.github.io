@@ -2,7 +2,7 @@
 name: Stéphanie Challita
 organization: ESIR, Université de Rennes 1
 position: Associate Professor
-category: member # Possible values are: [member, alumni, former] default: member
+category: permament
 social:
   home: https://stephaniechallita.github.io/
   twitter: StephanieChall1

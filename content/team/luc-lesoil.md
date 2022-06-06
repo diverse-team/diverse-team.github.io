@@ -2,7 +2,7 @@
 name: Luc Lesoil
 organization: IRISA
 position: Ph.D. Student
-category: member 
+category: phd 
 social:
   linkedin: luc-lesoil-ensai
   github: llesoil

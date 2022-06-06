@@ -2,7 +2,7 @@
 name: Olivier Zendra
 organization: Inria
 position: Tenured Researcher
-category: member # Possible values are: [member, alumni, former] default: member
+category: permament
 social:
   home: https://members.loria.fr/OZendra/  # Obsolete, to move and update
   linkedin: www.linkedin.com/in/olivierzendra  # obsolete, to update
