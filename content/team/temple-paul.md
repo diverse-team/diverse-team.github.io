@@ -1,7 +1,7 @@
 ---
 name: Paul Temple
 position: Associate Professor
-organization: Univ Rennes 1, ESIR
+organization: ESIR, Université de Rennes 1
 category: permanent
 social:
     linkedin: paul-temple-16aa75120
