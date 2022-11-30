@@ -1,5 +1,5 @@
 ---
-title:  Implementation, visualisation et démonstration d'algorithme d'undo/redo
+title:  Implementation, visualisation et démonstration d'algorithmes d'undo/redo
 starts: 2023
 duration: 3-6 months
 position: internship (BAC+4 ou BAC+5)
