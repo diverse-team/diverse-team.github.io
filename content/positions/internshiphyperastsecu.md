@@ -10,8 +10,8 @@ summary: Le but du stage est d'étendre notre outil HyperAST, qui capture l'hist
 
 ## Description
 
-La détection et la correction des failles de sécurité dans les logiciels sont cruciales pour l'industrie du logiciel.
-Nous voulons mieux comprendre comment ces failles apparaissent dans le code. Pour cela, nous voulons analyser l'historique (Git) des logiciels à partir de l'introduction des patchs de sécurité, pour remontrer dans le temps et retracer l'histoire de l'apparition de ces failles dans des programmes Java. Par exemple, étudier comment est apparue la fameuse faille dans Log4J. Nous voulons automatiser ce processus autant que possible. Le but de ce stage est de contribuer à notre outil HyperAST qui permet déjà de capturer tous l'historique d'un logiciel pour réaliser des analyses temporelles. L'idée est d'étendre l'HyperAST pour gérer ce cas précis des failles de sécurité en Java. Le stage implique également d'utiliser le travail réaliser sur des logiciels et des failles connus.
+La détection et la correction des failles de sécurité dans les logiciels sont cruciales pour l'industrie.
+Nous voulons mieux comprendre comment ces failles apparaissent dans le code. Pour cela, nous voulons analyser l'historique (Git) des logiciels à partir de l'introduction des patchs de sécurité, pour remontrer dans le temps et retracer l'histoire de l'apparition de ces failles dans des programmes Java. Par exemple, étudier comment est apparue la fameuse faille dans Log4J. Nous voulons automatiser ce processus autant que possible. Le but de ce stage est de contribuer à notre outil HyperAST qui permet déjà de capturer tout l'historique d'un logiciel pour réaliser des analyses temporelles. L'idée est d'étendre l'HyperAST pour gérer ce cas précis des failles de sécurité en Java. Le stage implique également d'utiliser le travail réaliser sur des logiciels et des failles connus.
 
 Technologies : Rust, Java
 
