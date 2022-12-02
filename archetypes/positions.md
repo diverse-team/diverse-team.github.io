@@ -1,9 +1,10 @@
 ---
 title: The best position you'll ever get
-deadline: 
+deadline:
 # starts: Spring 2020
 duration: One year
 position: internship
+level: Master 2
 contact: Severa Stern
 email: severa.stern@university.com
 summary: Provide here a short description of the position. More details and content can be given below.
