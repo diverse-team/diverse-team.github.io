@@ -1,10 +1,16 @@
 {{ define "content" }}
     <div class="list-preamble">
         {{ .Content }}
+        <div class="btn-group" role="group" aria-label="Job types">
+            <button type="button" class="btn btn-secondary">Phd</button>
+            <button type="button" class="btn btn-secondary">Postdoc</button>
+            <button type="button" class="btn btn-secondary">Internship</button>
+            <button type="button" class="btn btn-secondary">Engineer</button>
+          </div>
     </div>
     <ul class="list-unstyled page-list">
     {{ range .Pages }}
-        {{ if not .Params.private }}
+        {{ if not .Params.private and eq .Params.position "Phd" }}
         <li> {{ .Render "item" }} </li>
         {{ end }}
     {{ end }}
