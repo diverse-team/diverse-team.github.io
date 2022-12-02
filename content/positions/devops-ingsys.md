@@ -8,6 +8,7 @@ email: prenom.nom@irisa.fr
 summary: DevOps, langages dédiés, environnement de développement, interaction humain-machine, ingénierie dirigée par les modèles, live programming, utilisabilité
 ---
 
+
 ## Contexte
 
 

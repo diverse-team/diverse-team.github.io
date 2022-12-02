@@ -1,18 +1,25 @@
 {{ define "content" }}
+{{ $data := newScratch }}
+{{ $data.Set "filter" "phd" }}
+
+<!--
     <div class="list-preamble">
         {{ .Content }}
         <div class="btn-group" role="group" aria-label="Job types">
-            <button type="button" class="btn btn-secondary">Phd</button>
-            <button type="button" class="btn btn-secondary">Postdoc</button>
-            <button type="button" class="btn btn-secondary">Internship</button>
-            <button type="button" class="btn btn-secondary">Engineer</button>
-          </div>
-    </div>
-    <ul class="list-unstyled page-list">
-    {{ range .Pages }}
-        {{ if not .Params.private and eq .Params.position "Phd" }}
-        <li> {{ .Render "item" }} </li>
+            <button type="button" class="btn btn-secondary" onclick={{ print "coucou" }} >Phd</button>
+            <button type="button" class="btn btn-secondary" onclick={{ $data.Set "filter" "phd" }} >Postdoc</button>
+            <button type="button" class="btn btn-secondary" onclick={{ $data.Set "filter" "internship" }} >Internship</button>
+            <button type="button" class="btn btn-secondary" onclick={{ $data.Set "filter" "phd" }} >Engineer</button>
+        </div>
+    </div> -->
+
+    {{ range (.Pages.GroupByParam "position").Reverse }}
+        <ul class="list-unstyled page-list">
+        {{ range (.Pages.ByParam "starts").Reverse }}
+            {{ if and (not .Params.private) }}
+            <li> {{ .Render "item" }} </li>
+            {{ end }}
         {{ end }}
+        </ul>
     {{ end }}
-    </ul>
 {{ end }}
