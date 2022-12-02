@@ -1,7 +1,7 @@
 ---
 title: Open positions
 
-menu: 
+menu:
     main:
         weight: 900
         name: Join Us!

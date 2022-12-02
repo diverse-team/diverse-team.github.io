@@ -1,1 +1,12 @@
-Yolo
+{{ define "content" }}
+    <div class="list-preamble">
+        {{ .Content }}
+    </div>
+    <ul class="list-unstyled page-list">
+    {{ range .Pages }}
+        {{ if not .Params.private }}
+        <li> {{ .Render "item" }} </li>
+        {{ end }}
+    {{ end }}
+    </ul>
+{{ end }}
