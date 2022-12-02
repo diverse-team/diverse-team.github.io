@@ -14,14 +14,15 @@ The content of the file will look like this:
 ```
 ---
 title: The best position you'll ever get
-deadline: 
-starts: 
+deadline:
+starts:
 duration: One year
 position: internship
+level: master 2
 contact: Severa Stern
 email: severa.stern@university.com
 summary: Provide here a short description of the position. More details and content can be given below.
-pdf: 
+pdf:
 ---
 
 Add here a full description of the position and other materials you may need.
@@ -33,6 +34,7 @@ Add here a full description of the position and other materials you may need.
 * `deadline`: (**Optional**) Deadline to apply for the position. Could be any string.
 * `starts`: (**Optional**) Date at which the position should start. Could be any string.
 * `duration`: (**Optional**) Expected duration of the contract. Could be any string.
+* `level`: (**Optional**) The Expected education level. String.
 * `position`: (**Mandatory**) Type of the position. Could be any string. Special values are `phd`, `internship`, `postdoc`.
 * `contact`: (**Optional**) Name of the person in the team to contact for more information about the position.
 * `email`: (**Optional**) Email to obtain more information on the position.
