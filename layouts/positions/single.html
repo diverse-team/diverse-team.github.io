@@ -4,6 +4,7 @@
         <p class="info-row"><span class="label">Position</span><span class="data">{{ template "positions/pos2badge.html" .position }}</span></p>
         <p class="info-row"><span class="label">Expected start date</span><span class="data">{{ .starts }}</span></p>
         <p class="info-row"><span class="label">Estimated duration</span><span class="data">{{ .duration }}</span></p>
+        <p class="info-row"><span class="label">Education level</span><span class="data">{{ .level }}</span></p>
         <p class="info-row"><span class="label">Contact</span><span class="data">{{ .contact}}</span><a href="mailto:{{ .eamil }}">{{ .email }}</a></p>
     </div>
     {{ end }}
