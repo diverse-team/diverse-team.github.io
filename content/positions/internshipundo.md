@@ -2,8 +2,9 @@
 title:  Implementation, visualisation et démonstration d'algorithmes d'undo/redo
 starts: 2023
 duration: 3-6 months
-position: internship (BAC+4 ou BAC+5)
+position: internship
 contact: Arnaud Blouin
+level:  (BAC+4 ou BAC+5)
 email: arnaud dot blouin _at_ irisa.fr
 summary: Implémenter d'autres algorithmes et d'en faire la démonstration au travers d'applications Web.
 ---

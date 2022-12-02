@@ -2,7 +2,8 @@
 title:  Développement d'un outil pour l'étude de l'apparition de failles de sécurité dans du code Java
 starts: 2023
 duration: 3-6 months
-position: internship (BAC+4 ou BAC+5)
+position: internship
+level: (BAC+4 ou BAC+5)
 contact: Arnaud Blouin, Djamel Eddine Khelladi
 email: arnaud dot blouin _at_ irisa.fr djamel-eddine dot khelladi _at_ irisa.fr
 summary: Le but du stage est d'étendre notre outil HyperAST, qui capture l'historique Git d'un logiciel Java, pour étudier comment les failles de sécurité apparaissent dans le code.
