@@ -11,7 +11,7 @@ A domain-specific language (DSL) is a programming language that is tailored to a
 DSLs are important because they allow developers to express solutions to problems in a way that is natural and intuitive for the domain they are working in, which can make it easier to write and maintain complex systems. 
 DSLs can also be more efficient than general-purpose languages, since they are designed specifically for the task at hand and do not need to include features that are not relevant to the domain. 
 
-Code assistants, like Copilot, Codex or ChatGPT, are tools that use artificial intelligence and natural language processing to help developers write code more quickly and accurately. 
+Code assistants based on language models, like Copilot, Codex or ChatGPT, are tools that use artificial intelligence and natural language processing to help developers write code more quickly and accurately. 
 They can provide suggestions for code completion, formatting, and error correction as the developer types, which can save time and reduce the likelihood of mistakes. 
 Code assistants can also offer documentation, examples, and explanations for various APIs and programming concepts, which can help developers learn and understand new technologies more efficiently. 
 
