@@ -1,6 +1,6 @@
 ---
 name: Benoit Combemale
-position: Professor
+position: Professor, co-head of the team
 organization: ESIR, Université de Rennes 1
 category: permanent
 social:
