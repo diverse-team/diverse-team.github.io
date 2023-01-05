@@ -50,7 +50,7 @@ The main objective of this thesis is to address the lack of support for evolutio
 
 ## Environment
 
-The candidate will work in the DiverSE team, common to CNRS (IRISA) and Inria. The DiverSE team is located in Rennes. DiverSE's research is in the field of software engineering. The team is actively involved in European, French and industrial projects and is composed of 9 professors/researchers, 20 PhD students, 4 post-docs and 3 engineers. The main supervisors of the thesis will be ... The candidate will enroll in the doctoral school in computer science of the University of Rennes 1.
+The candidate will work in the DiverSE team, common to CNRS (IRISA) and Inria. The DiverSE team is located in Rennes. DiverSE's research is in the field of software engineering. The team is actively involved in European, French and industrial projects and is composed of 9 professors/researchers, 20 PhD students, 4 post-docs and 3 engineers. The main supervisors of the thesis will be Djamel E. Khelladi, Arnaud Blouin, and Benoit Combemale. The candidate will enroll in the doctoral school in computer science of the University of Rennes 1.
 
 
 
