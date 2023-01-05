@@ -3,9 +3,10 @@ title: Model-Based DevOps: From Theory to Practice
 starts: 2023
 duration: 3 ans
 position: phd
-contact: JM Jezequel, B Combemale
+contact: Jean-Marc Jezequel, B Combemale
 email: firstname.lastname@irisa.fr
 summary: DevOps, Model-Driven Engineering
+
 ---
 
 ## PhD Description
