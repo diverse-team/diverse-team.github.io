@@ -4,7 +4,7 @@ starts: 2022
 duration: 3 ans
 position: phd
 contact: Djamel E. Khelladi, Arnaud Blouin, Benoit Combemale
-email: prenom.nom@irisa.fr
+email: firstname.lastname@irisa.fr
 summary: Evolution, co-evolution, Polyglot, Live, Programming
 ---
 
