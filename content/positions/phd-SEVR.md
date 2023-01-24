@@ -1,6 +1,6 @@
 ---
 position: phd
-title: PhD Position "Software engineering and virtual reality: towards better development of VR applications"
+title: "(PhD position) Software engineering and virtual reality: towards better development of VR applications"
 duration: 36 months
 starts: 2023-09-01
 contact: Arnaud Blouin, Valérie Gouranton, Mathieu Acher
