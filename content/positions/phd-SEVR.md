@@ -22,7 +22,7 @@ These previous works, however, did not address the major issues of software vari
 Under these assumptions, the thesis work aims to improve the production of VR applications subject to a high variability factor. For this purpose, GL techniques (variability management, dynamic product line, dedicated language) will be studied during the design phase. The objective is to produce generic software components common to a family of VR applications. The expected benefits are a factorisation and a semi-automation of this production. To validate and debug the development of these components, the developer will need to be able to interact with the virtual environment to iterate this development process.
 
 
-## Bibliography 
+## Bibliography
 
 [1] Gwendal Le Moulec, Ferran Argelaguet, Valérie Gouranton, Arnaud Blouin, Bruno Arnaldi, AGENT: Automatic Generation of Experimental Protocol Runtime, ACM Symposium on Virtual Reality Software and Technology (VRST), Nov 2017, Gothenburg, Sweden. 2017, Virtual Reality Software and Technology
 
@@ -50,14 +50,14 @@ Under these assumptions, the thesis work aims to improve the production of VR ap
 
 ## Environment
 
-The work will be realized in the DiverSE research team together with the HYBRID team, joint to the CNRS (IRISA) and Inria. 
-The DiverSE and HYBRID team are both located in Rennes, Brittany, France. DiverSE's research is in the area of software engineering. 
+The work will be realized in the DiverSE research team together with the HYBRID team, joint to the CNRS (IRISA) and Inria.
+The DiverSE and HYBRID team are both located in Rennes, Brittany, France. DiverSE's research is in the area of software engineering.
 HYBRID team specialty lies in 3D interaction with virtual environments using body and mind.
-The teams are actively involved in European, French and industrial projects. 
+The teams are actively involved in European, French and industrial projects.
 The candidate will work more specifically with [Prof. Mathieu Acher](https://www.mathieuacher.com) (INSA Rennes, DiverSE team), [Assoc. Prof. Arnaud Blouin](https://people.irisa.fr/Arnaud.Blouin/) (INSA Rennes, DiverSE team), and [Assoc. Prof. Valérie Gouranton](https://scholar.google.fr/citations?user=4ByLsOcAAAAJ&hl=fr) (INSA Rennes, DiverSE team).
 
 ## Skills and background
 
 - Experience in software development and engineering
-- Autonomy, and the ability to work in a distributed and international group. 
+- Autonomy, and the ability to work in a distributed and international group.
 - Fluent in English
