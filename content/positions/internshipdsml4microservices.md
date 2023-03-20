@@ -1,12 +1,12 @@
 ---
 title: DSML for design, orchestration and adaptation of microservices 
 deadline: 
-starts: March 2021
+starts: as soon as possible
 duration: 6 months
-position: internship
+position: internship (Possible follow up with a PHD)
 contact: Stéphanie Challita
 email: stephanie.challita@irisa.fr
-summary: Research internship (preferably in Rennes but can be conducted virtually as well). More details and content can be given below.
-pdf: /pdf/2020-challita-microservices.pdf
+summary: More details and content can be found below.
+pdf: /pdf/2023-challita-microservices.pdf
 ---
 
