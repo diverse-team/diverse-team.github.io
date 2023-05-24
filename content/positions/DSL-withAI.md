@@ -2,7 +2,7 @@
 position: internship
 title: Engineering Domain-Specific Languages with Language Model-based Assistant
 duration: 6 months
-starts: 2023-02-01
+starts: 2023-06-01
 contact: Mathieu Acher
 email: mathieu.acher@irisa.fr 
 ---
