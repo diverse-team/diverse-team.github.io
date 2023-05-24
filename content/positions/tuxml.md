@@ -2,7 +2,7 @@
 position: internship
 title: Compiling and Booting Linux Kernel Configurations
 duration: 3 months
-starts: 2020-05-01
+starts: 2023-06-01
 contact: Mathieu Acher
 email: mathieu.acher@irisa.fr 
 ---
