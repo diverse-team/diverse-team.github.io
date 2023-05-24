@@ -1,6 +1,6 @@
 ---
 title: Handling Evolution for Polyglot and Live Programming
-starts: 2022
+starts: 2023
 duration: 3 ans
 position: phd
 contact: Djamel E. Khelladi, Arnaud Blouin, Benoit Combemale

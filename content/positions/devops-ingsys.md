@@ -1,6 +1,6 @@
 ---
 title: DevOps et IHM pour l'ingénierie des systèmes complexes
-starts: 2022
+starts: 2023
 duration: 3 ans
 position: phd
 contact: Arnaud Blouin, Benoit Combemale
