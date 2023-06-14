@@ -1,10 +1,10 @@
 ---
 name: Mathieu Acher
-organization: ISTIC, Université de Rennes 1
-position: Associate Professor
+organization: INSA Rennes, Institut Universitaire de France 
+position: Full Professor
 category: permanent
 social:
-  home: http://www.mathieuacher.com/
+  home: https://www.mathieuacher.com/
   twitter: acherm
   linkedin: mathieuacher
 ---
