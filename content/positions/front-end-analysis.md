@@ -54,9 +54,30 @@ The candidates must send their application to Arnaud Blouin and Djamel Eddine Kh
 
 ## References
 
-[1] Iannone, E., Guadagni, R., Ferrucci, F., De Lucia, A., & Palomba, F. (2022). The secret life of software vulnerabilities: A large-scale empirical study. IEEE Transactions on Software Engineering, 49(1), 44-63.
-[2] Lopes, M., & Hora, A. (2022). How and why we end up with complex methods: a multi-language study. Empirical Software Engineering, 27(5), 115.
-[3] Hora, A., Robbes, R., Valente, M. T., Anquetil, N., Etien, A., & Ducasse, S. (2018). How do developers react to API evolution? A large-scale empirical study. Software Quality Journal, 26, 161-191
-[4] Tufano, M., Palomba, F., Bavota, G., Oliveto, R., Di Penta, M., De Lucia, A., & Poshyvanyk, D. (2017). When and why your code starts to smell bad (and whether the smells go away). IEEE Transactions on Software Engineering, 43(11), 1063-1088
-[5] Radjenović, D., Heričko, M., Torkar, R., & Živkovič, A. (2013). Software fault prediction metrics: A systematic literature review. Information and software technology, 55(8), 1397-1418.
-[6] Le Dilavrec, Q., Khelladi, D. E., Blouin, A., & Jézéquel, J. M. (2022). HyperAST: Enabling Efficient Analysis of Software Histories at Scale. In 37th IEEE/ACM International Conference on Automated Software Engineering
+- How developers engineer test cases: An observational study, M Aniche et al. IEEE TSE, 2021
+- A Taxonomy of Testable HTML5 Canvas Issues, F Macklon et al.- IEEE TSE, 2023
+- Detecting code smells in React-based Web apps F Ferreira et al. Information and Software Technology, 2023
+- Automatically inferring user behavior models in large-scale web applications SSS Ghaemmaghami et al, Information and Software, 2022
+- Automatic program repair, C Le Goues, IEEE software, 2021
+- GUI visual aspect migration: a framework agnostic solution, B Verhaeghe, et al. ASE journal, 2021
+- Banerjee, I., Nguyen, B., Garousi, V., & Memon, A. (2013). Graphical user interface (GUI) testing: Systematic mapping and repository. Information and Software Technology, 55(10), 1679-1694.
+- Memon, A. M., & Cohen, M. B. Automated testing of GUI applications: models, tools, and controlling flakiness. Proc. of ICSE 2013. pp. 1479-1480
+- JENSEN, Casper S., PRASAD, Mukul R., et MØLLER, Anders. Automated testing with targeted event sequence generation. In : Proc of ISSTA 2013. ACM, 2013. p. 67-77.
+- Mariani, L., Pezzè, M., & Zuddas, D., Augusto: Exploiting Popular Functionalities for the Generation of Semantic GUI Tests with Oracles. ICSE 2018.
+- A. M. Memon, M. L. Soffa, and M. E. Pollack, “Coverage criteria for GUI testing,” Proc of ESEC/FSE-9. ACM, 2001, pp. 256–267
+- Alégroth, E., & Feldt, R. (2017). On the long-term use of visual gui testing in industrial practice: a case study. Empirical Software Engineering, 22(6), 2937-2971
+- Hori, A., Takada, S., Tanno, H., & Oinuma, M. (2015). An Oracle based on Image Comparison for Regression Testing of Web Applications. In SEKE (pp. 639-645).
+- Alégroth, E., Feldt, R., & Ryrholm, L. (2015). Visual gui testing in practice: challenges, problems and limitations. Empirical Software Engineering, 20(3), 694-744.
+- Hammoud, D., Zaraket, F. A., & Masri, W. (2017). GUICop: Approach and toolset for specification‐based GUI testing. Software Testing, Verification and Reliability, 27(8), e1642.
+- Mirshokraie, S., Mesbah, A., & Pattabiraman, K. (2016, April). Atrina: Inferring unit oracles from GUI test cases. Proc of ICST 2013 (pp. 330-340). IEEE.
+- Hammoudi, M., Rothermel, G., & Tonella, P. (2016, April). Why do record/replay tests of web applications break?. Proc of ICST 2016 (pp. 180-190). IEEE.
+- ZHANG, Sai, LÜ, Hao, et ERNST, Michael D. Automatically repairing broken workflows for evolving GUI applications. Proc of ICST 2013. ACM, 2013. p. 45-55.
+- Z. Gao, Z. Chen, Y. Zou, and A. M. Memon, “Sitar: GUI test script repair,” Ieee transactions on software engineering, vol. 42, no. 2, pp. 170–186, 2016
+- Nguyen, B., & Memon, A. (2014). A New Observe-Model-Exercise* Paradigm to Test Event-Driven Systems with Undetermined Input Spaces. IEEE Transactions on Software Engineering, (1)1.
+- Clapp, L., Bastani, O., Anand, S., & Aiken, A. (2016, November). Minimizing GUI event traces. In Proc of FSE  2016 (pp. 422-434). ACM.
+- Alsmadi, Izzat Mahmoud. "Using mutation to enhance gui testing coverage." IEEE software 30.1 (2013): 67-73.
+- Lelli, Valéria, Arnaud Blouin, and Benoit Baudry. "Classifying and qualifying GUI defects." Proc of ICST 2015 IEEE, 2015
+- Blouin, Arnaud, et al. "User Interface Design Smell: Automatic Detection and Refactoring of Blob Listeners." Information and Software Technology (2018).
+- Lelli, Valéria, et al. "On model-based testing advanced GUIs." Software Testing, Verification and Validation Workshops (ICSTW), 2015 IEEE Eighth International Conference on. IEEE, 2015.
+- Baudry, Benoit, et al. "DSpot: Test Amplification for Automatic Assessment of Computational Diversity." arXiv preprint arXiv:1503.05807 (2015).
+- Danglot, Benjamin, et al. "The emerging field of test amplification: A survey." arXiv preprint arXiv:1705.10692 (2017)
