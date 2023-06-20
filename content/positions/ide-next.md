@@ -48,9 +48,9 @@ Send your CV, motivation letter, and grades of your bachelor and master with the
 
 
 ## References
-[1] Pierre Levy. 1997. Collective Intelligence: Mankind’s Emerging World in Cyberspace. Perseus Books, Cambridge, MA.
-[2] Sousa, Vasco, Eugene Syriani, and Khady Fall. "Operationalizing the integration of user interaction specifications in the synthesis of modeling editors." Proc. Of SLE 2019
-[3] Assessing the Use of Slicing-based Visualizing Techniques on the Understanding of Large Metamodels. Arnaud Blouin, Naouel Moha, et al. Information and Software Technology, 2015.
-[4] Arnaud Blouin, Jean-Marc Jézéquel. Interacto: A Modern User Interaction Processing Model. IEEE Transactions on Software Engineering, In press, pp.1-20
-[5] Combemale, et al, J. (2014). Globalizing modeling languages. Computer, 47(6), 68-71
-[6] Yegge, Steve. A Programmer's Rantings: On Programming-Language Religions, Code Philosophies, Google Work Culture, and Other Stuff. Hyperink Inc, 2012
+- [1] Pierre Levy. 1997. Collective Intelligence: Mankind’s Emerging World in Cyberspace. Perseus Books, Cambridge, MA.
+- [2] Sousa, Vasco, Eugene Syriani, and Khady Fall. "Operationalizing the integration of user interaction specifications in the synthesis of modeling editors." Proc. Of SLE 2019
+- [3] Assessing the Use of Slicing-based Visualizing Techniques on the Understanding of Large Metamodels. Arnaud Blouin, Naouel Moha, et al. Information and Software Technology, 2015.
+- [4] Arnaud Blouin, Jean-Marc Jézéquel. Interacto: A Modern User Interaction Processing Model. IEEE Transactions on Software Engineering, In press, pp.1-20
+- [5] Combemale, et al, J. (2014). Globalizing modeling languages. Computer, 47(6), 68-71
+- [6] Yegge, Steve. A Programmer's Rantings: On Programming-Language Religions, Code Philosophies, Google Work Culture, and Other Stuff. Hyperink Inc, 2012

@@ -40,13 +40,13 @@ The main objective of this thesis is to address the lack of support for evolutio
 
 ## References
 
-[1] Fabio Niephaus et al.. “Example-Based Live Programming for Everyone: Building Language-agnostic Tools for Live Programming with LSP and GraalVM”, Onward! 2020
-[2] McDirmid, Sean. "Usable live programming", Onwards! 2013
-[3] Santolucito, Mark, William T. Hallahan, and Ruzica Piskac. "Live programming by example." In Extended Abstracts of the CHI 2019
-[4] Hidehiko Masuhara, Shusuke Takahashi, Yusuke Izawa, Youyou Cong. “Toward a Multi-Language and Multi-Environment Framework for Live Programming”, LIVE 2020.
-[5] Würthinger, Thomas, et al. "One VM to rule them all", Onward! 2013
-[6] Niephaus, Fabio, Tim Felgentreff, and Robert Hirschfeld. "GraalSqueak: toward a smalltalk-based tooling platform for polyglot programming" In Proc. of MPLR 2019
-[7] Niephaus, Fabio, Tim Felgentreff, and Robert Hirschfeld. "Towards polyglot adapters for the graalvm" In Proc. of Programming 2019.
+- [1] Fabio Niephaus et al.. “Example-Based Live Programming for Everyone: Building Language-agnostic Tools for Live Programming with LSP and GraalVM”, Onward! 2020
+- [2] McDirmid, Sean. "Usable live programming", Onwards! 2013
+- [3] Santolucito, Mark, William T. Hallahan, and Ruzica Piskac. "Live programming by example." In Extended Abstracts of the CHI 2019
+- [4] Hidehiko Masuhara, Shusuke Takahashi, Yusuke Izawa, Youyou Cong. “Toward a Multi-Language and Multi-Environment Framework for Live Programming”, LIVE 2020.
+- [5] Würthinger, Thomas, et al. "One VM to rule them all", Onward! 2013
+- [6] Niephaus, Fabio, Tim Felgentreff, and Robert Hirschfeld. "GraalSqueak: toward a smalltalk-based tooling platform for polyglot programming" In Proc. of MPLR 2019
+- [7] Niephaus, Fabio, Tim Felgentreff, and Robert Hirschfeld. "Towards polyglot adapters for the graalvm" In Proc. of Programming 2019.
 
 ## Environment
 

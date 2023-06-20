@@ -49,9 +49,9 @@ The candidates must send their application to Arnaud Blouin and Djamel Eddine Kh
 
 ## References
 
-[1] Iannone, E., Guadagni, R., Ferrucci, F., De Lucia, A., & Palomba, F. (2022). The secret life of software vulnerabilities: A large-scale empirical study. IEEE Transactions on Software Engineering, 49(1), 44-63.
-[2] Lopes, M., & Hora, A. (2022). How and why we end up with complex methods: a multi-language study. Empirical Software Engineering, 27(5), 115.
-[3] Hora, A., Robbes, R., Valente, M. T., Anquetil, N., Etien, A., & Ducasse, S. (2018). How do developers react to API evolution? A large-scale empirical study. Software Quality Journal, 26, 161-191
-[4] Tufano, M., Palomba, F., Bavota, G., Oliveto, R., Di Penta, M., De Lucia, A., & Poshyvanyk, D. (2017). When and why your code starts to smell bad (and whether the smells go away). IEEE Transactions on Software Engineering, 43(11), 1063-1088
-[5] Radjenović, D., Heričko, M., Torkar, R., & Živkovič, A. (2013). Software fault prediction metrics: A systematic literature review. Information and software technology, 55(8), 1397-1418.
-[6] Le Dilavrec, Q., Khelladi, D. E., Blouin, A., & Jézéquel, J. M. (2022). HyperAST: Enabling Efficient Analysis of Software Histories at Scale. In 37th IEEE/ACM International Conference on Automated Software Engineering
+- [1] Iannone, E., Guadagni, R., Ferrucci, F., De Lucia, A., & Palomba, F. (2022). The secret life of software vulnerabilities: A large-scale empirical study. IEEE Transactions on Software Engineering, 49(1), 44-63.
+- [2] Lopes, M., & Hora, A. (2022). How and why we end up with complex methods: a multi-language study. Empirical Software Engineering, 27(5), 115.
+- [3] Hora, A., Robbes, R., Valente, M. T., Anquetil, N., Etien, A., & Ducasse, S. (2018). How do developers react to API evolution? A large-scale empirical study. Software Quality Journal, 26, 161-191
+- [4] Tufano, M., Palomba, F., Bavota, G., Oliveto, R., Di Penta, M., De Lucia, A., & Poshyvanyk, D. (2017). When and why your code starts to smell bad (and whether the smells go away). IEEE Transactions on Software Engineering, 43(11), 1063-1088
+- [5] Radjenović, D., Heričko, M., Torkar, R., & Živkovič, A. (2013). Software fault prediction metrics: A systematic literature review. Information and software technology, 55(8), 1397-1418.
+- [6] Le Dilavrec, Q., Khelladi, D. E., Blouin, A., & Jézéquel, J. M. (2022). HyperAST: Enabling Efficient Analysis of Software Histories at Scale. In 37th IEEE/ACM International Conference on Automated Software Engineering
