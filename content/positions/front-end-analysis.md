@@ -1,5 +1,5 @@
 ---
-title: Web front-end testing: large scale analysis and techniques improvement
+title: "Web front-end testing: large scale analysis and techniques improvement"
 starts: 2023
 duration: 3 years
 position: phd
