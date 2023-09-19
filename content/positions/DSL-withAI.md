@@ -1,11 +1,13 @@
 ---
 position: internship
-title: Engineering Domain-Specific Languages with Language Model-based Assistant
+title: Engineering Domain-Specific Languages with Large Language Model-based Assistant
 duration: 6 months
-starts: 2023-06-01
+starts: 2023-10-01
 contact: Mathieu Acher
 email: mathieu.acher@irisa.fr 
 ---
+
+(note: this subject can well turn into a PhD thesis)
 
 A domain-specific language (DSL) is a programming language that is tailored to a specific problem domain, rather than being a general-purpose language that can be used for a wide variety of purposes. 
 DSLs are important because they allow developers to express solutions to problems in a way that is natural and intuitive for the domain they are working in, which can make it easier to write and maintain complex systems. 
