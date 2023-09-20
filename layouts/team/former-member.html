@@ -5,6 +5,10 @@
           <h6 class="card-title member-name">{{ .name }}</h6>
           <p class="card-text member-description">
               <span>{{ .position | markdownify }}</span>
+              {{ if .dateOfStay}}
+              <br/>
+              <span>{{ .dateOfStay.start | markdownify }} -- {{ .dateOfStay.end | markdownify }}</span>
+              {{ end }}
           </p>
         {{ end }}
         </div>

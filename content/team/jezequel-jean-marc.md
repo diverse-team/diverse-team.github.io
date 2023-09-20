@@ -7,4 +7,7 @@ social:
     home: http://people.irisa.fr/Jean-Marc.Jezequel/
     twitter: jmjezequel
     linkedin: jeanmarcjezequel
+dateOfStay: 
+    start: 1989
+    end: 
 ---

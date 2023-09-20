@@ -26,6 +26,10 @@
               <span>{{ .position | markdownify }}</span>
               <br/>
               <span>{{ .organization | markdownify }}</span>
+              {{ if .dateOfStay}}
+              <br/>
+              <span>{{ .dateOfStay.start | markdownify }} -- {{ .dateOfStay.end | markdownify }}</span>
+              {{ end }}
           </p>
     
           {{ $order := slice "home" "twitter" "linkedin" "github" "researchgate" }}

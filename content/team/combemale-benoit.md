@@ -8,4 +8,7 @@ social:
     twitter: bcombemale
     linkedin: combemale
     github: combemale
+dateOfStay: 
+    start: 2009
+    end: 
 ---

@@ -6,4 +6,7 @@ category: permanent
 social:
     home: http://people.rennes.inria.fr/Didier.Vojtisek/
     linkedin: didier-vojtisek-9668625
+dateOfStay: 
+    start: 2001
+    end: 
 ---
