@@ -44,15 +44,44 @@
         {{ if (eq .Params.category "engineer") }}
             {{ .Render "item" }}
         {{ end }}
-    {{ end }}
+    {{ end }} 
 </div>
 
 <h2 class="p-2 text-light bg-teal">Former Members</h2>
 <div class="members-row mb-3">
-    {{ range .Resources }}
-        {{ if or (eq .Params.category "former") (eq .Params.category "alumni") }}
-            {{ .Render "former-member" }}
+    {{ $Resources := .Resources }}
+    {{ $dateOfStayEndOrder := seq 2030 -1 2001 }}
+    {{ range $dateOfStayEndTarget := $dateOfStayEndOrder }}
+        {{/* print year */}} 
+        {{ range $Resource := $Resources }}        
+            {{ if in .Params.dateOfStay.end $dateOfStayEndTarget }}
+                <h3 class="p-3 text-light bg-teal">{{ $dateOfStayEndTarget }}</h3>
+            {{ end }}
+        {{ end }}
+        {{ range $Resource := $Resources }}
+            {{ with $Resource }}
+                {{ if or (eq .Params.category "former") (eq .Params.category "alumni") }}
+                    {{ if .Params.dateOfStay  }} 
+                        {{ if .Params.dateOfStay.end }}
+                            {{ if in  .Params.dateOfStay.end $dateOfStayEndTarget   }}
+                                {{ .Render "former-member" }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                {{ end  }}
+            {{ end }}
         {{ end }}
     {{ end }}
+    {{/* print remaining that doesn't have dateOfStay.end */}} 
+    <h3 class="p-3 text-light bg-teal"></h3>
+    {{ range $Resource := $Resources }}
+        {{ if isset .Params.dateOfStay "end" }}
+        {{ else }}
+            {{ if or (eq .Params.category "former") (eq .Params.category "alumni") }}
+                {{ .Render "former-member" }}
+            {{ end }}
+        {{ end }}
+    {{ end }}       
+    
 </div>
 {{ end }}

@@ -40,7 +40,7 @@
             {{ if isset $social $target }}
             {{ $value := index $social $target }}
             <a href="{{ printf ( index $urls $target ) $value }}" class="social-item" title="{{ $value }}" target="_blank"><i class="{{partial "icons/to-fa-icon.html" $target}}"></i></a>
-            {{ end }}
+            {{ end }} 
           {{ end }}
           </div>
         {{ end }}
