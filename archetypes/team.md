@@ -8,5 +8,8 @@ social:
   twitter: candide-smith
   linkedin: candide-smith
   github: candidesmith
+  dblp: 1234/5678
+  google-scholar: qwertyuAAAAJ
   researchgate: Candice_Smith
+  orcid: 0000-0000-0000-0000
 ---

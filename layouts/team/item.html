@@ -32,8 +32,8 @@
               {{ end }}
           </p>
     
-          {{ $order := slice "home" "twitter" "linkedin" "github" "researchgate" }}
-          {{ $urls := dict "home" "%s" "twitter" "https://twitter.com/%s" "github" "https://github.com/%s" "linkedin" "https://linkedin.com/in/%s" "researchgate" "https://researchgate.com/profile/%s" }}
+          {{ $order := slice "home" "twitter" "linkedin" "github" "dblp" "google-scholar" "researchgate" "orcid" }}
+          {{ $urls := dict "home" "%s" "twitter" "https://twitter.com/%s" "github" "https://github.com/%s" "linkedin" "https://linkedin.com/in/%s" "dblp" "https://dblp.uni-trier.de/pid/%s" "google-scholar" "https://scholar.google.fr/citations?user=%s" "researchgate" "https://researchgate.com/profile/%s" "orcid" "https://orcid.org/%s" }}
           <div class="member-social">
           {{ $social := .social }}
           {{ range $target := $order }}

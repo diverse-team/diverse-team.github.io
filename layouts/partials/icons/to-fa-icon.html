@@ -1,3 +1,4 @@
+{{ $acadms :=  (slice "dblp" "google-scholar" "orcid") }}
 {{ $brands :=  (slice "github" "researchgate" "linkedin" "twitter") }}
-{{ $format :=  (cond (in  $brands .) "fab fa-%s" "fas fa-%s") }}
+{{ $format :=  (cond (in  $acadms .) "ai ai-%s" (cond (in  $brands .) "fab fa-%s" "fas fa-%s")) }}
 {{ return ( printf $format . ) }}
