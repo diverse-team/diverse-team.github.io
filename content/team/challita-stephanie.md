@@ -9,4 +9,7 @@ social:
   linkedin: st%C3%A9phanie-challita-60943562/
   github: stephaniechallita
   researchgate: Stephanie_Challita
+dateOfStay: 
+    start: 2020
+    end: 
 ---
