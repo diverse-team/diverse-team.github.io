@@ -53,10 +53,16 @@
     {{ $dateOfStayEndOrder := seq 2030 -1 2001 }}
     {{ range $dateOfStayEndTarget := $dateOfStayEndOrder }}
         {{/* print year */}} 
+        {{ $departureInYear := false}}
         {{ range $Resource := $Resources }}        
             {{ if in .Params.dateOfStay.end $dateOfStayEndTarget }}
-                <h3 class="p-3 text-light bg-teal">{{ $dateOfStayEndTarget }}</h3>
+                {{ $departureInYear = true}}
             {{ end }}
+        {{ end }}
+        {{ if $departureInYear }} 
+        <div class="members-row mb-3">
+            <h3 class="p-3 text-light bg-teal">{{ $dateOfStayEndTarget }}</h3>
+        </div>
         {{ end }}
         {{ range $Resource := $Resources }}
             {{ with $Resource }}
@@ -73,7 +79,9 @@
         {{ end }}
     {{ end }}
     {{/* print remaining that doesn't have dateOfStay.end */}} 
-    <h3 class="p-3 text-light bg-teal"></h3>
+    <div class="members-row mb-3">
+        <h3 class="p-3 text-light bg-teal"></h3>
+    </div>
     {{ range $Resource := $Resources }}
         {{ if isset .Params.dateOfStay "end" }}
         {{ else }}
