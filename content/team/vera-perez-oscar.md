@@ -1,7 +1,7 @@
 ---
 name: Oscar Luis Vera-Pérez
 organization: ISTIC, Université de Rennes 1
-position: Assistant Professor
+position: Post Doc, ISTIC, Université de Rennes 1
 category: alumni
 social:
   home: http://oscarlvp.github.io
@@ -9,4 +9,7 @@ social:
   linkedin: oscar-luis-vera-perez
   github: oscarlvp
   researchgate: Oscar_Vera_Perez
+dateOfStay: 
+    start: 2020
+    end: 2020
 ---

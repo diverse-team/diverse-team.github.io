@@ -7,4 +7,7 @@ social:
     home: https://mleduc.xyz/
     twitter: manuel_leduc
     github: manuelleduc
+dateOfStay: 
+    start: 2015
+    end: 2019
 ---

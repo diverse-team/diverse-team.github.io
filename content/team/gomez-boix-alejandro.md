@@ -5,4 +5,7 @@ organization: INRIA, U. of Rennes
 category: alumni
 social:
     linkedin: alejandro-g-g%C3%B3mez-boix-260003a7
+dateOfStay: 
+    start: 2017
+    end: 2019
 ---
