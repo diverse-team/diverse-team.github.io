@@ -6,4 +6,7 @@ category: former
 social:
     linkedin: jeanemile
     github: Jean-Emile
+dateOfStay: 
+    start: 2016
+    end: 2019
 ---
