@@ -9,4 +9,7 @@ social:
     github: gwendal-jouneaux
     researchgate: Gwendal_Jouneaux
     linkedin: jouneaux-gwendal
+dateOfStay: 
+    start: 2020
+    end: 
 ---

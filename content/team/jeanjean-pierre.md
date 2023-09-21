@@ -1,9 +1,12 @@
 ---
 name: Pierre Jeanjean
-position: Ph.D. Student
+position: Engineer, Ph.D. Student
 organization: INRIA
-category: phd 
+category: former 
 social:
     home: http://pjeanjean.github.io/
     github: pjeanjean
+dateOfStay: 
+    start: 2018
+    end: 2022
 ---
