@@ -1,6 +1,6 @@
 ---
 name: RANDRIANAINA Georges Aaron
-organization: Université de Rennes 1
+organization: Université de Rennes
 position: PhD Student
 category: phd 
 social:
