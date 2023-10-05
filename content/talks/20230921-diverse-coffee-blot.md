@@ -1,7 +1,7 @@
 ---
 date: 2023-09-21T13:00:00
 title: Genetic Improvement and Magpie
-abstract:
+abstract: >
 Genetic Improvement (GI) is an innovative approach that's transforming how we
 enhance and optimise software.  Imagine treating your code like living
 organisms, allowing it to evolve and improve automatically.  GI leverages
