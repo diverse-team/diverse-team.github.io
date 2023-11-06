@@ -2,7 +2,7 @@
 name: Charly Reux
 organization: INRIA
 position: Engineer
-category: member # Possible values are: [member, alumni, former] default: member
+category: engineer # Possible values are: [member, alumni, former] default: member
 social:
   linkedin: charly-reux
   github: CharlyReux
