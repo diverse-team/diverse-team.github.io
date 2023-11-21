@@ -3,22 +3,22 @@
     <g transform="translate(250, 75)">
     
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 78px; fill: #71b258" 
-                transform="translate(-38,-2)rotate(0)">model</text>
+                style="font-family: Impact; font-size: 78px; fill: #ddaa5c" 
+                transform="translate(-56,-9)rotate(0)">model</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 37px; fill: #659b6b" 
-                transform="translate(80,33)rotate(0)">lines</text>
+                style="font-family: Impact; font-size: 45px; fill: #b63138" 
+                transform="translate(36,31)rotate(0)">variability</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 33px; fill: #93bb3e" 
-                transform="translate(-97,38)rotate(0)">testing</text>
+                style="font-family: Impact; font-size: 21px; fill: #cc812f" 
+                transform="translate(157,-16)rotate(0)">feature</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 19px; fill: #659b6b" 
-                transform="translate(68,55)rotate(0)">cloud</text>
+                style="font-family: Impact; font-size: 20px; fill: #6ba083" 
+                transform="translate(163,-54)rotate(0)">machine</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 19px; fill: #78c05f" 
-                transform="translate(170,-2)rotate(0)">machine</text>
+                style="font-family: Impact; font-size: 19px; fill: #a3495e" 
+                transform="translate(-198,15)rotate(0)">cloud</text>
         </g></svg>
