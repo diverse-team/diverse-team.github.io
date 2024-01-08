@@ -11,7 +11,8 @@ abstract: >
   problematic. A few weeks ago, [Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen) accused Hans Niemann (HN) of
   cheating over the board and refused to ever play him again. You may have
   heard headlines with "anal bead" supposed to help HN.
-   
+
+
   In fact, I'm not specifically aiming to talk about chess (and cheating). I
   rather want to discuss how science has been (and will be) at the heart of the
   anti-cheating chess problem. I will first argue that many people (chess
@@ -27,7 +28,8 @@ abstract: >
   quality of some analysis or the choice of closed systems to compute unclear
   metrics. In-between, there have been a report by chess.com and the analysis
   of the computer scientist [Ken Regan](https://cse.buffalo.edu/~regan/) the world renewed specialist.
-  
+
+
   I still think the problem is open (eg Regan's method is too conservative and
   missing many cases; chess.com methodology, though unclear and opaque at some
   points, is certainly effective for online cheating, but not over the board
@@ -36,10 +38,13 @@ abstract: >
   can be used to pilot the collaborative effort, to reproduce, replicate or
   reject some experiments, and to gain confidence or robustness in some
   conclusions.
-  
+
+
   Another last point I want to discuss is that most probably the anti-cheating
   chess problem cannot be resolved solely with retrospective computational
   analysis.
+
+
   It's just too uncertain, especially if cheaters are "smart". (Cyber-)security
   experts, psychologists, chess players, and of course computer science
   nerds/professionals can contribute to address this multidisciplinary problem.

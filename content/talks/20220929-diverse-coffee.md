@@ -4,10 +4,12 @@ title: Future Research Directions
 abstract: >
   As announced, the next coffee will be the last of Paul's 54Billions bundle
   presentation (how time flies!).
-  
+
+
   He will talk about the research directions he envisions developing in
   DiverSE.
-  
+
+
   Mainly, it will be about machine learning, software testing (wow! Big
   news...), and a bit of energy efficiency (not trendy at all...). The first
   research direction will be about bridging ML and SE, the second will be about

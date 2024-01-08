@@ -7,7 +7,8 @@ abstract: >
   prevent attackers to inject and execute malicious code into a program's data
   sections. One of the first and most popular code-reuse attack is Return
   Oriented Programming (ROP).
-  
+
+
   How does it work? How does one mitigates ROP attacks? Is it still exploitable
   nowadays? In this presentation we will do a quick review of what led to the
   invention of code-reuse attacks and how ROP works. Then, we will give an

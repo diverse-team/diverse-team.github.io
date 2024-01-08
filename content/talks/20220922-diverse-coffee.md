@@ -11,7 +11,8 @@ abstract: >
   gets an idea of his work because his background was first turn towards image
   processing and Machine Learning before getting into software variability,
   software testing, and more broadly software engineering thanks to his PhD.
-  
+
+
   This presentation will be about past research he did during his PhD and
   post-doc mainly (a quick glimpse at his Master's thesis) before getting into
   research directions that he would like to explore in the future with DiverSE.
