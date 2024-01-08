@@ -9,7 +9,8 @@ abstract: >
   efficient, reliable, and adaptable.  It's an exciting field at the intersection
   of software engineering and artificial intelligence, promising to reshape how we
   create and maintain software systems.
-  
+
+
   Magpie is a tool that brings the principles of GI to life by automating software
   improvement.  It's a versatile and powerful ally for software engineers,
   offering a unified framework to enhance both the functional and non-functional

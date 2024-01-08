@@ -6,4 +6,8 @@ menu:
         weight: 450
 ---
 
-The team has a weekly seminar, the *DiverSe Coffee* in which our members and often invited speakers share their latest work. In this page you will find a list of talks we have given in these seminars, workshops and conferences.
+
+In this page you will find a list of talks by our team members at seminars,
+workshops and conferences. Especially, the team has a weekly seminar called
+*DiverSE Coffee* scheduled every Thursday 13h-14h in which our members and often
+invited speakers share their latest work.
