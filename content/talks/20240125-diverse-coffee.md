@@ -17,7 +17,7 @@ abstract: >
   in a number of new interdisciplinary scenarios.
 
 
-  During the talk we will present BESSER (“BEtter Smart Software fastER”), a new
+  During the talk we will present BESSER ("BEtter Smart Software fastER"), a new
   low-code platform we are designing based on the lessons learnt after developing
   many other modelling tools. BESSER is planned as a long-term open-source
   project. I will try to convey why BESSER has the right ingredients for becoming
@@ -25,5 +25,5 @@ abstract: >
   join the initiative and use BESSER in your next modelling project.
 event: DiverSE Coffee
 location: Rennes, France
-speaker: [Jordi Cabot](https://jordicabot.com/)
+speaker: Jordi Cabot (Luxembourg Institute of Science and Technology)
 ---
