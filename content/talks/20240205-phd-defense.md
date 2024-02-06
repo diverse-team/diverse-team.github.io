@@ -1,6 +1,6 @@
 ---
 date: 2024-02-05T13:00:00
-title: "Co-evolution in constantly evolving software systems"
+title: "Precise temporal analysis of source code histories at scale"
 abstract: >
   Software systems play a central role in contemporary societies, continuously
   expanding and adjusting to meet emerging requirements and practices. Over the
