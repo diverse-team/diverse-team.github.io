@@ -3,3 +3,5 @@
 /tools/node_modules
 /resources/
 *~
+\#*\#
+.\#*
