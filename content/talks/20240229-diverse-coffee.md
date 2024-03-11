@@ -14,4 +14,5 @@ abstract: >
 event: DiverSE Coffee
 location: Rennes, France
 speaker: Mathieu Poirier
+url_slides: /pdf/2024-02-29_DiverSE_Coffee.pdf
 ---
