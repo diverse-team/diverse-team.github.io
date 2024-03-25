@@ -2,7 +2,7 @@
 title: Generative AI (LLMs) for Detecting Abnormal Behavior Through Execution Trace Analysis
 deadline: 05/05/2024
 starts: as soon as possible
-duration: 6 months
+duration: from 3 to 6 months
 position: internship (Possible follow up with a PhD)
 contact: Mathieu Acher and Olivier Zendra
 email: mathieu.acher@irisa.fr
@@ -29,7 +29,7 @@ The implemented system should take into account existing tools, catalogs, and vu
 ### Project Architecture
 
 Figure 1 provides a general overview of the project. Given a cyber system (black box), it is possible to observe it through traces (gray boxes). From a defensive standpoint, these traces can be analyzed to quantify and qualify the cyber system in terms of vulnerabilities or ongoing attacks.
-![./LLMsecu.png/](./LLMsecu.png/)
+![LLMsecu.png](/LLMsecu.png/)
 
 ## Internship Work
 The work to be carried out is structured into three axes:
