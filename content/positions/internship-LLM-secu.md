@@ -7,6 +7,7 @@ position: internship (Possible follow up with a PhD)
 contact: Mathieu Acher and Olivier Zendra
 email: mathieu.acher@irisa.fr
 summary: This project aims to study the contributions of Generative Artificial Intelligence (AI) and Large Language Models (LLMs) to certain aspects of defensive computer security.
+pdf: /pdf/ANSSI_Inria_LLM_Master2024_FR_EN.pdf
 ---
 
 ## Context and Approach
@@ -28,7 +29,7 @@ The implemented system should take into account existing tools, catalogs, and vu
 ### Project Architecture
 
 Figure 1 provides a general overview of the project. Given a cyber system (black box), it is possible to observe it through traces (gray boxes). From a defensive standpoint, these traces can be analyzed to quantify and qualify the cyber system in terms of vulnerabilities or ongoing attacks.
-![LLMsecu.png]()
+![LLMsecu.png](LLMsecu.png)
 
 ## Internship Work
 The work to be carried out is structured into three axes:
