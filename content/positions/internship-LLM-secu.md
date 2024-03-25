@@ -29,7 +29,7 @@ The implemented system should take into account existing tools, catalogs, and vu
 ### Project Architecture
 
 Figure 1 provides a general overview of the project. Given a cyber system (black box), it is possible to observe it through traces (gray boxes). From a defensive standpoint, these traces can be analyzed to quantify and qualify the cyber system in terms of vulnerabilities or ongoing attacks.
-![LLMsecu.png](positions/LLMsecu.png/)
+![LLMsecu.png](/positions/LLMsecu.png/)
 
 ## Internship Work
 The work to be carried out is structured into three axes:
