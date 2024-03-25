@@ -12,20 +12,41 @@ pdf: /pdf/ANSSI_Inria_LLM_Master2024_FR.pdf
 
 ## Contexte et Approche
 
-Ce projet vise à étudier les apports des Intelligences Artificielles (IA) génératives et des Grands Modèles de Langues (LLMs) pour certains aspects de la lutte informatique défensive. 
-L'objectif est de créer un programme de supervision permettant de détecter et caractériser automatiquement le fait qu'un système informatique sorte de son comportement nominal.
+Ce projet consiste à étudier les apports des Intelligences Artificielles (IA) génératives et des Grands Modèles de
+Langues (LLMs) pour certains aspects de la lutte informatique défensive. Ce stage est l’occasion d’initier un travail de
+recherche qui se poursuivra en thèse, en collaboration avec DiverSE Inria et le Laboratoire Exploration et recherche
+en Détection (LED) à l’ANSSI.
 
 ### Ambition 
 
-Le superviseur peut ainsi remonter des alertes et fournir un rapport actionnable par des experts
+L'objectif est la création d’un programme de supervision permettant de détecter et caractériser automatiquement le fait qu’un système informatique sorte de son comportement nominal (y compris dans ses interactions avec
+l’extérieur). Le superviseur peut ainsi remonter des alertes. Le résultat de l’analyse est un rapport actionnable par des experts.
 
 ### Approche et Méthodologie
 
-Dans ce contexte, les LLMs sont prometteurs pour analyser les traces d’exécution. Ils ont été mis au-devant de la scène récemment avec des initiatives et outils comme BERT, BLOOM, GPT-3, GPT-4, PaLM, Alphacode, Code-Parrot, Codex, ChatGPT, ou encore CoPilot. L'objectif est d'étudier les LLMs dans le contexte de la détection de comportements anormaux des programmes et systèmes informatiques.
-
-Pour ce faire, des traces d’exécutions (p. ex. des journaux) de plusieurs types (appels systèmes, mémoire, échanges/paquets réseau, etc.) seront collectées. Les traces d’exécution peuvent être vues comme du texte obéissant à certaines règles: ce sont des données semi-structurées.
-
-Les Grands Modèles de Langues ont montré leur capacité à traiter ce type de données de façon agnostique et générique, c'est-à-dire sans avoir besoin d’analyse syntaxique ou grammaticale. Grâce à leur malléabilité, les LLMs devraient avoir une excellente capacité à classifier les comportements anomaux de programmes et systèmes.
+Dans ce contexte, les LLMs sont prometteurs pour analyser les traces d’exécution (en
+classifiant, produisant un résumé, ou en extrayant les informations importantes d’une ou plusieurs traces). Les LLMs
+ont été mis au-devant de la scène récemment avec des initiatives et outils comme BERT, BLOOM, GPT-3, GPT-
+4, PaLM, Alphacode, Code-Parrot, Codex, ChatGPT, ou encore CoPilot. La capacité à des LLMs à traiter ou à
+synthétiser des artefacts techniques (du code, des documents semi-structurés, ou des traces) nous incite à explorer leurs
+usages dans un contexte de cybersécurité [Liu et al., 2021, Steenhoek et al., 2022, Zhou et al., 2022]. Il s’agit alors
+d’étudier les LLMs dans le contexte de la détection de comportements anormaux des programmes et systèmes in-
+formatiques [Vaccaro and Liepins, 1989, Oliner et al., 2011, Li et al., 2017, Sultana et al., 2019, Khraisat et al., 2019,
+Thakkar and Lohiya, 2023].
+Pour ce faire, des traces d’exécutions (p. ex. des journaux) de plusieurs types (appels systèmes [da Costa et al., 2017,
+Nissim et al., 2018], mémoire [Panker and Nissim, 2021], échanges/paquets réseau [Sikos, 2020], etc.) seront col-
+lectées. Les traces d’exécution peuvent être vues comme du texte obéissant à certaines règles: ce sont des données
+semi-structurées.
+Or les Grands Modèles de Langues ont montré leur capacité à traiter ce type de données de façon agnostique et
+générique, c’est-à-dire sans avoir besoin d’analyse syntaxique ou grammaticale. Grâce à leur malléabilité, les LLMs
+devraient avoir une excellente capacité à classifier les comportements (c.-à-d. exécutions) anomaux de programmes et
+systèmes peuvent ainsi être détectés, révélant erreurs et bogues, des logiciels malveillants ou encore des cyber-attaques.
+Le système mis en place devra prendre en compte les outils, catalogues et bases de données de vulnérabilités préexistants,
+pour relier dans la mesure du possible les détections à ces vulnérabilités (p. ex. des CVEs). Des techniques de plon-
+gements (embeddings) et de recherche d’information devront être développées pour rendre efficace l’interaction entre
+LLMs, traces, et sources de données [Liu et al., 2021, Andrus et al., 2022]. Notre vision est de pouvoir synthétiser des
+rapports qui arrivent à faire correspondre traces et informations de vulnérabilité; ces rapports peuvent être exploités
+par des experts pour prendre des décisions défensives.
 
 ### Architecture du Projet
 
@@ -35,16 +56,26 @@ La Figure 1 donne un aperçu général du projet. Étant donné un cybersystème
 ## Travail du Stage
 
 Le travail à accomplir se décline en trois axes:
-
  * Étudier la bibliographie afin d’acquérir une bonne compréhension des domaines concernés, et des outils existants.
  * Concevoir d’un terrain de jeu avec des cyber systèmes, des traces, etc. pour pouvoir expérimenter avec les LLMs.
  * Implémenter un prototype expérimental de LLM détectant des comportements anormaux par analyse de trace d’un type donné.
 
-The aim of the internship is to *familiarize oneself with the subject and obtain initial results that will then be further developed as part of a 3-year thesis, still in partnership between DiverSE Inria and ANSSI.*
+Le but du stage est de se **familiariser avec le sujet et d’obtenir des premiers résultats qui seront ensuite développés
+dans le cadre d’une thèse de 3 ans, toujours en partenariat entre DiverSE Inria et l’ANSSI.**
+
 
 ## Encadrement et Contacts
 
 Le stage se déroulera dans l’équipe DiverSE d’Inria/IRISA Rennes, en collaboration avec le LED à l’ANSSI.
+L’équipe DiverSE a une expertise internationale reconnue en sciences du logiciel (software engineering), en variabilité
+logicielle, en techniques automatiques pour le logiciel. DiverSE a une forte activité autour de la cybersécurité via
+des collaborations passées ou en cours, par exemple récemment avec Software Heritage (SWH-Sec). DiverSE est
+co-responsable d’un défi Inria autour des LLMs et du software engineering.
+L’Agence nationale de la sécurité des systèmes d’information (ANSSI) est l’autorité nationale en matière de cy-
+bersécurité. Sa mission est de comprendre, prévenir et répondre au risque cyber. Le LED est responsable du domaine
+de la détection et de l’analyse des attaques informatiques contre les systèmes d’information, incluant notamment la
+détection d’intrusion, l’analyse de systèmes compromis ou de logiciels malveillants.
+
 
 Encadrants:
  * Mathieu ACHER, Professeur à l’INSA Rennes (mathieu.acher@inria.fr), DiverSE.
