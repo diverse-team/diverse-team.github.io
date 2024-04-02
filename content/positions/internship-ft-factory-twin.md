@@ -3,7 +3,7 @@ title:  Development of the physical twin of a Fischertechnik-based factory
 starts: 2024
 duration: 2-5 months
 position: internship
-level: (BAC+3, BAC+4 ou BAC+5)
+level: (BAC+4 ou BAC+5)
 contact: Didier Vojtisek
 email: didier.vojtisek@inria.fr
 summary: Le but du stage est d'améliorer et d'étendre l'implementation d'une usine Fischertechnik dans l'objectif de l'utiliser dans le cadre de travaux autour des jumeaux numériques.
