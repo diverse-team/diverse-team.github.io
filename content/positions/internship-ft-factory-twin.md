@@ -1,9 +1,9 @@
 ---
 title:  Development of the physical twin of a Fischertechnik-based factory 
 starts: 2024
-duration: 1-5 months
+duration: 2-5 months
 position: internship
-level: (BAC+3, BAC+4 ou BAC+5)
+level: (BAC+4 ou BAC+5)
 contact: Didier Vojtisek
 email: didier.vojtisek@inria.fr
 summary: Le but du stage est d'améliorer et d'étendre l'implementation d'une usine Fischertechnik dans l'objectif de l'utiliser dans le cadre de travaux autour des jumeaux numériques.
@@ -11,7 +11,7 @@ summary: Le but du stage est d'améliorer et d'étendre l'implementation d'une u
 
 ## Context:
 
-The  MBDO project (Model Based DevOps) aims to provides methodologies and tooling to implement digital twins.
+The  [MBDO](https://mbdo.github.i) project (Model Based DevOps) aims to provides methodologies and tooling to implement digital twins.
 
 Goals of digital twins contains: monitoring, deviation detection, failure detection, simulation, planning, automatic or assisted reconfiguration, ...
 
@@ -28,7 +28,7 @@ The actuators and sensors of the modules are driven by several RasberryPi with I
 ## Objectives:
 
 
-Build a realistic support for the machines (ie. Fischertechnik modules) in order to implement various scenarios on different factory configurations.
+Build a realistic support for the factory machines (ie. Fischertechnik modules) in order to implement various scenarios on different factory configurations.
 
 Task list:
 (The task list will be adapted with respect to the actual internship duration)
