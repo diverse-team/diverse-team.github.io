@@ -12,4 +12,5 @@ abstract: >
 event: DiverSE Coffee
 location: Rennes, France
 speaker: Romain Lefeuvre
+url_slides: https://docs.google.com/presentation/d/1jCdGIpBOEr1Evs9I7GUjBzcIWU6RizwsDsDW_sy3ksk/edit?usp=drivesdk
 ---
