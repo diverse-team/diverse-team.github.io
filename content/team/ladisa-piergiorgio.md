@@ -2,9 +2,9 @@
 name: Piergiorgio Ladisa
 position: Ph.D. Student (CIFRE)
 organization: SAP
-category: phd 
+category: former
 social:
 dateOfStay: 
     start: 2021
-    end: 
+    end: Mar. 2024
 ---
