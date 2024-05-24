@@ -21,6 +21,7 @@ async function main() {
         }
         catch(err) {
             console.error(`[ERROR] ${err}\n`.red);
+            console.error( err.stack )
             continue;
         }
         console.log('Done\n'.green);

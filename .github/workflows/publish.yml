@@ -22,7 +22,15 @@ jobs:
       run: |
         cd tools
         export YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
-        npm run update
+        npm run update 2>&1 | tee site-data-collection.log
+        grep '[ERROR]' site-data-collection.log > site-data-collection_errors.log || true
+        if [ -s  site-data-collection_errors.log ]; then
+            echo "::error file=tools/main.js::`tail -n 20 site-data-collection_errors.log`"
+            echo ":error: Errors during Complementing site data, please check logs" >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+            tail -n 20 site-data-collection_errors.log  >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          fi
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
