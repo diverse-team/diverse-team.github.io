@@ -17,6 +17,7 @@
     "googleapis": "^52.1.0",
     "moment": "^2.24.0",
     "node-fetch": "^2.6.6",
-    "rss-parser": "^3.7.6"
+    "rss-parser": "^3.7.6",
+    "trace": "^3.1.1"
   }
 }
