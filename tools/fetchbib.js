@@ -3,8 +3,8 @@ const fetch = require('node-fetch');
 const moment = require('moment');
 
 async function fetchbib(url) {
-    const response = await fetch(url);
-    const bibtex = await response.text();
+    const response = await fetch(url);   
+    const bibtex = await response.text(); 
     const publications = parse_bibtex(bibtex);
     return process_publications(publications);
 }
@@ -38,7 +38,7 @@ function extract_date(data) {
 
 function extract_publishing_details(data) {
 
-    const details = PUBLISHING_DETAILS[data.entryType];
+    let details = PUBLISHING_DETAILS[data.entryType];
     if (details === undefined) {
         console.log('other');
         details = PUBLISHING_DETAILS.OTHER;

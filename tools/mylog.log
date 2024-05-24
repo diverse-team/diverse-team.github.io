@@ -1,0 +1,1340 @@
+
+> diverse-website-tools@1.0.0 update /home/dvojtise/git/github_diverse-team/diverse-team.github.io/tools
+> node main.js
+
+[32mUpdating bibliography items[39m
+Obtaining the list of publications from HAL
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{From cybercrime to cyberwarfare, nobody can overlook cybersecurity any more}',
+  AUTHOR: 'Zendra, Olivier and Coppens, Bart',
+  URL: 'https://inria.hal.science/hal-04113296',
+  EDITOR: 'HiPEAC',
+  PAGES: '130-144',
+  YEAR: '2023',
+  MONTH: 'January',
+  DOI: '10.5281/zenodo.7461910',
+  KEYWORDS: 'cybersecurity ; cybercrime ; cyberwarfare ; security attack',
+  PDF: 'https://inria.hal.science/hal-04113296/file/HiPEAC_Vision_2023_18_From_cybercrime_to_cyberwarfare_nobody_can_overlook_cybersecurity_any_more.pdf',
+  HAL_ID: 'hal-04113296',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Learning From Thousands of Build Failures of Linux Kernel Configurations}',
+  AUTHOR: 'Acher, Mathieu and Martin, Hugo and Alves Pereira, Juliana and Blouin, Arnaud and Eddine Khelladi, Djamel and Jézéquel, Jean-Marc',
+  URL: 'https://inria.hal.science/hal-02147012',
+  TYPE: 'Technical Report',
+  PAGES: '1-12',
+  INSTITUTION: '{Inria ; IRISA}',
+  YEAR: '2019',
+  MONTH: 'June',
+  KEYWORDS: 'build systems ; Index Terms-configurable systems ; operating systems ; Linux kernel ; software product lines ; configurable systems ; software testing',
+  PDF: 'https://inria.hal.science/hal-02147012v2/file/LinuxCompilation_BuildFailures.pdf',
+  HAL_ID: 'hal-02147012',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Urban mobility : Leveraging machine learning and data masses for the buildingof simulators}',
+  AUTHOR: 'Lyan, Gauthier',
+  URL: 'https://hal.science/hal-03355775',
+  INSTITUTION: '{Université rennes1}',
+  YEAR: '2021',
+  MONTH: 'September',
+  KEYWORDS: 'Intelligent Public Transportation Systems ; Data Science ; Machine Learning ; Digital Twins ; Systèmes Intelligents pour les Transports Publics ; Science des données ; Apprentissage automatique ; Jumeaux digitaux',
+  TYPE: 'Theses',
+  PDF: 'https://hal.science/hal-03355775/file/LYAN_Gauthier.pdf',
+  HAL_ID: 'hal-03355775',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Conception, maintenance et évolution non-cassante des API REST}',
+  AUTHOR: 'Cheron, Antoine',
+  URL: 'https://theses.hal.science/tel-03589271',
+  INSTITUTION: '{Université Rennes 1}',
+  YEAR: '2021',
+  MONTH: 'December',
+  KEYWORDS: 'Web ; API ; REST ; Software co-Evolution ; Comparison ; Semantic Web ; Comparaison ; Web sémantique ; Web ; API ; REST ; Co-Évolution logicielle',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-03589271/file/CHERON_Antoine.pdf',
+  HAL_ID: 'tel-03589271',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Contribution to the Engineering of User Interfaces}',
+  AUTHOR: 'Blouin, Arnaud',
+  URL: 'https://theses.hal.science/tel-02354530',
+  INSTITUTION: '{Université de Rennes 1 [UR1]}',
+  YEAR: '2019',
+  MONTH: 'August',
+  KEYWORDS: 'Software testing ; User interface ; Domain-specific language ; Model-driven engineering ; Test logiciel ; Ingenierie dirigée par les modèles ; Langage dédié ; Interface homme-Machine',
+  TYPE: 'Habilitation à diriger des recherches',
+  PDF: 'https://theses.hal.science/tel-02354530/file/main.pdf',
+  HAL_ID: 'tel-02354530',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{On reliability and flexibility of scientific software in environmental science : towards a systematic approach to support decision-making}',
+  AUTHOR: 'Sallou, June',
+  URL: 'https://theses.hal.science/tel-03854849',
+  INSTITUTION: '{Université Rennes 1}',
+  YEAR: '2022',
+  MONTH: 'February',
+  KEYWORDS: "Software Engineering ; Approximate Computing ; Decision-Making ; Environmental Science ; Génie Logiciel ; Approximation ; Prise de décision ; Sciences de l'environnement",
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-03854849/file/SALLOU_June.pdf',
+  HAL_ID: 'tel-03854849',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Learning-Based Performance Specialization of Configurable Systems}',
+  AUTHOR: 'Temple, Paul and Acher, Mathieu and Jézéquel, Jean-Marc and Noel-Baron, Léo and Galindo, José A',
+  URL: 'https://hal.science/hal-01467299',
+  TYPE: 'Research Report',
+  INSTITUTION: '{IRISA, Inria Rennes ; University of Rennes 1}',
+  YEAR: '2017',
+  MONTH: 'February',
+  KEYWORDS: 'software product lines ; machine learning ; constraints and variability mining ; software testing ; variability modeling',
+  PDF: 'https://hal.science/hal-01467299/file/TSE-ML.pdf',
+  HAL_ID: 'hal-01467299',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Learning Very Large Configuration Spaces: What Matters for Linux Kernel Sizes}',
+  AUTHOR: 'Acher, Mathieu and Martin, Hugo and Pereira, Juliana Alves and Blouin, Arnaud and Jézéquel, Jean-Marc and Khelladi, Djamel Eddine and Lesoil, Luc and Barais, Olivier',
+  URL: 'https://inria.hal.science/hal-02314830',
+  TYPE: 'Research Report',
+  INSTITUTION: '{Inria Rennes - Bretagne Atlantique}',
+  YEAR: '2019',
+  MONTH: 'October',
+  PDF: 'https://inria.hal.science/hal-02314830/file/LinuxSizePrediction.pdf',
+  HAL_ID: 'hal-02314830',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Machine learning for performance modelling on colossal software configuration spaces}',
+  AUTHOR: 'Martin, Hugo',
+  URL: 'https://theses.hal.science/tel-03698474',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2021',
+  MONTH: 'December',
+  KEYWORDS: 'Software Product Lines ; Machine Learning ; Artificial Intelligence ; Software Engineering ; Lignes de Produits Logiciels ; Apprentissage Statistique ; Intelligence Articifielle ; Ingénierie Logicielle',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-03698474v2/file/MARTIN_Hugo.pdf',
+  HAL_ID: 'tel-03698474',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: "{Composition et interopérabilité pour l'ingénierie des langages dédiés externes}",
+  AUTHOR: 'Degueule, Thomas',
+  URL: 'https://theses.hal.science/tel-01488300',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2016',
+  MONTH: 'December',
+  KEYWORDS: 'Domain-Specific languages ; Software language engineering ; Model-Driven engineering ; Language interfaces ; Language composition ; Language interoperability ; Langages dédiés ; Ingénierie des langages ; Ingénierie dirigée par les modèles ; Interfaces de langages ; Composition de langages ; Interopérabilité de langages',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01488300/file/DEGUEULE_Thomas.pdf',
+  HAL_ID: 'tel-01488300',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Modeling Variability in the Video Domain: Language and Experience Report}',
+  AUTHOR: 'Alférez, Mauricio and Galindo Duarte, José Angel and Acher, Mathieu and Baudry, Benoit',
+  URL: 'https://inria.hal.science/hal-01023159',
+  TYPE: 'Research Report',
+  INSTITUTION: '{INRIA}',
+  YEAR: '2014',
+  MONTH: 'July',
+  KEYWORDS: 'VM ; variability modeling ; product line engineering ; highly configurable systems ; textual specification languages',
+  PDF: 'https://inria.hal.science/hal-01023159v2/file/RR-8576.pdf',
+  HAL_ID: 'hal-01023159',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Kevoree Modeling Framework (KMF): Efficient modeling techniques for runtime use}',
+  AUTHOR: 'Fouquet, François and Nain, Grégory and Morin, Brice and Daubert, Erwan and Barais, Olivier and Plouzeau, Noël and Jézéquel, Jean-Marc',
+  URL: 'https://inria.hal.science/hal-00996764',
+  NOTE: 'ISBN 978-2-87971-131-7',
+  TYPE: 'Research Report',
+  PAGES: '24',
+  INSTITUTION: '{University of Luxembourg}',
+  YEAR: '2014',
+  MONTH: 'May',
+  KEYWORDS: 'Domain Specific Language ; Model Driven Software Engineering ; Kevoree Modeling Framework ; Models@Runtime ; EMF ; adaptation',
+  PDF: 'https://inria.hal.science/hal-00996764/file/KevoreeModelingFramework.pdf',
+  HAL_ID: 'hal-00996764',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{An approach of combining model-based testing with product Ffamily management}',
+  AUTHOR: 'Samih, Hamza',
+  URL: 'https://inria.hal.science/tel-01092342',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2014',
+  MONTH: 'December',
+  KEYWORDS: 'Product Line ; Model-Based Testing ; Usage Model ; Usage Model Variant ; Orthogonal Variability Model ; Requirements ; Ligne de produits ; Ingénierie dirigée par les modèles ; Test ; Modélisation orthogonale de la variabilité ; Exigences',
+  TYPE: 'Theses',
+  PDF: 'https://inria.hal.science/tel-01092342/file/these.pdf',
+  HAL_ID: 'tel-01092342',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'SOFTWARE',
+  TITLE: '{Symfinder: Identifying and visualizing variability implementations in variability-rich Java systems}',
+  AUTHOR: 'Mortara, Johann and Collet, Philippe and Tërnava, Xhevahire',
+  URL: 'https://hal.science/hal-04449959',
+  NOTE: 'Software',
+  YEAR: '2024',
+  MONTH: 'February',
+  KEYWORDS: 'Reverse-engineering ; Software visualization ; Software cities ; Program comprehension ; Software variability',
+  HAL_ID: 'hal-04449959',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Architectures logicielles et variabilité multiple}',
+  AUTHOR: 'Acher, Mathieu and Collet, Philippe and Lahire, Philippe',
+  URL: 'https://inria.hal.science/hal-01098109',
+  PUBLISHER: '{Lavoisier}',
+  YEAR: '2014',
+  MONTH: 'February',
+  HAL_ID: 'hal-01098109',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Taming the IT systems complexity hydra}',
+  AUTHOR: 'Zendra, Olivier and de Bosschere, Koen',
+  URL: 'https://inria.hal.science/hal-03362810',
+  EDITOR: 'HiPEAC',
+  PAGES: '100-107',
+  YEAR: '2021',
+  MONTH: 'January',
+  DOI: '10.5281/zenodo.4719574',
+  KEYWORDS: 'system engineering ; software engineering',
+  PDF: 'https://inria.hal.science/hal-03362810/file/HiPEAC_Vision_2021_14_complexity.pdf',
+  HAL_ID: 'hal-03362810',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Cybersecurity must come to IT systems now}',
+  AUTHOR: 'Zendra, Olivier and Coppens, Bart',
+  URL: 'https://inria.hal.science/hal-03362808',
+  EDITOR: 'HiPEAC',
+  PAGES: '74-79',
+  YEAR: '2021',
+  MONTH: 'January',
+  KEYWORDS: 'cybersecurity ; resilience',
+  PDF: 'https://inria.hal.science/hal-03362808/file/HiPEAC_Vision_2021_10_cybersecurity.pdf',
+  HAL_ID: 'hal-03362808',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Towards Language-Oriented Modeling}',
+  AUTHOR: 'Combemale, Benoit',
+  URL: 'https://inria.hal.science/tel-01238817',
+  INSTITUTION: '{Université de Rennes 1}',
+  YEAR: '2015',
+  MONTH: 'December',
+  KEYWORDS: 'Software Engineering ; Software Language Engineering ; Model-Driven Engineering ; Software Validation and Verification ; Language Design and Implementation ; Domain-Specific Language DSL ; Modeling Language ; Génie logiciel ; Ingénierie des modèles ; Langages de modélisation ; Validation et vérification du logiciel',
+  TYPE: 'Habilitation à diriger des recherches',
+  PDF: 'https://inria.hal.science/tel-01238817/file/hdr-combemale-v1.pdf',
+  HAL_ID: 'tel-01238817',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Pull Requests Integration Process Optimization: An Empirical Study}',
+  AUTHOR: 'Olmedo, Agustín and Arévalo, Gabriela and Cassol, Ignacio and Perez, Quentin and Urtado, Christelle and Vauttier, Sylvain',
+  URL: 'https://imt-mines-ales.hal.science/hal-04157804',
+  EDITOR: 'Hermann Kaindl, Mike Mannion and Leszek A. Maciaszek',
+  PUBLISHER: '{Springer}',
+  SERIES: 'Communications in Computer and Information Science',
+  VOLUME: '1829',
+  PAGES: '155-178',
+  YEAR: '2023',
+  MONTH: 'July',
+  DOI: '10.1007/978-3-031-36597-3\\_8',
+  KEYWORDS: 'Collaborative software development ; Distributed version control system ; Pull-based development ; Pull request ; Integration process efficiency ; Software merging ; Merge conflicts',
+  PDF: 'https://imt-mines-ales.hal.science/hal-04157804/file/Pull_Requests_Integration_Process_Optimization_An%20Empirical%20Study.pdf',
+  HAL_ID: 'hal-04157804',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Deep software variability for resilient performance models of configurable systems}',
+  AUTHOR: 'Lesoil, Luc',
+  URL: 'https://theses.hal.science/tel-04190983',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2023',
+  MONTH: 'April',
+  KEYWORDS: 'Configurable Systems ; Software Variability ; Deep Variability ; Performance Model ; Systèmes Configurables ; Variabilité Logicielle ; Variabilité Profonde ; Modèle de Performance',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-04190983v2/file/LESOIL_Luc.pdf',
+  HAL_ID: 'tel-04190983',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Precise temporal analysis of source code histories at scale}',
+  AUTHOR: 'Le Dilavrec, Quentin and Le Dilavrec, Quentin',
+  URL: 'https://theses.hal.science/tel-04583698',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2024',
+  MONTH: 'February',
+  KEYWORDS: 'Software engineering ; History analysis ; Co-Evolution ; Software maintenance ; Performances ; Génie logiciel ; Analyse d’historiques ; Coévolution ; Maintenance des logiciels ; Calculintensif',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-04583698/file/LE_DILAVREC_Quentin.pdf',
+  HAL_ID: 'tel-04583698',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Rare event simulation for statistical model checking}',
+  AUTHOR: 'Jegourel, Cyrille',
+  URL: 'https://theses.hal.science/tel-01127612',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2014',
+  MONTH: 'November',
+  KEYWORDS: "System Engineering ; Formal Verification ; Statistical Model Checking ; Monte-Carlo methods ; Rare Event Simulation ; Important Sampling ; Important Splitting ; Ingénierie des systèmes ; Vérification formelle ; Model Checking statistique ; Méthodes de Monte-Carlo ; Simulation d'événements rares ; Échantillonnage statistique ; Méthodes de Monte-Carlo multi-Niveaux",
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01127612v2/file/2014REN1S084.pdf',
+  HAL_ID: 'tel-01127612',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Composition and Interoperability for External Domain-Specific Language Engineering}',
+  AUTHOR: 'Degueule, Thomas',
+  URL: 'https://inria.hal.science/tel-01427009',
+  INSTITUTION: '{Université de Rennes 1 [UR1]}',
+  YEAR: '2016',
+  MONTH: 'December',
+  KEYWORDS: 'software language engineering ;  model-driven engineering ;  domain-specific languages ; Ingénierie des langages logiciels ; Ingénierie dirigée par les modèles ; Langage dédié',
+  TYPE: 'Theses',
+  PDF: 'https://inria.hal.science/tel-01427009v2/file/thesis.pdf',
+  HAL_ID: 'tel-01427009',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Variability management and automation of software development processes}',
+  AUTHOR: 'Rouillé, Emmanuelle',
+  URL: 'https://theses.hal.science/tel-01061129',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2014',
+  MONTH: 'April',
+  KEYWORDS: 'Computer software -- Development ; Software engineering ; Model Driven Engineering ; Ingénierie informatique ; Développement de logiciels ; Ingénierie dirigée par les modèles',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01061129/file/ROUILLE_Emmanuelle.pdf',
+  HAL_ID: 'tel-01061129',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Leveraging model-based product lines for systems engineering}',
+  AUTHOR: 'Filho, João Bosco Ferreira',
+  URL: 'https://theses.hal.science/tel-01127500',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2014',
+  MONTH: 'December',
+  KEYWORDS: 'Model-Driven engineering ; Product lines ; Software systems ; Variability ; Ingénierie dirigée par les modèles ; Ligne de produits ; Système logiciel ; Variabilité',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01127500/file/2014REN1S080.pdf',
+  HAL_ID: 'tel-01127500',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Motivating Use Cases for the Globalization of DSLs}',
+  AUTHOR: 'Cheng, Betty H.C. and Degueule, Thomas and Atkinson, Colin and Clarke, Siobhan and Frank, Ulrich and Mosterman, Pieter J. and Sztipanovits, Janos',
+  URL: 'https://inria.hal.science/hal-01233660',
+  EDITOR: 'Benoit Combemale and Betty H.C. Cheng and Robert B. France and Jean-Marc Jézéquel and Bernhard Rumpe',
+  PUBLISHER: '{Springer International Publishing}',
+  SERIES: 'Lecture Notes in Computer Science',
+  VOLUME: '9400',
+  PAGES: '21-42',
+  YEAR: '2015',
+  DOI: '10.1007/978-3-319-26172-0\\_3',
+  KEYWORDS: 'multi-model integration ; language integration',
+  PDF: 'https://inria.hal.science/hal-01233660/file/gemoc-dag144412.pdf',
+  HAL_ID: 'hal-01233660',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Vers un environnement de développement intégré flexible}',
+  AUTHOR: 'Coulon, Fabien',
+  URL: 'https://theses.hal.science/tel-03854875',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2022',
+  MONTH: 'March',
+  KEYWORDS: 'IDE ; Metamorphic DSL ; Microservice ; Generative approach ; IDE ; DSL Metamorphique ; Microservice ; Approche générative',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-03854875/file/COULON_Fabien.pdf',
+  HAL_ID: 'tel-03854875',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{On modularity and performances of external domain-specific language implementations}',
+  AUTHOR: 'Leduc, Manuel',
+  URL: 'https://theses.hal.science/tel-02972666',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2019',
+  MONTH: 'December',
+  KEYWORDS: 'Re-Use ; Performances ; Domain-Specific language ; Software language engineering ; Réutilisation ; Performances ; Langages dédiés ; Ingénierie des langages',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-02972666/file/LEDUC_Manuel.pdf',
+  HAL_ID: 'tel-02972666',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Model driven synthesis of virtual reality applications}',
+  AUTHOR: 'Le Moulec, Gwendal',
+  URL: 'https://theses.hal.science/tel-01959918',
+  INSTITUTION: '{INSA de Rennes}',
+  YEAR: '2018',
+  MONTH: 'September',
+  KEYWORDS: 'Domain specific langage ; Virtual reality ; Software engineering ; • model driven engineering ; Lignes de produits logiciels ; DSL',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01959918/file/2018ISAR0010_LE_MOULEC_Gwendal.pdf',
+  HAL_ID: 'tel-01959918',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Software Unbundling: Challenges and Perspectives}',
+  AUTHOR: 'Bosco, João Ferreira Filho and Acher, Mathieu and Barais, Olivier',
+  URL: 'https://inria.hal.science/hal-01427560',
+  EDITOR: 'S. Chiba and M. Südholt and P. Eugster and L. Ziarek and G.T. Leavens',
+  PUBLISHER: '{Springer}',
+  YEAR: '2016',
+  MONTH: 'May',
+  KEYWORDS: 'evolution ; refactoring ; Features ; Modularization ; Unbundling ; Reengineering ; Aspects ; Maintenance',
+  PDF: 'https://inria.hal.science/hal-01427560/file/UnbundlingExtension.pdf',
+  HAL_ID: 'hal-01427560',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Automatic non-functional testing and tuning of configurable generators}',
+  AUTHOR: 'Boussaa, Mohamed',
+  URL: 'https://theses.hal.science/tel-01598821',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2017',
+  MONTH: 'September',
+  KEYWORDS: 'Software quality ; Non-Functional testing ; Component-Based architecture ; Configurable systems ; Optimisation ; Meta-Heuristics ; Statistical analyses ; Resource monitoring ; Qualité logicielle ; Test non-Fonctionnel ; Architecture à base de composants ; Systèmes configurables ; Optimisation ; Méta-Heuristiques ; Analyse statistique ; Supervision des ressources',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01598821v2/file/BOUSSAA_Mohamed.pdf',
+  HAL_ID: 'tel-01598821',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Browser Fingerprinting : Exploring Device Diversity to Augment Authentification and Build Client-Side Countermeasures}',
+  AUTHOR: 'Laperdrix, Pierre',
+  URL: 'https://theses.hal.science/tel-01729126',
+  INSTITUTION: '{INSA de Rennes}',
+  YEAR: '2017',
+  MONTH: 'October',
+  KEYWORDS: 'Browser fingerprinting ; Software diversity ; Authentication ; Online tracking ; Browser fingerprinting ; Diversité logicielle ; Authentification ; Traçage sur internet',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01729126/file/These_2017ISAR0016_Laperdrix_Pierre.pdf',
+  HAL_ID: 'tel-01729126',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Experience Report on the Development of a Specialized Multi-view Multi-stakeholder Model-Based Engineering Framework (extended version)}',
+  AUTHOR: 'Le Guernic, Gurvan',
+  URL: 'https://inria.hal.science/hal-02398051',
+  TYPE: 'Research Report',
+  INSTITUTION: '{Inria Rennes - Bretagne Atlantique ; IRISA}',
+  YEAR: '2019',
+  MONTH: 'December',
+  PDF: 'https://inria.hal.science/hal-02398051/file/RR-9283.pdf',
+  HAL_ID: 'hal-02398051',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{On modularity and performance of External Domain-Specific Language implementations}',
+  AUTHOR: 'Leduc, Manuel',
+  URL: 'https://inria.hal.science/tel-02418676',
+  INSTITUTION: '{Université de rennes 1}',
+  YEAR: '2019',
+  MONTH: 'December',
+  KEYWORDS: 'software language engineering ; reuse ; domain-specific languages ; performance ; performance ; langages dédiés ; réutilisation ; ingénierie des langages',
+  TYPE: 'Theses',
+  PDF: 'https://inria.hal.science/tel-02418676/file/main-final.pdf',
+  HAL_ID: 'tel-02418676',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Dynamic program analysis for suggesting test improvements to developers}',
+  AUTHOR: 'Vera-Pérez, Oscar Luis',
+  URL: 'https://hal.science/tel-02459572',
+  INSTITUTION: '{Université de Rennes 1 [UR1]}',
+  YEAR: '2019',
+  MONTH: 'December',
+  KEYWORDS: 'Software testing ; program analysis ; extreme transformations ; test improvements ; software developers ; Test de logiciels ; analyse de programmes ; transformations extrêmes ; amélioration de tests ; développeurs de logiciels',
+  TYPE: 'Theses',
+  PDF: 'https://hal.science/tel-02459572/file/Manuscript%20-%20Oscar%20L.%20Vera.pdf',
+  HAL_ID: 'tel-02459572',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Leveraging Cloud unused heterogeneous resources for applications with SLA guarantees}',
+  AUTHOR: 'Dartois, Jean-Emile',
+  URL: 'https://inria.hal.science/tel-03009816',
+  INSTITUTION: '{Univ-Rennes1}',
+  YEAR: '2020',
+  MONTH: 'September',
+  KEYWORDS: 'Cloud ; unused resources ; smart placement ; big data ; machine learning ; interference ; Cloud ; ressources inutilisées ; placement intelligent ; données volumineuses ; apprentissage machine ; interférences',
+  TYPE: 'Theses',
+  PDF: 'https://inria.hal.science/tel-03009816/file/PhD_Jean_Emile.pdf',
+  HAL_ID: 'tel-03009816',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{A Systematic Mapping Study on Modeling for Industry 4.0}',
+  AUTHOR: 'Wortmann, Andreas and Combemale, Benoit and Barais, Olivier',
+  URL: 'https://inria.hal.science/hal-01514421',
+  TYPE: 'Research Report',
+  PAGES: '25',
+  INSTITUTION: '{INRIA Rennes - Bretagne Atlantique and University of Rennes 1, France}',
+  YEAR: '2017',
+  MONTH: 'April',
+  KEYWORDS: 'Industry 4.0 ;  Mapping Study ;  CPS ;  Model Driven Engineering ; Cartographie ; Industrie 4.0 ; Ingénierie Dirigée par les Modèles',
+  PDF: 'https://inria.hal.science/hal-01514421v2/file/RR-9062.pdf',
+  HAL_ID: 'hal-01514421',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Synthesis of Attributed Feature Models From Product Descriptions: Foundations}',
+  AUTHOR: 'Bécan, Guillaume and Behjati, Razieh and Gotlieb, Arnaud and Acher, Mathieu',
+  URL: 'https://inria.hal.science/hal-01116663',
+  TYPE: 'Research Report',
+  INSTITUTION: '{Inria Rennes ; INRIA}',
+  YEAR: '2015',
+  MONTH: 'February',
+  KEYWORDS: 'synthesis ; automated reasoning ; reverse engineering ; feature model',
+  PDF: 'https://inria.hal.science/hal-01116663/file/RR-8680.pdf',
+  HAL_ID: 'hal-01116663',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{RISCLESS: A Reinforcement Learning Strategy to Exploit Unused Cloud Resources}',
+  AUTHOR: "Yalles, Sidahmed and Handaoui, Mohamed and Dartois, Jean-Emile and Barais, Olivier and d'Orazio, Laurent and Boukhobza, Jalil",
+  URL: 'https://hal.science/hal-03652738',
+  TYPE: 'Research Report',
+  PAGES: '1-9',
+  INSTITUTION: '{ENSTA Bretagne - École nationale supérieure de techniques avancées Bretagne}',
+  YEAR: '2022',
+  MONTH: 'April',
+  KEYWORDS: 'Cloud ; Unused Resources ; Ephemeral Resources ; Stable Resources ; Resource Allocation ; SLA ; Reinforcement learning ; Deep learning',
+  PDF: 'https://hal.science/hal-03652738/file/_ACM__RISCLESS__A_Reinforcement_Learning_Strategy_to_Guarantee_SLA_on_Cloud_Ephemeral_and_Stable_Resources__Copy_%20%281%29.pdf',
+  HAL_ID: 'hal-03652738',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: "{Privacy: whether you're aware of it or not, it does matter!}",
+  AUTHOR: 'Coppens, Bart and Zendra, Olivier',
+  URL: 'https://inria.hal.science/hal-03362809',
+  EDITOR: 'HiPEAC',
+  PAGES: '88-93',
+  YEAR: '2021',
+  MONTH: 'January',
+  DOI: '10.5281/zenodo.4719402',
+  KEYWORDS: 'privacy ; cybersecurity',
+  PDF: 'https://inria.hal.science/hal-03362809/file/HiPEAC_Vision_2021_12_privacy.pdf',
+  HAL_ID: 'hal-03362809',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Contributions à la production de logiciels de qualité}',
+  AUTHOR: 'Zendra, Olivier',
+  URL: 'https://inria.hal.science/tel-04428591',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2023',
+  MONTH: 'December',
+  KEYWORDS: 'languages ; compilation ; optimisation ; classes ; late binding ; memory management ; garbage collection ; instrumentation ; build process ; power ; energy ; scheduling ; WSN ; wireless sensor networks ; program visualisation ; security ; malware detection ; malware analysis ; malware classification ; packers ; side channels ; SCA ; TeamPlay ; HiPEAC ; détection de maliciels ; analyse de maliciels ; classification de maliciels ; packers ; canaux auxiliaires ; TeamPlay ; HiPEAC ; langages ; compilation ; optimisation ; classes ; liaison dynamique ; gestion mémoire ; ramasse-miettes ; instrumentation ; construction de logiciels ; puissance ; énergie ; ordonnancement ; réseaux de capteurs sans fil ; visualisation de programmes ; sécurité',
+  TYPE: 'Habilitation à diriger des recherches',
+  PDF: 'https://inria.hal.science/tel-04428591/file/Olivier_ZENDRA_HDR_manuscrit_FINAL.pdf',
+  HAL_ID: 'tel-04428591',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Perpetual Assurances for Self-Adaptive Systems}',
+  AUTHOR: 'Weyns, Danny and Bencomo, Nelly and Calinescu, Radu and Cámara, Javier and Ghezzi, Carlo and Grassi, Vincenzo and Grunske, Lars and Inverardi, Paola and Jézéquel, Jean-Marc and Malek, Sam and Mirandola, Raffaela and Mori, Marco and Tamburrelli, Giordano',
+  URL: 'https://inria.hal.science/hal-02054220',
+  YEAR: '2017',
+  PDF: 'https://inria.hal.science/hal-02054220/file/2016SEfSAS.pdf',
+  HAL_ID: 'hal-02054220',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Serverless Cloud Computing: State of the Art and Challenges}',
+  AUTHOR: 'Lannurien, Vincent and D’orazio, Laurent and Barais, Olivier and Boukhobza, Jalil',
+  URL: 'https://ensta-bretagne.hal.science/hal-04114984',
+  PUBLISHER: '{Springer International Publishing}',
+  SERIES: 'Lecture Notes on Data Engineering and Communications Technologies',
+  VOLUME: '162',
+  PAGES: '275-316',
+  YEAR: '2023',
+  MONTH: 'May',
+  DOI: '10.1007/978-3-031-26633-1\\_11',
+  KEYWORDS: 'Cloud computing ; Computer hardware ; Sales',
+  PDF: 'https://ensta-bretagne.hal.science/hal-04114984/file/Serverless_SotA_Challenges_Chapter.pdf',
+  HAL_ID: 'hal-04114984',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Supporting resource awareness in managed runtime environment}',
+  AUTHOR: 'Gonzalez Herrera, Inti Yulien',
+  URL: 'https://theses.hal.science/tel-01308660',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2015',
+  MONTH: 'December',
+  KEYWORDS: "Resource consumption ; Resource reservation ; Domain-Specific language ; Software component ; Consommation de ressources de calcul ; Génie logiciel ; Environnement d'exécution adaptés",
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01308660/file/GONZALEZ_HERRERA_Inti_Yulien.pdf',
+  HAL_ID: 'tel-01308660',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Evolution, testing and configuration of variability systems intensive}',
+  AUTHOR: 'Galindo Duarte, José Ángel',
+  URL: 'https://theses.hal.science/tel-01187958',
+  INSTITUTION: '{Université de Rennes ; Universidad de Sevilla (Espagne)}',
+  YEAR: '2015',
+  MONTH: 'March',
+  KEYWORDS: 'Evolution ; Testing ; Configuration ; Feature models ; Software product lines ; Évolution ; Test ; Configuration ; Lignes de produit ; Modèles de caractéristiques',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01187958/file/GALINDO_DUARTE_Jose.pdf',
+  HAL_ID: 'tel-01187958',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Supporting resource-awareness in managed runtime environments}',
+  AUTHOR: 'Gonzalez-Herrera, Inti',
+  URL: 'https://hal.science/tel-01246035',
+  INSTITUTION: '{Universite Rennes 1}',
+  YEAR: '2015',
+  MONTH: 'December',
+  KEYWORDS: 'software engineering ;  resource consumption ;  resource reservation ;  managed runtime environments  ; resource awareness ; génie logiciel ; la consommation de ressources ; réservation de ressources ; environnements d’exécution adaptés ; Conscient des ressources',
+  TYPE: 'Theses',
+  PDF: 'https://hal.science/tel-01246035/file/these.pdf',
+  HAL_ID: 'tel-01246035',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Web applications engineering: reduce the complexity without loosing control}',
+  AUTHOR: 'Richard-Foy, Julien',
+  URL: 'https://inria.hal.science/tel-01087372',
+  INSTITUTION: '{Université de Rennes 1, France}',
+  YEAR: '2014',
+  MONTH: 'December',
+  KEYWORDS: 'software engineering ; web architectures ; programming languages ; generative programming ; approches génératives ; génie logiciel ; architectures Web ; langage de programmation',
+  TYPE: 'Theses',
+  PDF: 'https://inria.hal.science/tel-01087372/file/these.pdf',
+  HAL_ID: 'tel-01087372',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Machine Learning for Feature Constraints Discovery}',
+  AUTHOR: 'Martin, Hugo and Temple, Paul and Acher, Mathieu and Pereira, Juliana Alves and Jézéquel, Jean-Marc',
+  URL: 'https://inria.hal.science/hal-03921905',
+  PUBLISHER: '{Springer International Publishing}',
+  PAGES: '175-196',
+  YEAR: '2023',
+  MONTH: 'July',
+  DOI: '10.1007/978-3-031-11686-5\\_7',
+  HAL_ID: 'hal-03921905',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Modeling: From CASE Tools to SLE and Machine Learning}',
+  AUTHOR: 'Jézéquel, Jean-Marc',
+  URL: 'https://hal.science/hal-04080311',
+  EDITOR: 'Bertrand Meyer',
+  PUBLISHER: '{Springer}',
+  PAGES: '1-22',
+  YEAR: '2023',
+  MONTH: 'September',
+  PDF: 'https://hal.science/hal-04080311/file/article.pdf',
+  HAL_ID: 'hal-04080311',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Apprentissage automatique pour les attaques par canaux auxiliaires}',
+  AUTHOR: 'Genevey-Metat, Christophe',
+  URL: 'https://theses.hal.science/tel-04241537',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2023',
+  MONTH: 'September',
+  KEYWORDS: 'Machine learning ; Deep learning ; Side channel attacks ; GAN network, transfer learning ; Apprentissage automatique ; Apprentissage profond ; Attaques par canaux auxiliaire ; Réseaux GAN ; Apprentissage par transfert',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-04241537/file/GENEVEY-METAT_Christophe.pdf',
+  HAL_ID: 'tel-04241537',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{The Multiple Facets of Software Diversity: Recent Developments in Year 2000 and Beyond}',
+  AUTHOR: 'Baudry, Benoit and Monperrus, Martin',
+  URL: 'https://hal.science/hal-01067782',
+  TYPE: 'Research Report',
+  INSTITUTION: '{INRIA}',
+  YEAR: '2014',
+  PDF: 'https://hal.science/hal-01067782/file/survey-software-diversity.pdf',
+  HAL_ID: 'hal-01067782',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Interactive Demand-Shifting in the Context of Domestic Micro-Generation}',
+  AUTHOR: 'Bourgeois, Jacky',
+  URL: 'https://inria.hal.science/tel-01385022',
+  INSTITUTION: '{The Open University ; Université de Rennes 1 [UR1]}',
+  YEAR: '2016',
+  MONTH: 'June',
+  KEYWORDS: 'HCI ;  IoT ;  Home ;  Renewable Energy ;  Demand-Shifting ;  User Behaviour ; Intéraction Utilisateur ; Energie renouvelable',
+  TYPE: 'Theses',
+  PDF: 'https://inria.hal.science/tel-01385022/file/thesis_jacky_bourgeois_final_ur1.pdf',
+  HAL_ID: 'tel-01385022',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Mining and Modeling Variability from Natural Language Documents: Two Case Studies}',
+  AUTHOR: 'Ben Nasr, Sana',
+  URL: 'https://inria.hal.science/tel-01388392',
+  INSTITUTION: '{Université Rennes 1}',
+  YEAR: '2016',
+  MONTH: 'April',
+  KEYWORDS: "Product lines ; Variability ; Natural language processing ; Data mining ; Information retrieval ; Lignes de produits ; Variabilité ; Traitement automatique du langage naturel ; Exploration de données ; Recherche de l'information",
+  TYPE: 'Theses',
+  PDF: 'https://inria.hal.science/tel-01388392/file/BEN%20NASR_Sana.pdf',
+  HAL_ID: 'tel-01388392',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{On the Globalization of Domain-Specific Languages}',
+  AUTHOR: 'Cheng, Betty H.C. and Combemale, Benoit and France, Robert B. and Jézéquel, Jean-Marc and Rumpe, Bernhard',
+  URL: 'https://inria.hal.science/hal-01224105',
+  PUBLISHER: '{Springer International Publishing}',
+  SERIES: 'LNCS',
+  VOLUME: '9400',
+  YEAR: '2015',
+  DOI: '10.1007/978-3-319-26172-0\\_1',
+  KEYWORDS: 'Domain-Specific Language ; DSL ; Globalization of DSLs ; Model coordination ; Modelling',
+  PDF: 'https://inria.hal.science/hal-01224105/file/lncs-gemoc-dagstuhl-intro.pdf',
+  HAL_ID: 'hal-01224105',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Data-driven malware classification assisted by machine learning methods}',
+  AUTHOR: 'Puodzius, Cassius',
+  URL: 'https://theses.hal.science/tel-04072990',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2022',
+  MONTH: 'December',
+  KEYWORDS: 'Malware classification ; Malware analysis ; Symbolic execution ; Clustering ; Classification des logiciels malveillants ; Analyse des logiciels malveillants ; Exécution symbolique ; Partitionnement de données',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-04072990v4/file/PUODZIUS_Cassius.pdf',
+  HAL_ID: 'tel-04072990',
+  HAL_VERSION: 'v4'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{User controlled trust and security level of Web real-time communications}',
+  AUTHOR: 'Corre, Kevin',
+  URL: 'https://theses.hal.science/tel-01943728',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2018',
+  MONTH: 'May',
+  KEYWORDS: 'Web ; Voice over IP ; Computer Security ; JavaScript ; Assertion ; Privacy ; Authentication ; WebRTC ; Web ; Voix sur IP ; Sécurité Informatique ; JavaScript ; Preuve électronique ; Droit à la vie privée ; Authentification ; WebRTC',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01943728/file/CORRE_Kevin.pdf',
+  HAL_ID: 'tel-01943728',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Urban mobility : leveraging machine learning and data masses for the building of simulators}',
+  AUTHOR: 'Lyan, Gauthier',
+  URL: 'https://theses.hal.science/tel-03520672',
+  INSTITUTION: '{Université Rennes 1}',
+  YEAR: '2021',
+  MONTH: 'September',
+  KEYWORDS: 'Intelligent Public Transportation Systems ; Data Science ; Machine Learning ; Digital Twins ; Systèmes Intelligents pour les Transports Publics ; Science des données ; Apprentissage automatique ; Jumeaux digitaux',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-03520672/file/LYAN_Gauthier.pdf',
+  HAL_ID: 'tel-03520672',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Large-scale Analysis of Chess Games with Chess Engines: A Preliminary Report}',
+  AUTHOR: 'Acher, Mathieu and Esnault, François',
+  URL: 'https://inria.hal.science/hal-01307091',
+  TYPE: 'Technical Report',
+  INSTITUTION: '{Inria Rennes Bretagne Atlantique}',
+  YEAR: '2016',
+  MONTH: 'April',
+  KEYWORDS: 'chess game ; chess ;  artificial intelligence ;  data analysis ;  grid computing',
+  PDF: 'https://inria.hal.science/hal-01307091/file/RT-479%20%281%29.pdf',
+  HAL_ID: 'hal-01307091',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{A Reference Architecture and Roadmap for Models@run.time Systems}',
+  AUTHOR: 'Assmann, Uwe and Gotz, Sebastian and Jézéquel, Jean-Marc and Morin, Brice and Trapp, Mario',
+  URL: 'https://inria.hal.science/hal-02054122',
+  YEAR: '2014',
+  HAL_ID: 'hal-02054122',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Towards a Model-Based DevOps for Cyber-Physical Systems}',
+  AUTHOR: 'Combemale, Benoit and Wimmer, Manuel',
+  URL: 'https://inria.hal.science/hal-02407886',
+  PUBLISHER: '{Springer-Verlag}',
+  PAGES: '1-11',
+  YEAR: '2019',
+  PDF: 'https://inria.hal.science/hal-02407886/file/devops19-visionMDE4CPS.pdf',
+  HAL_ID: 'hal-02407886',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{On Language Interfaces}',
+  AUTHOR: 'Degueule, Thomas and Combemale, Benoit and Jézéquel, Jean-Marc',
+  URL: 'https://inria.hal.science/hal-01424909',
+  EDITOR: 'Bertrand Meyer and Manuel Mazzara',
+  PUBLISHER: '{Springer}',
+  YEAR: '2017',
+  MONTH: 'February',
+  PDF: 'https://inria.hal.science/hal-01424909/file/pause.pdf',
+  HAL_ID: 'hal-01424909',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Living with Uncertainty in Model-Based Development}',
+  AUTHOR: 'Bernardi, Simona and Famelis, Michalis and Jézéquel, Jean-Marc and Mirandola, Raffaela and Palacin, Diego Perez and Polack, Fiona and Trubiani, Catia',
+  URL: 'https://inria.hal.science/hal-03865929',
+  PUBLISHER: '{Springer International Publishing}',
+  PAGES: '159-185',
+  YEAR: '2021',
+  MONTH: 'July',
+  DOI: '10.1007/978-3-030-81915-6\\_8',
+  HAL_ID: 'hal-03865929',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Is privacy possible in a digital world?}',
+  AUTHOR: 'Coppens, Bart and Zendra, Olivier',
+  URL: 'https://inria.hal.science/hal-04113319',
+  EDITOR: 'HiPEAC',
+  PAGES: '145-162',
+  YEAR: '2023',
+  MONTH: 'January',
+  DOI: '10.5281/zenodo.7461921',
+  KEYWORDS: 'security attacks ; privacy ; cybersecurity',
+  PDF: 'https://inria.hal.science/hal-04113319/file/HiPEAC_Vision_2023_19_Is_privacy_possible_in_a_digital_world.pdf',
+  HAL_ID: 'hal-04113319',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{THE RACE FOR CYBERSECURITY}',
+  AUTHOR: 'Zendra, Olivier and Coppens, Bart',
+  URL: 'https://inria.hal.science/hal-04113336',
+  EDITOR: 'HiPEAC',
+  PAGES: '127-129',
+  YEAR: '2023',
+  MONTH: 'January',
+  KEYWORDS: 'cybersecurity ; privacy ; security attacks',
+  PDF: 'https://inria.hal.science/hal-04113336/file/HiPEAC-Vision_2023_THE_RACE_FOR_CYBERSECURITY_intro.pdf',
+  HAL_ID: 'hal-04113336',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{IDE as Code : reifying language protocols as first-class citizens}',
+  AUTHOR: 'Jeanjean, Pierre',
+  URL: 'https://theses.hal.science/tel-03881947',
+  INSTITUTION: '{Université Rennes 1}',
+  YEAR: '2022',
+  MONTH: 'April',
+  KEYWORDS: 'Software engineering ; Generators (Computer programs) ; Domain-Specific programming languages ; Interpreters (Computer programs) ; Génie logiciel ; Générateurs (logiciels) ; Langages dédiés ; Interpréteurs (logiciels)',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-03881947/file/JEANJEAN_Pierre.pdf',
+  HAL_ID: 'tel-03881947',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Morellian Analysis for Browsers: Making Web Authentication Stronger with Canvas Fingerprinting}',
+  AUTHOR: 'Laperdrix, Pierre and Avoine, Gildas and Baudry, Benoit and Nikiforakis, Nick',
+  URL: 'https://hal.science/hal-02881632',
+  PAGES: '43-66',
+  YEAR: '2019',
+  MONTH: 'June',
+  DOI: '10.1007/978-3-030-22038-9\\_3',
+  PDF: 'https://hal.science/hal-02881632/file/canvasauthentication_dimva2019.pdf',
+  HAL_ID: 'hal-02881632',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Profilage de navigateurs : état de l’art et contre-mesures}',
+  AUTHOR: 'Baudry, Benoit and Bromberg, Yérom-David and Frey, Davide and Gómez-Boix, Alejandro and Laperdrix, Pierre and Taïani, François',
+  URL: 'https://inria.hal.science/hal-03043187',
+  EDITOR: 'Sandrine Turgis and Alexandra Bensamoun and Maryline Boizard',
+  PUBLISHER: '{Mare et Martin}',
+  YEAR: '2020',
+  MONTH: 'October',
+  HAL_ID: 'hal-03043187',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Modeling and assessing the security of the authentication procedure}',
+  AUTHOR: 'Ndiaye, Youssou',
+  URL: 'https://theses.hal.science/tel-02921435',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2019',
+  MONTH: 'December',
+  KEYWORDS: "Authentiction ; Security Risk ; DSL ; Modeling ; Identity Management ; Requirement Engineering ; Authentification ; Risque de Sécurité ; DSL ; Modélisation ; Gestion d'Identité ; Exigence",
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-02921435/file/NDIAYE_Youssou.pdf',
+  HAL_ID: 'tel-02921435',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Metamodels and feature models : complementary approaches to formalize product comparison matrices}',
+  AUTHOR: 'Bécan, Guillaume',
+  URL: 'https://theses.hal.science/tel-01416129',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2016',
+  MONTH: 'September',
+  KEYWORDS: 'Product Comparison Matrices (PCMs) ; Software product lines ; Feature models ; Software engineering ; Metamodels ; Méta-Modèles ; Matrices de Comparaison de Produits (MCP) ; Lignes de produits logiciels ; Génie logiciel ; Modèles de caractéristique',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01416129v2/file/BECAN_Guillaume.pdf',
+  HAL_ID: 'tel-01416129',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Packing detection and classification relying on machine learning to stop malware propagation}',
+  AUTHOR: 'Noureddine, Lamine',
+  URL: 'https://theses.hal.science/tel-03781104',
+  INSTITUTION: '{Université Rennes 1}',
+  YEAR: '2021',
+  MONTH: 'December',
+  KEYWORDS: 'Packing ; Malware ; Detection ; Classification ; Machine learning ; Détection ; Classification ; Apprentissage automatique ; Empaquetage ; Logiciels malveillants',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-03781104v4/file/NOUREDDINE_Lamine.pdf',
+  HAL_ID: 'tel-03781104',
+  HAL_VERSION: 'v4'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Execution trace management to support dynamic V\\&V for executable DSMLs}',
+  AUTHOR: 'Bousse, Erwan',
+  URL: 'https://theses.hal.science/tel-01238005',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2015',
+  MONTH: 'December',
+  KEYWORDS: "Execution trace ; Domain-Specific modeling language ; Model execution ; Model cloning ; Omniscient debugging ; Trace d'exécution ; Langage de modélisation dédié ; Exécution de modèles ; Clonage de modèles ; Débogage omniscient",
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01238005v3/file/BOUSSE_Erwan.pdf',
+  HAL_ID: 'tel-01238005',
+  HAL_VERSION: 'v3'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Testing and maintenance of graphical user interfaces}',
+  AUTHOR: 'Lelli Leitao, Valeria',
+  URL: 'https://theses.hal.science/tel-01232388',
+  INSTITUTION: '{INSA de Rennes}',
+  YEAR: '2015',
+  MONTH: 'November',
+  KEYWORDS: 'Graphical user interfaces (Computer systems) ; Computer software – Verification ; Human-computer interaction ; Qualité logiciel ; Modèle de faute',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01232388v2/file/pdf2star-1460386776-These_LELLI_LEITAO_Val--ria.pdf',
+  HAL_ID: 'tel-01232388',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Software Architectures and Multiple Variability}',
+  AUTHOR: 'Acher, Mathieu and Collet, Philippe and Lahire, Philippe',
+  URL: 'https://inria.hal.science/hal-01098107',
+  PUBLISHER: '{ISTE Editions}',
+  YEAR: '2014',
+  MONTH: 'May',
+  KEYWORDS: 'Software Product Line ; Configuration Management ; Plugins ; Component Based Systems ; Video Analysis ; Software ; Reuse ; Architecture ; Variability Modeling',
+  HAL_ID: 'hal-01098107',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Computability Abstractions for Fault-tolerant Asynchronous Distributed Computing}',
+  AUTHOR: 'Stainer, Julien',
+  URL: 'https://inria.hal.science/tel-01256926',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2015',
+  MONTH: 'March',
+  KEYWORDS: 'Distributed Computing ; Computability ; Fault-Tolerance ; Asynchrony ; Failure Detectors ; Informatique répartie ; Calculabilité ; Tolérance aux défaillance ; Asynchronie ; Détecteurs de fautes',
+  TYPE: 'Theses',
+  PDF: 'https://inria.hal.science/tel-01256926v2/file/STAINER_Julien.pdf',
+  HAL_ID: 'tel-01256926',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Modelling, Reverse Engineering, and Learning Software Variability}',
+  AUTHOR: 'Acher, Mathieu',
+  URL: 'https://inria.hal.science/tel-03521806',
+  INSTITUTION: '{Université de Rennes 1}',
+  YEAR: '2021',
+  MONTH: 'November',
+  KEYWORDS: 'software product lines variability configuration learning modelling reverse engineering ; logiciel variabilité configuration',
+  TYPE: 'Habilitation à diriger des recherches',
+  PDF: 'https://inria.hal.science/tel-03521806/file/HDRAcherVariability.pdf',
+  HAL_ID: 'tel-03521806',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Investigate the matrix : leveraging variability to specialize software and test suites}',
+  AUTHOR: 'Temple, Paul',
+  URL: 'https://theses.hal.science/tel-02125962',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2018',
+  MONTH: 'December',
+  KEYWORDS: 'Software ; Tests ; Matrix ; Logiciels ; Tests ; Matrice',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-02125962/file/TEMPLE_Paul.pdf',
+  HAL_ID: 'tel-02125962',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Leveraging software product lines engineering in the construction of domain specific languages}',
+  AUTHOR: 'Méndez Acuña, David Fernando',
+  URL: 'https://theses.hal.science/tel-01427187',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2016',
+  MONTH: 'December',
+  KEYWORDS: 'Software engineering ; Software language engineering ; Software product lines ; Ingénierie logicielle ; Ingénierie de langages ; Lignes de produits',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01427187v2/file/MENDEZ_ACUNA_David.pdf',
+  HAL_ID: 'tel-01427187',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Towards a modelling framework with temporal and uncertain data for adaptive systems}',
+  AUTHOR: 'Mouline, Ludovic',
+  URL: 'https://theses.hal.science/tel-02527656',
+  INSTITUTION: '{Université de Rennes ; Université du Luxembourg}',
+  YEAR: '2019',
+  MONTH: 'November',
+  KEYWORDS: "Dynamically adaptive systems ; Knowledge representation ; Model-Driven engineering ; Uncertainty modelling ; Time modelling ; Systèmes auto-Adaptatifs ; Représentation de la connaissance ; Ingénierie dirigée par les modèles ; Modélisation de l'incertitude ; Modélisation du temps",
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-02527656/file/MOULINE_Ludovic.pdf',
+  HAL_ID: 'tel-02527656',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Analysis and Exploitation of Natural Software Diversity: The Case of API Usages}',
+  AUTHOR: 'Mendez, Diego and Baudry, Benoit and Monperrus, Martin',
+  URL: 'https://hal.science/hal-01095501',
+  TYPE: 'Research Report',
+  INSTITUTION: '{Inria}',
+  YEAR: '2014',
+  PDF: 'https://hal.science/hal-01095501/file/analysis-exploitation-api-diversity.pdf',
+  HAL_ID: 'hal-01095501',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Experience Report on the Formal Specification of a Packet Filtering Language Using the K Framework}',
+  AUTHOR: 'Le Guernic, Gurvan and Galindo Duarte, José Angel',
+  URL: 'https://inria.hal.science/hal-01385541',
+  TYPE: 'Research Report',
+  PAGES: '41',
+  INSTITUTION: '{Inria Rennes Bretagne Atlantique}',
+  YEAR: '2016',
+  MONTH: 'October',
+  KEYWORDS: 'Formal specification ; Language ; Semantics ; Packet filtering ; K framework ; Spécification formelle ;  Langage ;  Sémantique ;  Filtrage de trames ;  Framework K',
+  PDF: 'https://inria.hal.science/hal-01385541/file/RR-8967.pdf',
+  HAL_ID: 'hal-01385541',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Integrating predictive analysis in self-adaptive pervasive systems}',
+  AUTHOR: 'Paez Anaya, Ivan Dario',
+  URL: 'https://theses.hal.science/tel-01251551',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2015',
+  MONTH: 'September',
+  KEYWORDS: 'Predictive analysis ; Self-adaptive pervasive systems ; Analyse prédictive ; Systèmes auto-Adaptatifs',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01251551/file/PAEZ_ANAYA_Ivan_Dario.pdf',
+  HAL_ID: 'tel-01251551',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Utilisation de la modélisation à l’exécution : objectif, challenges et bénéfices}',
+  AUTHOR: 'Barais, Olivier',
+  URL: 'https://inria.hal.science/tel-01096952',
+  INSTITUTION: '{Université de Rennes 1}',
+  YEAR: '2014',
+  MONTH: 'December',
+  KEYWORDS: "Software engineering ; Génie Logiciel ; Modélisation à l'exécution",
+  TYPE: 'Habilitation à diriger des recherches',
+  PDF: 'https://inria.hal.science/tel-01096952/file/hdr_final_complete.pdf',
+  HAL_ID: 'tel-01096952',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Globalized Domain Specific Language Engineering}',
+  AUTHOR: 'Bryant, Barrett and Jézéquel, Jean-Marc and Laemmel, Ralf and Mernik, Marjan and Schindler, Martin and Steinmann, Friedrich and Tolvanen, Juha-Pekka and Vallecillo, Antonio and Voelter, Markus',
+  URL: 'https://inria.hal.science/hal-01224283',
+  EDITOR: 'Benoit Combemale and Betty H.C. Cheng and Robert B. France and Jean-Marc Jézéquel and Bernhard Rumpe',
+  PUBLISHER: '{Springer International Publishing}',
+  VOLUME: '9400',
+  PAGES: '43-69',
+  YEAR: '2015',
+  MONTH: 'October',
+  DOI: '10.1007/978-3-319-26172-0\\_4',
+  HAL_ID: 'hal-01224283',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'THESIS',
+  TITLE: '{Self-adaptation for Internet of things applications}',
+  AUTHOR: 'Acosta Padilla, Francisco Javier',
+  URL: 'https://theses.hal.science/tel-01426219',
+  INSTITUTION: '{Université de Rennes}',
+  YEAR: '2016',
+  MONTH: 'December',
+  KEYWORDS: 'Models@runtime ; Internet of things (IoT) ; Model driven engineering ; Self-adaptation ; Ingénierie dirigé par les modèles ; Internet des objets (IdO) ; Models@runtime ; Auto-Adaptation',
+  TYPE: 'Theses',
+  PDF: 'https://theses.hal.science/tel-01426219v2/file/ACOSTA_PADILLA_Francisco.pdf',
+  HAL_ID: 'tel-01426219',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'REPORT',
+  TITLE: '{Operational Semantics of the Model of Concurrency and Communication Language}',
+  AUTHOR: 'Deantoni, Julien and Diallo, Papa Issa and Champeau, Joël and Combemale, Benoit and Teodorov, Ciprian',
+  URL: 'https://inria.hal.science/hal-01060601',
+  TYPE: 'Research Report',
+  PAGES: '23',
+  INSTITUTION: '{INRIA}',
+  YEAR: '2014',
+  MONTH: 'September',
+  KEYWORDS: 'Operational semantics ; meta language ; MoC ; language semantics ; concurrency',
+  PDF: 'https://inria.hal.science/hal-01060601v2/file/RR-8584.pdf',
+  HAL_ID: 'hal-01060601',
+  HAL_VERSION: 'v2'
+}
+other
+{
+  entryType: 'INBOOK',
+  TITLE: '{Conceptual Model of the Globalization for Domain-Specific Languages}',
+  AUTHOR: 'Clark, Tony and van den Brand, Mark and Combemale, Benoit and Rumpe, Bernhard',
+  URL: 'https://inria.hal.science/hal-01224116',
+  EDITOR: 'Benoit Combemale and Betty H.C. Cheng and Robert B. France and Jean-Marc Jézéquel and Bernhard Rumpe',
+  PUBLISHER: '{Springer International Publishing}',
+  SERIES: 'Lecture Notes in Computer Science',
+  VOLUME: '9400',
+  PAGES: '7-20',
+  YEAR: '2015',
+  DOI: '10.1007/978-3-319-26172-0\\_2',
+  KEYWORDS: 'Conceptual model ; Globalized DSLs',
+  PDF: 'https://inria.hal.science/hal-01224116/file/lncs-gemoc-dagstuhl-conceptualmodel.pdf',
+  HAL_ID: 'hal-01224116',
+  HAL_VERSION: 'v1'
+}
+other
+{
+  entryType: 'PERIODICAL',
+  TITLE: "{VaryMinions: Leveraging RNNs to Identify Variants in Variability-intensive Systems' Logs}",
+  AUTHOR: 'Fortz, Sophie and Temple, Paul and Devroey, Xavier and Heymans, Patrick and Perrouin, Gilles',
+  URL: 'https://hal.science/hal-04505454',
+  PUBLISHER: '{Springer Verlag}',
+  YEAR: '2024',
+  KEYWORDS: 'Configurable processes ; Recurrent Neural Networks ; Variability-Intensive Systems ; Variability Mining ; Software Product Lines',
+  PDF: 'https://hal.science/hal-04505454/file/VaryMinions___Extended_Version___EMSE___2021__3_round_.pdf',
+  HAL_ID: 'hal-04505454',
+  HAL_VERSION: 'v1'
+}
+Saving publications to ../data/publications.json
+Generating word clouds
+[32mDone
+[39m
+[32mUpdating blog posts[39m
+Fetching posts from 5 sources
+- Fetching posts from https://mleduc.xyz/feed.xml
+- Fetching posts from http://olivier.barais.fr/feed.xml
+[31m[ERROR] Error: Status code 404
+[39m
+Error: Status code 404
+    at ClientRequest.<anonymous> (/home/dvojtise/git/github_diverse-team/diverse-team.github.io/tools/node_modules/rss-parser/lib/parser.js:93:25)
+    at Object.onceWrapper (events.js:422:26)
+    at ClientRequest.emit (events.js:315:20)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:603:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:117:17)
+    at TLSSocket.socketOnData (_http_client.js:472:22)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at TLSSocket.Readable.push (_stream_readable.js:214:10)
+[32mUpdating profile images[39m
+Finding missing profile images
+Profiles without image: 0
+[32mDone
+[39m
+[32mUpdating YouTube videos[39m
+Fetching list of videos from YouTube
+[31m[ERROR] Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[39m
+Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+    at Gaxios._request (/home/dvojtise/git/github_diverse-team/diverse-team.github.io/tools/node_modules/google-auth-library/node_modules/gaxios/build/src/gaxios.js:129:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async updatevideos (/home/dvojtise/git/github_diverse-team/diverse-team.github.io/tools/fetchvideos.js:21:26)
+    at async main (/home/dvojtise/git/github_diverse-team/diverse-team.github.io/tools/main.js:20:13)

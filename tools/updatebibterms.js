@@ -21,7 +21,6 @@ const WORDCLOUD_PATH = '../static/images';
 
 
 async function updatebib() {
-
     const url = new URL(HALTOOLS_EXPORT_URL);
     url.search = new URLSearchParams(EXPORT_PARAMETERS);
     
