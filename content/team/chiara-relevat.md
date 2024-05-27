@@ -4,7 +4,7 @@ organization: IRISA
 position: Ph.D. Student
 category: phd
 social:
-  home: https://chiara06830.github.io/chiara_relevat/
+  home: https://chiararelevat.netlify.app/
   linkedin: chiararelevat
   github: Chiara06830
   google-scholar: VKS_GXEAAAAJ
