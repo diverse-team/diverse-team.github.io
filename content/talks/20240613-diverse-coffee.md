@@ -31,4 +31,5 @@ event: DiverSE Coffee
 location: Rennes, France
 speaker: Giovanni Ciatto (University of Bologna)
 url_slides: https://gciatto.github.io/presentation-llm4kg/#/
+url_pdf: https://arxiv.org/pdf/2404.04108
 ---
