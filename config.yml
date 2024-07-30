@@ -9,6 +9,8 @@ verbose: true
 verbseLog: true
 useResourceCacheWhen: never
 
+buildFuture: true
+
 params:
   twitter: DiverSE_inria
   github: diverse-project
