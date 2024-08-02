@@ -7,7 +7,7 @@ social:
     home: https://phoudail.github.io/
     github: phoudail
     google-scholar: IO8BVDYAAAAJ
-    orcid: 0000-0003-0485-5279
+    orcid: 0009-0005-3538-5275
     dblp: 362/6396
     twitter: phoudail
 dateOfStay: 
