@@ -1,5 +1,5 @@
 ---
-date: 2024-07-111T13:00:00
+date: 2024-07-11T13:00:00
 title: Internships
 abstract: >
   
