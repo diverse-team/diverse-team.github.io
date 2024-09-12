@@ -11,5 +11,5 @@ social:
     linkedin: jouneaux-gwendal
 dateOfStay: 
     start: 2020
-    end: 
+    end: 2024
 ---
