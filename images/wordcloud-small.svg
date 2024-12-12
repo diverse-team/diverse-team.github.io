@@ -3,26 +3,30 @@
     <g transform="translate(250, 75)">
     
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 79px; fill: #eaa23b" 
-                transform="translate(73,-5)rotate(0)">model</text>
+                style="font-family: Impact; font-size: 79px; fill: #a04b62" 
+                transform="translate(26,-3)rotate(0)">model</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 43px; fill: #c59145" 
-                transform="translate(-108,32)rotate(0)">modeling</text>
+                style="font-family: Impact; font-size: 39px; fill: #e98135" 
+                transform="translate(-145,-21)rotate(0)">lines</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 39px; fill: #6ba083" 
-                transform="translate(-132,-37)rotate(0)">lines</text>
+                style="font-family: Impact; font-size: 36px; fill: #c59145" 
+                transform="translate(9,31)rotate(0)">testing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 36px; fill: #e02424" 
-                transform="translate(70,30)rotate(0)">testing</text>
+                style="font-family: Impact; font-size: 35px; fill: #e87733" 
+                transform="translate(152,40)rotate(0)">learning</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 26px; fill: #e9713e" 
-                transform="translate(-147,-9)rotate(0)">analysis</text>
+                style="font-family: Impact; font-size: 29px; fill: #5a847e" 
+                transform="translate(-135,38)rotate(0)">security</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 22px; fill: #c59145" 
-                transform="translate(196,51)rotate(0)">cloud</text>
+                style="font-family: Impact; font-size: 26px; fill: #e76635" 
+                transform="translate(-157,7)rotate(0)">analysis</text>
+        
+        <text  text-anchor="middle"
+                style="font-family: Impact; font-size: 22px; fill: #b58842" 
+                transform="translate(187,6)rotate(0)">cloud</text>
         </g></svg>
