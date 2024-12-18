@@ -11,7 +11,7 @@ summary: Le but du stage est d'améliorer et d'étendre l'implementation d'une u
 
 ## Context:
 
-The  [MBDO](https://mbdo.github.i) project (Model Based DevOps) aims to provides methodologies and tooling to implement digital twins.
+The  [MBDO](https://mbdo.github.io) project (Model Based DevOps) aims to provides methodologies and tooling to implement digital twins.
 
 Goals of digital twins contains: monitoring, deviation detection, failure detection, simulation, planning, automatic or assisted reconfiguration, ...
 
