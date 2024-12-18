@@ -24,6 +24,8 @@ The actuators and sensors of the modules are driven by several RasberryPi with I
 
 ![](https://www.fischertechnikwebshop.com/image/cache/catalog/fischertechnik/industry2023fotos/554868_Lernfabrik_Training_Factory_Fabrik_24V-3-6-1-500x500.webp)
 
+![The FisherTechnik Platform](/images/projects/mbdo_fishertechnik.jpg)
+
 
 ## Objectives:
 
