@@ -2,8 +2,8 @@
 title: "Ingénieur.e Génie Logiciel : Envie de contribuer à la prochaine génération d'IA générative dédiée code et à un avenir éthique ?"
 starts: now (early 2025)
 duration: 24 mois
-position: Engineer R&D, salaire négociable selon expérience
-level: Bac + 5 ou équivalent
+position: Engineer
+level: Bac + 5 ou équivalent, salaire négociable selon expérience
 contact: Mathieu Acher, Olivier Barais
 email: code-commons-jobs@inria.fr
 pdf: /pdf/2025-01-09_codecommons_annonce.pdf
