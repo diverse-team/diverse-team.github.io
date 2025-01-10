@@ -6,7 +6,7 @@ position: Engineer R&D, salaire négociable selon expérience
 level: Bac + 5 ou équivalent
 contact: Mathieu Acher, Olivier Barais
 email: code-commons-jobs@inria.fr
-pdf: /pdf/2024-1212_Software_Design_and_Development_Engineer_M_F_TAP_Project.pdf
+pdf: /pdf/2025-01-09_codecommons_annonce.pdf
 ---
 
 
