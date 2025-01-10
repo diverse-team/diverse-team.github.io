@@ -1,11 +1,11 @@
 ---
 name: Caroline Landry
-position: Senior Research Engineer, CodeCommons
+position: Senior Research Engineer, STAMP
 organization: INRIA
-category: engineer
+category: former
 dateOfStay: 
-    start: 2024
-    end: 
+    start: 2016
+    end: 2020
 social:
     home: http://caro.landry.free.fr/
     linkedin: caroline-landry-4328a5
