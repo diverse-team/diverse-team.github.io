@@ -2,7 +2,7 @@
 name: Chiara RELEVAT
 organization: IRISA
 position: Ph.D. Student
-category: pformer
+category: former
 social:
   home: https://chiararelevat.netlify.app/
   linkedin: chiararelevat
