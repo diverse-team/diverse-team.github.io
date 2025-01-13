@@ -2,7 +2,7 @@
 name: Chiara RELEVAT
 organization: IRISA
 position: Ph.D. Student
-category: phd
+category: pformer
 social:
   home: https://chiararelevat.netlify.app/
   linkedin: chiararelevat
@@ -11,5 +11,5 @@ social:
   orcid: 0009-0008-5240-2606
 dateOfStay: 
     start: 2023
-    end: 
+    end: 2024
 ---
