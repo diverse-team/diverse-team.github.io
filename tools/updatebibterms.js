@@ -9,7 +9,7 @@ const HALTOOLS_EXPORT_URL =  'https://haltools.inria.fr/Public/exportPubli.php';
 const EXPORT_PARAMETERS = {
     format_export: 'bibtex',
     annee_publideb: 2014,
-    labos_exp: 'diverse;triskell',
+    labos_exp: 'diverse',
     CB_article: 'oui',
     CB_auteur: 'oui',
     CB_titre: 'oui',
