@@ -1,7 +1,7 @@
 ---
 name: Caroline Landry
 position: Senior Research Engineer, CodeCommons
-organization: INRIA
+organization: Inria
 category: engineer
 dateOfStay: 
     start: 2024
