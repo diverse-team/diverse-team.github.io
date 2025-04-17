@@ -1,0 +1,11 @@
+---
+date: 2025-04-17T13:00:00
+title: "Privacy: Exploring the Intersections Between Law, Design and Computer Science"
+abstract: >
+  Privacy is hard to define. Some - like Deirdre Mulligan, Nick Doty and Colin Koopman - conveniently call it an "essentially contested concept". However we may define it, the way that we relate to it is shaped partly by our technical environment. Thus, as this environment evolves, so does privacy, and, as a reaction (or alongside it), the right to privacy. Data protection is a field of Law that has emerged in the late 1960s and early 1970s in Europe. It sits at the intersection of Law and IT. Since the early 2000s, "Privacy by Design and by Default", a term coined and popularised by Ann Cavoukian, has gained traction as a way in which we can look at the design of things - including computers and their networks - through the lens of (informational) privacy. Later, cookie banners have become a focus of numerous studies (i.a. by Cristiana Santos, Nataliia Bielova, Midas Nouwens, Colin Gray, Florian Hémont, and many, many others) who have studied how their design may or may not be compliant with the Law. Some also looked at technical standards underpinning their functioning. In particular, together with Arrah Marie Jo, we studied the manner in which an industry organisation managed to impose its own project for the expression of consent to "cookies" on the Web: the IAB TCF. Now, in the frame of the DATARights project, we are looking to apply methods and approaches developed at the intersection of Law, design and computer science to data subject access rights. This raises many questions, including on how to be able to use anonymisation algorithms in the context of small datasets with many variables, such as those that people pool together when conducting collective research on digital black boxes through the use of data subject access requests (something that Tristan Allard is working on). All in all, this presentation will present a journey, at the intersection of various disciplines, and invite participants to an open discussion about some of the current developments in the field of privacy and data protection studies.
+
+event: DiverSE Coffee
+location: Rennes, France
+speaker: Julien Rossi and Arrah Marie JO
+
+---
