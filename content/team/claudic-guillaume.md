@@ -8,5 +8,5 @@ dateOfStay:
     end: 2027
 social:
     linkedin: guillaume-claudic-6bb130119
-    github: https://github.com/zipang29
+    github: zipang29
 ---

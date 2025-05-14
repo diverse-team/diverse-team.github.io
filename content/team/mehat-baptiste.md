@@ -7,6 +7,6 @@ dateOfStay:
     start: 2024
     end: 
 social:
-    github: https://github.com/baptistemehat
-    linkedin: https://www.linkedin.com/in/baptiste-mehat/
+    github: baptistemehat
+    linkedin: baptiste-mehat
 ---
