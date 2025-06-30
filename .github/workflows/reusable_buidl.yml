@@ -1,0 +1,60 @@
+name: Reusable Build
+
+on:
+  workflow_call:
+    inputs:
+      deploy:
+        description: 'Enable deployment?'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Installing dependencies
+        run: |
+          cd tools
+          npm install
+
+      - name: Complementing site data
+        run: |
+          cd tools
+          export YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
+          npm run update 2>&1 | tee site-data-collection.log
+          grep '[ERROR]' site-data-collection.log > site-data-collection_errors.log || true
+          if [ -s  site-data-collection_errors.log ]; then
+              echo "::error file=tools/main.js::`tail -n 20 site-data-collection_errors.log`"
+              echo ":exclamation: Errors during Complementing site data, please check logs" >> $GITHUB_STEP_SUMMARY
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              tail -n 20 site-data-collection_errors.log  >> $GITHUB_STEP_SUMMARY
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.66.0'
+          extended: true
+
+      - name: Build website
+        run: hugo --minify
+
+      - name: Setting domain name
+        if: ${{ inputs.deploy }}
+        run: cp CNAME public/
+
+      - name: Deploy website
+        if: ${{ inputs.deploy }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: master
