@@ -10,3 +10,4 @@ jobs:
     uses: ./.github/workflows/reusable-build.yml
     with:
       deploy: true
+    secrets: inherit 
