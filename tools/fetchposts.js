@@ -3,8 +3,8 @@ const fs = require('fs');
 
 
 const FEED_SOURCES = [
-    { url: "https://mleduc.xyz/feed.xml", author: "Manuel Leduc" },
-    { url: "http://olivier.barais.fr/feed.xml", author: "Olivier Barais" },
+   // { url: "https://mleduc.xyz/feed.xml", author: "Manuel Leduc" },
+   // { url: "https://olivier.barais.fr/feed.xml", author: "Olivier Barais" },
     { url: "https://torgen-engineering.blogspot.com/feeds/posts/default", author: "Arnaud Blouin" },
     { url: "http://blog.mathieuacher.com/feed.xml",  author: "Mathieu Acher" },
     { url: "https://varyvary.github.io/feed.xml", author: "VaryVary" }
