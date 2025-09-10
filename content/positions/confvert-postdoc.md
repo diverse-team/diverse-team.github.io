@@ -1,6 +1,6 @@
 ---
 position: postdoc
-title: Postdoctoral Position "CONFVERT: Green Software Configurations"
+title: "Postdoctoral Position CONFVERT: Green Software Configurations"
 duration: 24 months
 starts: 2026-02-01
 contact: Mathieu Acher
