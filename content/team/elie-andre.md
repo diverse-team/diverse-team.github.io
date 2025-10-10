@@ -1,5 +1,5 @@
 ---
-name: Andre Elie
+name: Andre ELIE
 position: Software Engineer
 category: former
 ---

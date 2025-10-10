@@ -12,5 +12,5 @@ social:
   google-scholar: p8bJ53EAAAAJ
 dateOfStay: 
     start: 2024
-    end: 2026
+    end: 2025
 ---
