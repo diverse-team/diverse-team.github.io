@@ -1,5 +1,5 @@
 ---
-  name: Valentin Duval
+  name: Valentin DUVAL
   position: Intern
   category: former
 ---

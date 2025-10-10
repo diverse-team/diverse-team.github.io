@@ -1,5 +1,5 @@
 ---
-  name: Walter Rudametkin Ivey
+  name: Walter RUDAMETKIN IVEY
   position: Post-Doctoral Researcher
   category: former
 social:
