@@ -6,14 +6,19 @@ In the root of the project run the following command:
 hugo new team/<name-surname>.md
 ```
 
-Replace `<name-surname>` with the name and surname of the team member you want to add. Favor lower case names.
+Replace `<lastname-firstname>` with the name and surname of the team member you want to add. Favor lower case names.
 
-This will generate a `<name-surname>.md` file in the `content/team` directory.
+This will generate a `<lastname-firstname>.md` file in the `content/team` directory.
+
+Please use your `last name` **then** `first name` in order to sort how they'll be displayed on the web.
+Please put you name in upper case and first (and middle) name in lower case like in the example bellow.
+
+
 The content of the file will look like this:
 
 ```
 ---
-name: Candide Smith
+name: Candide SMITH
 organization: IRISA
 position: PhD student
 category: member 
@@ -33,7 +38,7 @@ dateOfStay:
 * `name`: (**Mandatory**) Name of the team member, as it should be displayed.
 * `organization`: (**Mandatory**) Current organization to which this team member belongs, for example, Inria.
 * `position`: (**Mandatory**) Position the team member holds in the previous organization. Also used to indicate the succesive positions hold in the team.
-* `category`: (**Optional**) Possible values are: `permanent`, `member`, `alumni`, `former`. Default value is `member`.
+* `category`: (**Optional**) Possible values are: `permanent`, `phd`, `engineer`, `postdoc`, `external`, `alumni`, `former`, `member`. Default value is `member`.
 * `social`: Social profiles for the member. All are optional.
 * `dateOfStay` : (**Optional**) will help to sort the former members
    * `start` : date of arrival in the lab

@@ -1,8 +1,9 @@
 ---
-name: Candide Smith
+# make sure that the file is named <last-name>-<firstname>.md  for sorting
+name: Candide SMITH  # Display name
 organization: IRISA
 position: PhD student
-category: member # Possible values are: [member, alumni, former] default: member
+category: member # Possible values are: [permanent, phd, engineer, postdoc, external, alumni, former, member]
 social:
   home: http://candide.github.io
   twitter: candide-smith
