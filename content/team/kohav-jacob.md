@@ -1,8 +1,8 @@
 ---
 name: Jack Kohav
 organization: INRIA
-position: Research and Development Engineer, CodeCommons
-category: engineer # category: member # Possible values are: [member, alumni, former] default: member
+position: PhD Student
+category: phd
 social:
   home: https://jacobkohav.github.io/
   linkedin: jacob-kohav

@@ -1,7 +1,7 @@
 ---
 name: Stephan Kunne
 organization: INRIA Rennes
-position: Engineer, CodeCommons
+position: Research Engineer, CodeCommons
 category: engineer
 social:
   CodinGame: http://www.codingame.com/profile/9f2646b70e1699fc7b6101dd0b5eb88a5159285
