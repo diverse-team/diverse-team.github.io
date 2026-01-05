@@ -1,8 +1,8 @@
 ---
 name: Kaouter Zohra Kebaili 
-position: Ph.D. Student
+position: Postdoc
 organization: CNRS
-category: phd 
+category: postdoc 
 social:
 dateOfStay: 
     start: 2022
