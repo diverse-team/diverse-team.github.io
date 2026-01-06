@@ -2,7 +2,7 @@
 name: Jolan Philippe
 organization: IRISA
 position: Postdoc
-category: postdoc
+category: former
 social:
   home: http://jolanphilippe.github.io
   twitter: JolanPhilippe

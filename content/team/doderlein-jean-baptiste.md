@@ -1,5 +1,5 @@
 ---
-name: Döderlein Jean-Baptiste
+name: Jean-Baptiste Döderlein
 organization: Université de Rennes
 position: Ph.D. Student
 category: phd
