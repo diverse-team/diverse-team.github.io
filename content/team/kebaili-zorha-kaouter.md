@@ -1,6 +1,6 @@
 ---
 name: Kaouter Zohra Kebaili 
-position: Postdoc
+position: Ph.D. Student, Postdoc
 organization: CNRS
 category: postdoc 
 social:

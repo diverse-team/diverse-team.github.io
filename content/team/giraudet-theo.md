@@ -7,5 +7,5 @@ social:
     linkedin: théo-giraudet
 dateOfStay: 
     start: 2021
-    end: 
+    end: 2026
 ---
