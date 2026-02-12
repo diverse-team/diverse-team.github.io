@@ -1,6 +1,7 @@
 {{ define "content" }}
 {{ $data := newScratch }}
 {{ $data.Set "filter" "phd" }}
+{{ $previousYear := (now.AddDate -1 0 0).Year }}
 
 <!--
     <div class="list-preamble">
@@ -16,7 +17,12 @@
     {{ range (.Pages.GroupByParam "position").Reverse }}
         <ul class="list-unstyled page-list">
         {{ range (.Pages.ByParam "starts").Reverse }}
-            {{ if and (not .Params.private) }}
+            {{ $yearMatch := findRE `\d{4}` .Params.starts }}
+            {{ $startsYear := 0 }}
+            {{ if $yearMatch }}
+                {{ $startsYear = int (index $yearMatch 0) }}
+            {{ end }}
+            {{ if and (not .Params.private) (not .Params.obsolete) (ge $startsYear $previousYear) }}
             <li> {{ .Render "item" }} </li>
             {{ end }}
         {{ end }}

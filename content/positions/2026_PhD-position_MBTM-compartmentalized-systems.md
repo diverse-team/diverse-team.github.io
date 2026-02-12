@@ -9,6 +9,8 @@ contact: Arnaud BLOUIN
 email: arnaud.blouin@irisa.fr
 summary: Develop cutting-edge threat modeling tools for next-generation compartmentalized embedded systems
 pdf: /pdf/2026_PhD-position_MBTM-compartmentalized-systems.pdf
+private: false
+obsolete: false
 ---
 
 &nbsp;
