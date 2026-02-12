@@ -1,68 +1,205 @@
 ---
-title: "PhD (M/F): Model-Based Threat Modeling for Compartmentalized Systems"
+title: "PhD Position (M/F): Model-Based Threat Modeling for Compartmentalized Systems"
 deadline: Spring 2026
 starts: Autumn 2026
 duration: 3 years
 position: PhD
 level: Master's degree or equivalent
-contact: Arnaud BLOUIN, Gurvan LE GUERNIC
+contact: Arnaud BLOUIN
 email: arnaud.blouin@irisa.fr
-summary: Evaluate existing threat modeling tools ability to take into account compartmentalization in system architecture evaluation
+summary: Develop cutting-edge threat modeling tools for next-generation compartmentalized embedded systems
 pdf: /pdf/2026_PhD-position_MBTM-compartmentalized-systems.pdf
 ---
 
-# PhD Project Description
+&nbsp;
 
-From an evaluation point of view, one way to analyze the robustness of systems to cyberattacks is to threat model it. Threat modeling [TC20] is a generic term encompassing various methodologies (STRIDE, PASTA, OCTAVE, TRIKE, …) and tools (Microsoft Threat Modeling Tools, OWASP’s PyTM, OWASP’s ThreatDragon, SPARTA, IriusRisk, …) whose end goal is to identify some threats to the security (confidentiality, integrity and availability) of the analyzed system or data it processes. Threat modeling is more commonly used for, and adapted to, the analysis of large distributed systems, rather than single programs or even embedded systems. During threat modeling, those systems are often abstracted as a set of processes exchanging various data and executed in various networks (or domains) with differing levels of trust. The system abstraction languages used are usually quite simple with only 2 levels (processes executed into domains); and generic elements (processes, data, domains) that are completed by unspecified attributes.
+# 🎯 Join a Cutting-Edge Cybersecurity Research Project
 
-From a design point of view, architecture compartmentalization is an efficient last defense against cyber attacks [Shu+16; Lef+25]. However, it is seldom used, or not to its fullest extent, in the design of security-sensitive embedded systems (or even of the majority of IT systems).
-> « Despite longstanding recognition within the academic sphere and proven effectiveness in seminal industry projects, the adoption of compartmentalization techniques in main-stream software remains inconsistent: compartmentalizing is still far from being a common engineering practice. » Lefeuvre et al. [Lef+25]
+Are you passionate about **cybersecurity**, **software/system architecture**, and **model-based techniques**? We're looking for a talented PhD candidate to tackle one of the most pressing challenges in modern system security: evaluating and promoting compartmentalization in embedded systems.
 
-One of the main reasons for this state of affair is that, except for virtualization and dockerization (which are mostly deployed in large systems for other reasons than security), compartmentalization is not a concept mastered and sufficiently valued by embedded system architects, even of the majority of security-sensitive system architects.
+---
 
-By providing a better evaluation of compartmentalized systems than monolithic ones, threat modeling can play a role in incentivizing the compartmentalization of embedded systems. The goal of this project is to propose a new tool-supported methodology to threat model compartmentalized embedded systems from a precise model of their architecture. The modeling language used to describe the architecture of the embedded system is based on a detailed ontology of compartmentalization to support a precise semantics of compartmentalization allowing the proposed semi-automated threat modeling algorithm to take into account the advantages and limitations of various compartmentalization techniques. The evaluation of the proposed tool-supported methodology consists in a comparison to existing tools on known well-compartmentalized softwares. If time permits, an evaluation will also be performed on a security-sensitive real-world embedded system from the US Naval Research Laboratory.
+## 🔬 The Research Challenge
 
-# Work Environment
+In an era where cyber threats are increasingly sophisticated, **compartmentalization** represents a critical last line of defense against attacks. Despite its proven effectiveness, compartmentalization remains underutilized in embedded system design. Why? Current threat modeling tools simply aren't equipped to properly evaluate compartmentalized architectures.
 
-**IRISA (Research Institute of Computer Science and Random Systems)** is one of France's largest research laboratories in computer science and information technology, with over 850 members. Organized into seven scientific departments, IRISA focuses on key areas such as bioinformatics, system security, software architectures, virtual reality, big data analysis, and artificial intelligence.
+Your mission: **Change this.**
 
-IRISA is part of a dynamic regional ecosystem, recognized for its expertise through international scientific collaborations. Focused on the future of computer science, IRISA plays a key role in digital transformation, cybersecurity, health, environment, transportation, robotics, energy, and AI.
+> *"Despite longstanding recognition within the academic sphere and proven effectiveness in seminal industry projects, the adoption of compartmentalization techniques in main-stream software remains inconsistent: compartmentalizing is still far from being a common engineering practice."*  
+> — Lefeuvre et al. [Lef+25]
 
-The **DiverSE research team** specializes in software engineering techniques for building reliable and efficient applications and systems, focusing on areas such as cybersecurity and LLMs. The team consists of about 15 permanent members (Inria and CNRS researchers, university lecturers, including 3 members of the French University Institute), 15 PhD students, several engineers, and a DGA associate engineer. DiverSE is internationally recognized and maintains strong ties with global, national, and local industries. The team also prides itself on a friendly and engaging work atmosphere.
+---
 
-The position is located in a sector covered by the protection of scientific and technical potential (PPST), and therefore requires, in accordance with the regulations, that your arrival be authorised by the competent authority of the MESR.
+## 🚀 Your Project at a Glance
 
-# Why Join Us?
+You'll develop a **tool-supported methodology** that revolutionizes how we threat model compartmentalized embedded systems. This involves:
 
-**Project Highlights**:
-In addition to the PhD degree itself, this project offers unique opportunities due to its application domain, ambition, international network, and potential impact. It lies at the core of DiverSE's activities and involves close collaboration with practitioners.
+### Core Innovations
 
-**Ambition**:
-While pursuing your PhD degree in Computer Science, you will contribute to improving methods for a task (threat modeling) that international regulations start to require. In an era where security is a strategic concern and system providers need to provide evidences of their product cyber resilience, this project aims to address this challenge directly.
+**1. Comprehensive Ontology Development**  
+Create a formal ontology capturing the features and characteristics of various compartmentalization techniques — from virtualization to process isolation.
 
-**Network**:
-This project involves frequent interactions with partners from the DGA.
+**2. Specialized Modeling Language**  
+Design an Architecture Description Language with rich semantics specifically tailored for compartmentalized systems.
 
-# Benefits
+**3. Semi-Automated Threat Analysis**  
+Build intelligent algorithms that, compared to existing tools, better take into account compartmentalization in the assessment of embedded systems architectures.
 
-* Remote work up to 2 days per week.
-* Partial reimbursement of public transport or sustainable mobility costs.
-* Partial coverage of health insurance costs.
-* Subsidized on-site dining.
-* Free car and bicycle parking; bus stop 5 minutes away; metro station 10 minutes away.
+**4. Real-World Validation**  
+Evaluate your methodology on well-known compartmentalized systems (Qmail, Postfix, OpenSSH) and potentially on security-critical systems from the **US Naval Research Laboratory**.
 
-# Salary
+---
 
-Monthly salary should be equal to or above **€2,200gross** (€1,769 net)
+## 💡 What Makes This Position Unique
 
-# Location
+### **High-Impact Research Domain**
+As international regulations increasingly mandate threat modeling, your work will address a **real and urgent need** in the cybersecurity industry. System providers worldwide need better tools to demonstrate their products' cyber resilience.
 
-**Campus de Beaulieu, IRISA/Inria Rennes**  
-Building 12  
-263 Avenue du Général Leclerc  
+### **Strong Connections**
+- Collaborate directly with the **French Defense Procurement Agency ([DGA](https://www.defense.gouv.fr/dga))**
+- Potential partnerships with international partners of the DiverSE team
+- Evaluation on architectural models of real-world security-sensitive systems
+
+### **Cutting-Edge Technical Stack**
+Work at the intersection of:
+- **System Engineering** — modeling languages, domain-specific languages
+- **Cybersecurity** — threat modeling, compartmentalization, security evaluation
+- **Semi-Formal Methods** — ontologies, semantics, automated reasoning
+
+### **Publication Opportunities**
+Position yourself at the forefront of an emerging research area with excellent potential for high-quality publications at top-tier conferences.
+
+---
+
+## 🏛️ Your Work Environment
+
+### **IRISA: A Premier Research Laboratory**
+
+[IRISA](https://www.irisa.fr/en) (Research Institute of Computer Science and Random Systems) is one of France's **largest computer science research labs**, with over **850 members** contributing to groundbreaking work across seven scientific departments.
+
+**Research Focus Areas:**
+- Bioinformatics
+- System Security & Cybersecurity
+- Software Architectures
+- Virtual Reality
+- Big Data Analysis
+- Artificial Intelligence
+
+IRISA is embedded in a **dynamic regional ecosystem** with strong international collaborations, playing a key role in digital transformation, cybersecurity, health, environment, and robotics.
+
+### **DiverSE Team: Excellence in Software Engineering**
+
+The **[DiverSE research team](https://www.irisa.fr/en/teams/diverse)** specializes in building reliable and efficient applications with a strong focus on:
+- **Cybersecurity**
+- **Large Language Models (LLMs)**
+- **Model-Driven Engineering**
+
+**Team Composition:**
+- ~15 permanent members (Inria, CNRS researchers, university lecturers)
+- 3 members of the prestigious French University Institute
+- ~15 PhD students
+- Multiple research engineers
+- Strong industry partnerships at global, national, and local levels
+
+**What sets DiverSE apart:**
+- ✅ Internationally recognized research excellence
+- ✅ Friendly, collaborative work atmosphere
+- ✅ Direct involvement in impactful projects
+- ✅ Close collaboration with practitioners
+
+---
+
+## 🎓 Ideal Candidate Profile
+
+### **Required Qualifications**
+- Master's degree (or equivalent) in Computer Science, Cybersecurity, System Engineering, or related field
+- Strong interest in cybersecurity and system architecture
+- Excellent analytical and problem-solving skills
+- Good programming and software development abilities
+- Fluency in English (written and spoken)
+
+### **Valuable Skills & Experience**
+- Background in model-based system engineering, ontologies, or formal methods
+- Knowledge of threat modeling methodologies (STRIDE, PASTA, etc.)
+- Experience with security analysis or compartmentalization techniques
+- Familiarity with embedded systems
+- Experience with tool development
+
+---
+
+## 💼 Compensation & Benefits
+
+### **Competitive Salary**
+around **€2,200 gross/month** (approx. **€1,769 net**)
+
+### **Excellent Work-Life Balance**
+- 🏠 **Remote work** up to 2 days per week
+- 🚊 **Partial reimbursement** of public transport costs
+- 🚴 **Sustainable mobility support** (cycling allowance)
+- 🏥 **Partial health insurance coverage**
+- 🍽️ **Subsidized on-site cafeteria**
+
+### **Convenient Location**
+- 🚗 Free car parking
+- 🚲 Free bicycle parking
+- 🚌 Bus stop: 5 minutes away
+- 🚇 Metro station: 10 minutes away
+
+📍 **Location:**  
+Campus de Beaulieu, IRISA/Inria Rennes  
+Building 12, 263 Avenue du Général Leclerc  
 35042 RENNES Cedex, France
 
-# Contacts and PhD advisors
+---
 
-* **Arnaud BLOUIN**, Tenured Associate Professor, INSA Rennes: Arnaud.Blouin@irisa.fr
-* **Gurvan LE GUERNIC**, Research Engineer, DGA: Gurvan.Le_Guernic@inria.fr
+## 📅 Timeline
+
+- **Application Deadline:** Spring 2026
+- **Position Start:** Autumn 2026
+- **Duration:** 3 years (full PhD program)
+
+---
+
+## 📧 How to Apply
+
+We'd love to hear from you! Please contact:
+
+**Dr. Arnaud BLOUIN**  
+Tenured Associate Professor, INSA Rennes  
+📧 arnaud.blouin@irisa.fr
+
+**Dr. Gurvan LE GUERNIC**  
+Research Engineer, DGA  
+📧 Gurvan.Le_Guernic@inria.fr
+
+### **Application Materials**
+Please include:
+- Detailed CV
+- Cover letter explaining your motivation and relevant experience
+- Academic transcripts
+- Contact information for 2-3 references
+- Any relevant publications or projects
+
+---
+
+## 🔒 Security Clearance Note
+
+This position is located in a sector covered by the protection of scientific and technical potential (PPST). In accordance with regulations, your appointment will require authorization by the competent authority of the French Ministry of Higher Education and Research (MESR).
+
+---
+
+## 🌟 Why This PhD Will Transform Your Career
+
+This isn't just a PhD — it's an opportunity to:
+- 🎯 Tackle a **critical gap** in modern cybersecurity
+- 🔬 Work on **internationally recognized** research
+- 🤝 Build a **strong professional network** in defense and cybersecurity
+- 📊 Contribute to work that has the potential to influence **international regulations**
+- 🚀 Position yourself as an **expert** in an emerging field
+- 🏆 Develop skills highly valued in both **academia and industry**
+
+**Join us in making compartmentalization a standard practice in secure system design!**
+
+---
+
+*IRISA and the DiverSE team are committed to diversity and inclusion. We encourage applications from all qualified candidates regardless of background.*
