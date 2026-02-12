@@ -11,7 +11,16 @@ plugins {
 
 hugo {
     // Hugo version
-    version = "0.128.0"
+    version = "0.66.0" // 0.128.0 works with current sources, but GitHub workflows uses 0.66.0
     // Relative path to sources of Hugo site in Gradle project
     sourceDirectory = "."
+    // TO BE REMOVED, or comment, if moving away from old 0.66.0 version
+    windowsDownloadUrl = "https://github.com/gohugoio/hugo/releases/download/v{0}/hugo_extended_{0}_Windows-64bit.zip"
+    linuxDownloadUrl = "https://github.com/gohugoio/hugo/releases/download/v{0}/hugo_extended_{0}_Linux-64bit.tar.gz"
+    macOSDownloadUrl = "https://github.com/gohugoio/hugo/releases/download/v{0}/hugo_extended_{0}_macOS-64bit.tar.gz"
+}
+
+tasks.hugoBuild {
+    // Output directory for build result
+    outputDirectory = new File("$projectDir/public")
 }
