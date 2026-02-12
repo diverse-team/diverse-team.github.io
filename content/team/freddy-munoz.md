@@ -2,7 +2,7 @@
   name: Freddy Munoz
   position: Ph.D. Student
   category: alumni
-dateOfStay: 
+  dateOfStay: 
     start: 2007
     end: 2010
 ---

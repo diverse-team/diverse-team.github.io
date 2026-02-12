@@ -2,7 +2,7 @@
   name: Juan Jose Cadavid Gomez
   position: Ph.D. Student
   category: alumni
-dateOfStay: 
+  dateOfStay: 
     start: 2009
     end: 2012
 ---
