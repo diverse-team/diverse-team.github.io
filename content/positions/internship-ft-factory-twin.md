@@ -3,6 +3,7 @@ title: Development of a Digital and Physical Twin Platform for a Fischertechnik-
 starts: 2026
 duration: 2-5 months
 position: internship
+place: IRISA/Inria Rennes, campus de Beaulieu
 contact: Didier Vojtisek
 email: didier.vojtisek@inria.fr
 summary: The goal of the internship is to extend a Fischertechnik-based cyber-physical platform by improving both its digital twin and physical twin capabilities, and enabling advanced interactions between them.
