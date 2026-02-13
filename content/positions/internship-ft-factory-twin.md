@@ -1,6 +1,6 @@
 ---
 title: Development of a Digital and Physical Twin Platform for a Fischertechnik-based Factory
-starts: 2025
+starts: 2026
 duration: 2-5 months
 position: internship
 contact: Didier Vojtisek
