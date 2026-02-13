@@ -54,8 +54,7 @@ We are looking for a motivated student interested in cyber-physical systems, sof
 
 ### Required skills
 
-* Programming experience (e.g., Java, Python, C#, or similar).
-* Interest in simulation, robotics, or digital twin technologies.
+* Programming experience (e.g., Java, Python, typescript, or similar).
 * Ability to work in a collaborative research environment.
 * Experience with Git-based workflows (GitLab, issues, merge requests, version control).
 
