@@ -39,11 +39,19 @@ In this step the retrieval of the YouTube video list may fail if you do not use 
 ```
 hugo server
 ```
+or with Gradle
+``` bash
+./gradlew hugoServer
+```
 
 6. To obtain the static website, execute the following command instead
 
 ```
 hugo -D
+```
+or with Gradle
+``` bash
+./gradlew hugoBuild
 ```
 
 The website will be created in the `public` directory.
