@@ -1,47 +1,71 @@
 ---
-title:  Development of the physical twin of a Fischertechnik-based factory 
-starts: 2024
+title: Development of a Digital and Physical Twin Platform for a Fischertechnik-based Factory
+starts: 2026
 duration: 2-5 months
 position: internship
-level: (BAC+4 ou BAC+5)
+place: IRISA/Inria Rennes, campus de Beaulieu
 contact: Didier Vojtisek
 email: didier.vojtisek@inria.fr
-summary: Le but du stage est d'améliorer et d'étendre l'implementation d'une usine Fischertechnik dans l'objectif de l'utiliser dans le cadre de travaux autour des jumeaux numériques.
+summary: The goal of the internship is to extend a Fischertechnik-based cyber-physical platform by improving both its digital twin and physical twin capabilities, and enabling advanced interactions between them.
 ---
 
-## Context:
+## Context
 
-The  [MBDO](https://mbdo.github.io) project (Model Based DevOps) aims to provides methodologies and tooling to implement digital twins.
+The [MBDO](https://mbdo.github.io) project (Model Based DevOps) aims to provide methodologies and tooling to implement digital twins.
 
-Goals of digital twins contains: monitoring, deviation detection, failure detection, simulation, planning, automatic or assisted reconfiguration, ...
+Digital twins support various objectives including monitoring, deviation detection, failure detection, simulation, planning, and automatic or assisted reconfiguration.
 
-As a digital twins should represent a physical twin,  
-the DiverSE team has acquired a set of Fischertechnik modules that will act as the physical part.
+As a digital twin must represent a physical system, the DiverSE team has acquired a set of Fischertechnik modules that act as the physical platform. The modules form a Training Factory composed of Vacuum Gripper Robots, Automated High-Bay Warehouse, Conveyor, Multi-Processing Station, and Sorting Line.
 
-The modules creates a Training Factory composed of Vacuum Gripper Robots, Automated HighBayWarehouse, Converyor, MultiProcessing Station, Sorting Line.  
+The actuators and sensors of the modules are driven by several Raspberry Pi devices with IO bus support.
 
-The actuators and sensors of the modules are driven by several RasberryPi with IO bus support.
-
-![](https://www.fischertechnikwebshop.com/image/cache/catalog/fischertechnik/industry2023fotos/554868_Lernfabrik_Training_Factory_Fabrik_24V-3-6-1-500x500.webp)
+The platform is used for research experiments and public demonstrations (e.g., science outreach events such as *Fête de la Science*).
 
 ![The FisherTechnik Platform](/images/projects/mbdo_fishertechnik.jpg)
 
+## Objectives
 
-## Objectives:
+The internship focuses on extending both the **digital twin** and the **physical twin** of the platform, and improving their interaction.
 
+The task list will be adapted depending on the internship duration.
 
-Build a realistic support for the factory machines (ie. Fischertechnik modules) in order to implement various scenarios on different factory configurations.
+### Digital Twin
 
-Task list:
-(The task list will be adapted with respect to the actual internship duration)
+* Port existing 3D factory models to the Godot engine (currently partially implemented in Unity).
+* Adapt and extend 3D models to support interactive simulation.
+* Design and implement APIs and applications to:
 
-- Improve machine controller. The controller acts at the IO level of the engines and sensors and provide a socket based protocol (Ie. improve machine abstraction on top of actuators and sensors,  add more tests (with simulation/mock support)) 
-- Implement a set of orchestration scenarios (Ie. implement tools working on top of the protocol to perform high level scenarios on differents factory layouts)
-- Implement a shopping web application (Ie. implement an orchestration coupled with a web server that provide an end user reservation/buy/)
-- Add MQTT message service to both the controller and orchestation levels. This service will serve as the base interface for monitoring and synchronizing the physical and digital twins. 
-    
-    
+  * reproduce the behavior and movements of the physical twin,
+  * allow direct interaction with the digital twin.
+* Improve the digital platform for realistic visualization and demonstration purposes.
 
-## Candidate
+### Physical Twin
 
-Send an email to Didier Vojtisek
+* Assist in assembling and integrating newly acquired factory machines into the platform.
+* Extend the mission manager with support for conditional actions and more advanced execution logic.
+* Implement additional features improving interactions between the physical and digital twins.
+
+### Expected Outcome
+
+The work will contribute to a research platform used both for experimentation and for public demonstrations of cyber-physical systems and digital twin technologies.
+
+## Candidate Profile
+
+We are looking for a motivated student interested in cyber-physical systems, software engineering, or interactive simulation.
+
+### Required skills
+
+* Programming experience (e.g., Java, Python, typescript, or similar).
+* Ability to work in a collaborative research environment.
+* Experience with Git-based workflows (GitLab, issues, merge requests, version control).
+
+### Appreciated skills
+
+* Experience with 3D engines (Godot, Unity, or similar).
+* Knowledge of distributed systems, IoT, or embedded systems.
+* Experience with web services or API design.
+
+## Application
+
+Send an email to Didier Vojtisek.
+
