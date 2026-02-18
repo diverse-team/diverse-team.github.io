@@ -22,7 +22,7 @@
             {{ if $yearMatch }}
                 {{ $startsYear = int (index $yearMatch 0) }}
             {{ end }}
-            {{ if and (not .Params.private) (not .Params.obsolete) (ge $startsYear $previousYear) }}
+            {{ if and (not .Params.hide) (ge $startsYear $previousYear) }}
             <li> {{ .Render "item" }} </li>
             {{ end }}
         {{ end }}
