@@ -4,4 +4,5 @@ title: Conception d'un meta-modèle (ontologie) d'architectures cryptographiques
 duration: 6-8 months
 starts: Summer 2020
 pdf: /pdf/2020_stage-ete_IDM4AC.pdf
+hide: true
 ---

@@ -1,5 +1,5 @@
-{{ $map := (dict "postdoc" "green" "phd" "blue" "master" "gray" "internship" "red" "engineer" "black") }}
-{{ $style := (default "primary" (index $map .)) }}
+{{ $map := (dict "postdoc" "blue" "phd" "purple" "master" "pink" "internship" "red" "engineer" "orange") }}
+{{ $style := (default "primary" (index $map (. | lower))) }}
 {{ if . }}
     <span class="text-light badge badge-{{ $style }}">{{ . | upper }}</span>
 {{ end }}
