@@ -63,7 +63,7 @@ As international regulations increasingly mandate threat modeling, your work wil
 
 ### **Cutting-Edge Technical Stack**
 Work at the intersection of:
-- **System Engineering** — modeling languages, domain-specific languages
+- **(Model-Based) System Engineering** — (embedded) system architecture, modeling languages, domain-specific languages
 - **Cybersecurity** — threat modeling, compartmentalization, security evaluation
 - **Semi-Formal Methods** — ontologies, semantics, automated reasoning
 
