@@ -3,18 +3,18 @@
     <g transform="translate(250, 75)">
     
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 82px; fill: #da7931" 
-                transform="translate(59,-8)rotate(0)">model</text>
+                style="font-family: Impact; font-size: 82px; fill: #eaa23b" 
+                transform="translate(66,-7)rotate(0)">model</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 46px; fill: #e02424" 
-                transform="translate(-120,24)rotate(0)">modeling</text>
+                style="font-family: Impact; font-size: 46px; fill: #74ba46" 
+                transform="translate(-122,30)rotate(0)">modeling</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 43px; fill: #ec9637" 
-                transform="translate(97,33)rotate(0)">learning</text>
+                style="font-family: Impact; font-size: 43px; fill: #b48742" 
+                transform="translate(142,32)rotate(0)">learning</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 42px; fill: #dc8e37" 
-                transform="translate(-146,-26)rotate(0)">testing</text>
+                style="font-family: Impact; font-size: 42px; fill: #e87733" 
+                transform="translate(-135,-34)rotate(0)">testing</text>
         </g></svg>
