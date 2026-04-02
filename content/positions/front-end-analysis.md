@@ -6,6 +6,7 @@ position: phd
 contact: Arnaud Blouin, Olivier Barais, Djamel-Eddine Khelladi
 email: firstname.last@irisa.fr
 summary: Web front-end, software testing, code analysis, software code history, empirical study, software security, test generation, test amplification, UI coverage
+obsolete: true
 ---
 ## Context
 
