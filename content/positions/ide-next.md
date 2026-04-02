@@ -6,6 +6,7 @@ position: phd
 contact: Arnaud Blouin, Benoit Combemale
 email: prenom.nom@irisa.fr
 summary: domain-specific language, language workbench, IDE, human-computer interaction, DevOps, solution space exploration, user interface
+obsolete: true
 ---
 
 
