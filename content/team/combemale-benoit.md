@@ -1,7 +1,7 @@
 ---
 name: Benoit Combemale
-position: Professor, co-head of the team
-organization: ESIR, Université de Rennes 1
+position: Research Director (Inria) and Full Professor (Univ. Rennes), co-head of the team
+organization: Inria
 category: permanent
 social:
     home: http://combemale.fr/
