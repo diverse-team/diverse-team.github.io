@@ -3,30 +3,22 @@
     <g transform="translate(250, 75)">
     
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 82px; fill: #d8682f" 
-                transform="translate(106,-7)rotate(0)">model</text>
+                style="font-family: Impact; font-size: 82px; fill: #e0a852" 
+                transform="translate(-18,-6)rotate(0)">model</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 46px; fill: #da7931" 
-                transform="translate(-128,12)rotate(0)">modeling</text>
+                style="font-family: Impact; font-size: 42px; fill: #cc812f" 
+                transform="translate(156,31)rotate(0)">testing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 43px; fill: #81d32f" 
-                transform="translate(-111,-30)rotate(0)">learning</text>
+                style="font-family: Impact; font-size: 41px; fill: #71b258" 
+                transform="translate(-119,28)rotate(0)">lines</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 42px; fill: #d49c4a" 
-                transform="translate(69,33)rotate(0)">testing</text>
+                style="font-family: Impact; font-size: 32px; fill: #81c130" 
+                transform="translate(148,-30)rotate(0)">code</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 32px; fill: #55769e" 
-                transform="translate(195,30)rotate(0)">code</text>
-        
-        <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 30px; fill: #81c130" 
-                transform="translate(-67,45)rotate(0)">feature</text>
-        
-        <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 27px; fill: #a2729c" 
-                transform="translate(-185,45)rotate(0)">models</text>
+                style="font-family: Impact; font-size: 30px; fill: #a3495e" 
+                transform="translate(-8,36)rotate(0)">feature</text>
         </g></svg>
