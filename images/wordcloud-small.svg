@@ -3,22 +3,18 @@
     <g transform="translate(250, 75)">
     
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 83px; fill: #93bb3e" 
-                transform="translate(23,-7)rotate(0)">model</text>
+                style="font-family: Impact; font-size: 83px; fill: #a04b62" 
+                transform="translate(-41,-7)rotate(0)">model</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 44px; fill: #cdb25f" 
-                transform="translate(-108,31)rotate(0)">computing</text>
+                style="font-family: Impact; font-size: 44px; fill: #e87733" 
+                transform="translate(94,25)rotate(0)">computing</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 41px; fill: #a5a14a" 
-                transform="translate(-157,-33)rotate(0)">lines</text>
+                style="font-family: Impact; font-size: 44px; fill: #5c80aa" 
+                transform="translate(-144,29)rotate(0)">learning</text>
         
         <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 40px; fill: #da983a" 
-                transform="translate(148,25)rotate(0)">security</text>
-        
-        <text  text-anchor="middle"
-                style="font-family: Impact; font-size: 30px; fill: #af3845" 
-                transform="translate(-177,0)rotate(0)">feature</text>
+                style="font-family: Impact; font-size: 41px; fill: #659b6b" 
+                transform="translate(138,-18)rotate(0)">lines</text>
         </g></svg>
